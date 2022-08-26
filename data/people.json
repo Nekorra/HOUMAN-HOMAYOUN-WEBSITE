@@ -8,11 +8,6 @@
   ],
   "phds": [
     {
-      "name": "test",
-      "research": "test",
-      "img_name": "cat03.jpg"
-    },
-    {
       "name": "Hossein Mohammadi Makrani",
       "research": "Memory for Big Data",
       "img_name": "hosein-218x246.jpg"

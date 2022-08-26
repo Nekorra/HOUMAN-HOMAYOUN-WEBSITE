@@ -8,7 +8,7 @@ sections:
   path: layouts
   label: Layouts
   create: all
-  match: "*"
+  match: "**/*"
 - type: directory
   path: data
   label: Data

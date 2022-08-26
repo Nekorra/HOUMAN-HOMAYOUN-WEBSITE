@@ -73,7 +73,7 @@
 
 <div class="wrapper">
     <div id="slide" class="card" style="background-color: lightgoldenrodyellow;">
-        <img src="{{.Site.BaseURL}}/images/people/personal2-222x260.png" width="150" alt="">
+        <img src="{{.Site.BaseURL}}/images/personal2-222x260.png" width="150" alt="">
         <div id="slide_text">
             <h2 id="slide_heading"><b>{{ .Site.Data.bio.title }}</b></h2>
             <p>{{ truncate 900 .Site.Data.bio.content }}</p>
@@ -105,7 +105,7 @@
                                 {{ range .Site.Data.funding.funds }}
                                     <div style="display: flex; justify-content: center;">
                                         {{ $site := site }}
-                                        <img src="{{$site.BaseURL}}/images/logos/{{ .img_name }}" width=50 height=50 style="width: 50px; padding: 5px; padding-left: 0px;">
+                                        <img src="{{$site.BaseURL}}/images/{{ .img_name }}" width=50 height=50 style="width: 50px; padding: 5px; padding-left: 0px;">
                                         <div>
                                             <b>{{ .timespan }}</b>
                                             <u>${{ .amount }} Grant from {{ .source }}</u>

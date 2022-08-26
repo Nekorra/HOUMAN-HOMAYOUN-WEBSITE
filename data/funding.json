@@ -1,0 +1,94 @@
+{
+    "total": "7,225,000",
+    "funds": [
+        {
+            "timespan": "2017-2018",
+            "amount": "",
+            "source": "Planning IUCRC: Center for Hardware and Embedded System Security and Trust (CHEST)",
+            "purpose": "",
+            "role": "PI",
+            "img_name": "nsf.png"
+        },
+        {
+            "timespan": "2018-2021",
+            "amount": "1.4M",
+            "source": "DARPA",
+            "purpose": "developing Machine Learning Algorithms for Detecting Malware",
+            "role": "PI",
+            "img_name": "darpa.png"
+        },
+        {
+            "timespan": "2017-2020",
+            "amount": "1.8M",
+            "source": "DARPA/AFRL",
+            "purpose": "Hybrid Non-Volatile Logics to Prevent Reverse Engineering",
+            "role": "PI",
+            "img_name": "darpa.png"
+        },
+        {
+            "timespan": "2018-2021",
+            "amount": "500K",
+            "source": "NSF-CNS",
+            "purpose": "Evolution of Computer Vision for Low Power Devices",
+            "role": "Co-PI",
+            "img_name": "nsf.png"
+        },
+        {
+            "timespan": "2018-2019",
+            "amount": "500K",
+            "source": "DARPA/AFRL",
+            "purpose": "3D-Split of Obfuscation and Authentication of logic",
+            "role": "Co-PI",
+            "img_name": "darpa.png"
+        },
+        {
+            "timespan": "2016-2017",
+            "amount": "75K",
+            "source": "NIST",
+            "purpose": "Persistence and Extraction of Digital Artifacts from Embedded Systems",
+            "role": "Co-PI",
+            "img_name": "nist.png"
+        },
+        {
+            "timespan": "2015-2018",
+            "amount": "288K",
+            "source": "NSF-CNS",
+            "purpose": "Study Heterogeneous Architecture Design for Emerging Wearable Biomedical Applications",
+            "role": "PI",
+            "img_name": "nsf.png"
+        },
+        {
+            "timespan": "2015-2017",
+            "amount": "330K",
+            "source": "DARPA",
+            "purpose": "Reconfigurable STT LUT Logic to Improve Power Efficiency",
+            "role": "PI",
+            "img_name": "darpa.png"
+        },
+        {
+            "timespan": "2013-2018",
+            "amount": "995K",
+            "source": "NSF-CPS",
+            "purpose": "a Novel Biomechatronic Interface Based on Wearable Dynamic Imaging Sensors",
+            "role": "Co-PI",
+            "img_name": "nsf.png"
+        },
+        {
+            "timespan": "2013-2016",
+            "amount": "261K",
+            "source": "General Motors Corporation",
+            "purpose": "a study of security vulnerability in automotive multimedia systems",
+            "role": "Co-PI",
+            "img_name": "gm.png"
+        },
+        {
+            "timespan": "2010-2012",
+            "amount": "280K",
+            "source": "NSF CRA CI Fellow Program",
+            "purpose": "a study of Heterogeneous Architecture in 3D",
+            "role": "PI",
+            "img_name": "nsf.png"
+        }
+    
+    ]
+}

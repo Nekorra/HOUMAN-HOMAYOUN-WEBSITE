@@ -1,0 +1,59 @@
+{{ define "style" }}
+<style>
+    p {
+        color: #666666;
+    }
+
+    ul.a {
+        list-style: circle;
+        color: #1B4F72;
+    }
+
+    ul.b {
+        list-style: circle;
+        color: #666666;
+    }
+
+    #download {
+        color: #666666;
+        text-decoration: underline;
+    }
+
+    #mygallery {
+        display: grid;
+        align-items: center;
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+        grid-gap: 1rem;
+    }
+</style>
+{{ end }}
+
+{{ define "main" }}
+<div class="wrapper row3">
+    <div class="rounded">
+        <main class="container clear">
+            <h1 style="font-size:18px">
+                <center><a id="download" href="{{.Site.BaseURL}}/files/CV.pdf">Download CV</a></center>
+            </h1>
+            <br>
+            <center>
+                <header class="heading" style="color: #666666;"> 
+                    List of Collaborators and Sponsors of My Research
+                </header>
+            </center>
+            
+            <div id="mygallery">
+                {{ $url := "/images/sponsors/" }}
+                {{ $site := site }}
+                {{ range (readDir "/static/images/sponsors") }}
+                    <a class="nlb" data-lightbox-gallery="gallery1">
+                        <img class="borderedbox" src="{{$site.BaseURL}}/{{$url}}{{.Name}}">
+                    </a>
+                {{ end }}
+            </div>
+            
+            <div class="clear"></div>
+        </main>
+    </div>
+</div>
+{{ end }}

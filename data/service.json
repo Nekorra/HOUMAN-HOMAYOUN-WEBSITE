@@ -1,0 +1,85 @@
+{
+    "Journal Editorial Board": [
+        "Associate Editor, IEEE Transactions on VLSI, TVLSI, 2016-"
+    ],
+    "Proceeding Chair": [
+        "ACM Great Lake Symposium on VLSI (GLSVLSI 2017)."
+    ],
+    "Technical Program Committee": [
+        "IEEE International Parallel & Distributed Processing Symposium (IPDPS-2018).",
+        "Design, Automation & Test in Europe Conference (DATE-2018).",
+        "IEEE Design, Automation & Test in Europe Conference (DATE 2017).",
+        "IEEE/ACM Design Automation Conference (DAC 2017).",
+        "International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES 2017).",
+        "International Conference on Hardware/Software Codesign and System Synthesis (CODES-ISSS 2017).",
+        "ACM International Conference on Computing Frontiers (CF 2017).",
+        "International Symposium on Hardware Oriented Security and Trust (HOST 2017).",
+        "Euromicro Conference on Digital System Design (DSD-2017).",
+        "The 35th IEEE International Conference on Computer Design (ICCD-2017).",
+        "The 8th Green and Sustainable Computing Conference (IGSC-2017).",
+        "Workshop on Attacks and Solutions in Hardware Security (ASHES-CCS-2017).",
+        "IEEE International Symposium on Performance Analysis of Systems & Software (ISPASS 2016).",
+        "IEEE/ACM Design Automation Conference (DAC 2016).",
+        "IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM 2016).",
+        "International Conference on Hardware/Software Codesign and System Synthesis (CODES-ISSS 2017).",
+        "ACM Great Lakes Symposium on VLSI, (GLSVLSI 2016).",
+        "IEEE International Conference on Computer Design (ICCD 2016).",
+        "IEEE/ACM Design Automation Conference (DAC 2015).",
+        "ACM Great Lakes Symposium on VLSI, (GLSVLSI 2015).",
+        "International GREEN and SUSTAINABLE COMPUTING Conference (IGSC-2015).",
+        "IEEE International Conference on Computer Design, (ICCD 2015).",
+        "IEEE International Symposium on Quality Electronic Design (ISQED-2015).",
+        "IEEE International Conference on Computer Design, (ICCD 2014).",
+        "IEEE/ACM Great Lake Symposium on VLSI (GLSVLSI-2014).",
+        "International Green Computing Conference (IGCC-2014, 2013).",
+        "IEEE International Symposium on Quality Electronic Design (ISQED-2014, 2013, 2012, 2011).",
+        "IEEE International Symposium on Low Power Electronics Design (ISLPED-2012).",
+        "ACM International Conference on Computing Frontiers (CF-2011).",
+        "IEEE International Conference on Computer Systems and Applications (AICCSA-2011)."
+    ],
+    "Publicity Chair": [
+        "IEEE International Conference on Big Data (IEEE BigData-2016).",
+        "IEEE Global Communications Conference (GLOBECOM-2016)."
+    ],
+    "Special Session Organizer": [
+        "Harnessing the Power of Big Data - Computing Technology to Transform Big Data into Insight, CODES-ISSS 2016.",
+        "A Uniform Approach to Heterogeneity, Design Automation Conference DAC 2014."
+    ],
+    "Conference Program Track Co-Chair": [
+        "International Symposium on Quality Electronic Design, (ISQED 2015), System-level Design and Methodologies (SDM)."
+    ],
+    "Conference Web Chair": [
+        "International Symposium on Performance Analysis of Systems and Software, ISPASS 2016.",
+        "International Symposium on Performance Analysis of Systems and Software, ISPASS 2015."
+    ],
+    "Program Session Chair/Co-Chair": [
+        "IEEE/ACM Great Lake Symposium on VLSI (GLSVLSI-2014).",
+        "IEEE International Symposium on Quality Electronic Design (ISQED 2014, 2013).",
+        "International Symposium on Low Power Electronics and Design (ISLPED-2012).",
+        "IEEE International Conference on Computer Design (ICCD-2008)."
+    ],
+    "External Reviewer of Conference Papers": [
+        "International Symposium on Computer Architecture (ISCA).",
+        "International Symposium on High-Performance Computer Architecture (HPCA).",
+        "Design, Automation & Test in Europe (DATE).",
+        "International Conference on Parallel Architectures and Compilation Techniques (PACT).",
+        "International Conference on Supercomputing (ICS).",
+        "International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES).",
+        "The ACM International Conference on Computing Frontiers (CF).",
+        "International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD).",
+        "IEEE International Symposium on Low Power Electronics Design (ISLPED)."
+    ],
+    "External Reviewer of Journal Papers": [
+        "ACM Transactions on Embedded Computing Systems (TECS).",
+        "ACM Transactions on Design Automation of Electronic Systems (TODAES).",
+        "IEEE Transactions on COMPUTER-AIDED DESIGN of Integrated Circuits and Systems (TCAD).",
+        "The International Journal of Parallel Programming (IJPP).",
+        "The IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI).",
+        "The IEEE Transactions on Computers (TC).",
+        "The IEEE Computer Architecture Letters (CAL).",
+        "IEEE Transactions on Parallel and Distributed Systems (TPDS).",
+        "ACM Transactions on Architecture and Code Optimization (TACO).",
+        "IEEE Transactions on Parallel and Distributed Systems (TPDS).",
+        "IEEE Embedded Systems Letters (ESL)."
+    ]
+}

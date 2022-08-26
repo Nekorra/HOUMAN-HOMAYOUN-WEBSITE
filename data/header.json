@@ -1,0 +1,34 @@
+[
+    {
+        "path": "",
+        "title": "Home"
+    },
+    {
+        "path": "publications",
+        "title": "Publication"
+    },
+    {
+        "path": "research",
+        "title": "Research"
+    },
+    {
+        "path": "cv",
+        "title": "Tech/IP Consulting"
+    },
+    {
+        "path": "goal",
+        "title": "ASEEC Lab"
+    },
+    {
+        "path": "students",
+        "title": "Students"
+    },
+    {
+        "path": "teaching",
+        "title": "Teaching"
+    },
+    {
+        "path": "service",
+        "title": "Service"
+    }
+]

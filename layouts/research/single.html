@@ -1,0 +1,73 @@
+{{ define "style" }}
+<style type="text/css">
+    p {
+        color: black;
+    }
+
+    #table {
+        display: flex; 
+        flex-direction: column; 
+        background-color: white;
+        padding: 10px;
+    }
+
+    #research_row {
+        display: flex; 
+        flex-direction: row; 
+        align-items: center;
+    }
+
+    #res_first {
+        width: 27%;
+    }
+
+    #res_second {
+        width: 73%; 
+        border-bottom-style: solid; 
+        border-width: 1px;
+    }
+
+    @media screen and (min-width:180px) and (max-width:900px) {
+        #research_row {
+            flex-direction: column;
+        }
+
+        #res_first {
+            width: 100%;
+        }
+
+        #res_second {
+            width: 100%;
+        }
+    }
+</style>
+{{ end }}
+
+{{ define "main" }}
+<div class="wrapper row3">
+    <div class="rounded">
+        <main class="container clear">
+            <div id="table">
+                {{ range .Site.Data.research }}
+                <div id="research_row">
+                    <div id="res_first">
+                        {{ $site := site }}
+                        {{ if not (eq .img_name "") }}
+                            <img src="{{$site.BaseURL}}/images/slides/{{ .img_name }}" alt="research" />
+                        {{ end }}
+                    </div>
+                    <div id="res_second">
+                        <p>
+                            {{ if not (eq .title "") }}
+                                <strong>{{ .title }}</strong><br><br>
+                            {{ end }}
+                            {{ .content }}
+                        </p>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </main>
+    </div>
+</div>
+{{ end }}

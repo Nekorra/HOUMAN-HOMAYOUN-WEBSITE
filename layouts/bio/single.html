@@ -1,0 +1,19 @@
+{{ define "style" }}
+<style>
+    #bio_heading {
+        color: black;
+    }
+    #bio_text {
+        color: black;
+    }
+</style>
+{{ end }}
+
+{{ define "main" }}
+<div class="wrapper row3">
+    <div>
+        <h1 id="bio_heading">{{ .Site.Data.bio.title }}</h1>
+        <p id="bio_heading">{{ .Site.Data.bio.content }}</p>
+    </div>
+</div>
+{{ end }}

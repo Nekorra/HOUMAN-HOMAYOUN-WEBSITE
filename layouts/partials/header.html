@@ -1,0 +1,135 @@
+<!-- ################################################################################################ -->
+
+<style>
+    .wide {
+        width: 100%;
+    }
+
+    .padded {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .column {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    #title {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    #header {
+        display: flex;
+        background-color: white;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px;
+    }
+
+    .padded {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .header_heading {
+        color: #1B3E68;
+        font-size: 2em;
+        margin-bottom: 0px;
+    }
+
+    .header_subheading {
+        color: gray;
+        margin-bottom: 0px;
+    }
+
+    .header_button {
+        padding-top: 0.75em !important;
+        padding-bottom: 0.75em !important;
+    }
+
+    #header_nav_bar {
+        line-height: 24px; 
+        background-color: #1B4F72; 
+        font-size: 14px; 
+        border-bottom: #DAAA00 solid;
+        margin: 0px;
+        margin-bottom: 20px;
+    }
+
+    #header_logo {
+        width: 200px;
+    }
+
+    @media screen and (min-width:180px) and (max-width:900px) {
+        #mainav {
+            color: black;
+            padding: 10px;
+        }
+
+        #header {
+            flex-direction: column;
+        }
+
+        .header_heading {
+            font-size: 1.5em;
+        }
+
+        #header_logo {
+            width: 100px;
+        }
+    }
+</style>
+
+<header id="header" class="wide clear">
+    <div id="title" >
+        <img id="header_logo" alt="logo" src="{{.Site.BaseURL}}/images/ECE75percent500w.jpg" class="padded" />
+        <div class="column">
+            <h1 class="header_heading">
+                {{ upper .Site.Data.contact.name }}
+            </h1>
+            <h2 class="header_subheading">
+                {{ .Site.Data.contact.title }}
+            </h2>
+        </div>
+    </div>
+    <div class="header_subheading">
+        {{ .Site.Data.contact.office }}
+        <br />
+        Email: <a href="mailto:{{ .Site.Data.contact.email }}" target="_top">{{ .Site.Data.contact.email }}</a>
+        <br />
+        Phone: {{ .Site.Data.contact.phone }}
+    </div>
+</header>
+
+<!-- ################################################################################################ -->
+
+<div class="padded wide" id="header_nav_bar">
+    {{ $title := upper .Title }}
+    {{ $site := site }}
+    <nav id="mainav" class="clear">
+        <ul class="clear">
+            {{ range .Site.Data.header }}
+                {{ $path := upper .path }}
+                {{ $same := eq $path $title }}
+                {{ if or $same (and (eq $path "") (eq $title "MY NEW HUGO SITE")) }}
+                    <li class="active header_button"><a href="{{$site.BaseURL}}/{{ .path }}">{{ .title }}</a></li>
+                {{ else }}
+                    <li><a class="header_button" href="{{$site.BaseURL}}/{{ .path }}">{{ .title }}</a></li>
+                {{ end }}
+            {{ end }}
+        </ul>
+        <form>
+            <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+                <option selected="selected" value>MENU</option>
+                {{ range .Site.Data.header }}
+                    <option value="/{{ .path }}">{{ .title }}</option>
+                {{ end }}
+            </select>
+        </form>
+    </nav>
+</div>

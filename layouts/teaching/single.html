@@ -1,0 +1,41 @@
+{{ define "style" }}
+<style type="text/css">
+    .container .group {
+        text-align: center;
+    }
+
+    .container .group div {
+        padding: 8px 0;
+        font-size: 16px;
+        font-family: Verdana, Geneva, sans-serif;
+    }
+
+    .container .group div:nth-child(odd) {
+        color: #FFFFFF;
+        background: #CCCCCC;
+    }
+
+    .container .group div:nth-child(even) {
+        color: #FFFFFF;
+        background: #979797;
+    }
+
+    @media screen and (min-width:180px) and (max-width:900px) {
+        .container .group div {
+            margin-bottom: 0;
+        }
+    }
+</style>
+{{ end }}
+
+{{ define "main" }}
+<div class="wrapper row3">
+    <em style="color: #666666" class="heading"> <b>Teaching</b></em>
+    <hr>
+    <p style="color: #666666">
+        {{ range .Site.Data.teaching }}
+        {{ . }} <br>
+        {{ end }}
+    </p>
+</div>
+{{ end }}

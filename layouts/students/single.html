@@ -1,0 +1,288 @@
+{{ define "style" }}
+<style>
+    p {
+        color: #666666;
+    }
+
+    ul.a {
+        list-style: circle;
+        color: #1B4F72;
+    }
+
+    ul.b {
+        list-style: circle;
+        color: #666666;
+    }
+
+    .img-circle {
+        border-radius: 50%;
+        margin-right: 30px;
+        min-width: 200px;
+    }
+
+    .zui-table {
+        border: solid 1px #DDEEEE;
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+
+    .zui-table thead th {
+        border: solid 1px #DDEEEE;
+        color: #336B6B;
+        padding: 10px;
+        text-align: left;
+        text-shadow: 1px 1px 1px #fff;
+    }
+
+    .zui-table tbody td {
+        border: solid 1px #DDEEEE;
+        color: #333;
+        padding: 10px;
+        text-shadow: 1px 1px 1px #fff;
+    }
+
+    .zui-table-rounded {
+        border: none;
+    }
+
+    .zui-table-rounded thead th {
+        background-color: #CFAD70;
+        border: none;
+        text-shadow: 1px 1px 1px #ccc;
+        color: #333;
+    }
+
+    .zui-table-rounded thead th:first-child {
+        border-radius: 15px 0 0 0;
+    }
+
+    .zui-table-rounded thead th:last-child {
+        border-radius: 0 15px 0 0;
+    }
+
+    .zui-table-rounded tbody td {
+        border: none;
+        border-top: solid 1px #957030;
+    }
+
+    .zui-table-rounded tbody tr:last-child td:first-child {
+        border-radius: 0 0 0 15px;
+    }
+
+    .zui-table-rounded tbody tr:last-child td:last-child {
+        border-radius: 0 0 15px 0;
+    }
+
+    #mygallery {
+        display: grid;
+        align-items: center;
+        grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
+        grid-gap: 1rem;
+    }
+
+    #people_row {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+
+    #homayoun_col {
+        min-width: 200px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-right: 20px;
+    }
+
+    @media screen and (min-width:180px) and (max-width:900px) {
+        #people_row {
+            flex-direction: column;
+        }
+    }
+</style>
+{{ end }}
+
+{{ define "main" }}
+<div class="wrapper row3">
+    <div class="rounded">
+        <main class="container clear">
+
+            <table style="border:hidden" class="zui-table zui-table-rounded" width="400" border="0" cellspacing="2"
+                cellpadding="2">
+                <tr>
+                    <div id="people_row">
+                        <div id="homayoun_col">
+                            <img class="img-circle" src="{{.Site.BaseURL}}/images/people/personal2-222x260.png" alt="lab-director">
+                            <p style="font-size:150%;">Houman Homayoun</p>
+                            <p style="font-size:200%;">Director</p>
+                        </div>
+                        <div style="max-width: 655px;">
+                            <img src="{{.Site.BaseURL}}/images/IMG_0125.JPG" alt="">
+                        </div>
+                    </div>
+                </tr>
+            </table>
+
+            <br>
+            <h1 style="font-size:200%;">Post-Docs</h1>
+            <div id="mygallery">
+                {{ range .Site.Data.people.post_docs }}
+                    <div>
+                        <a class="nlb" data-lightbox-gallery="gallery1">
+                            <a data-toggle="tooltip" title="{{ .name }}">
+                                </br>
+                                <div style="min-width: 200px; min-height: 200px;">
+                                    <img src="{{.Site.BaseURL}}/images/people/{{ .img_name }}" alt="" class="img-circle">
+                                </div>
+                            </a>
+                            <p>
+                                {{ .name }}
+                                </br>
+                                Research: {{ .research }}
+                            </p>
+                        </a>
+                    </div>
+                {{ end }}
+            </div>
+
+            <br>
+            <h1 style="font-size:200%;">PhD Students</h1>
+            <div id="mygallery">
+                {{ $site := site }}
+                {{ range .Site.Data.people.phds }}
+                <div>
+                    <a class="nlb" data-lightbox-gallery="gallery1">
+                        <a data-toggle="tooltip" title="{{ .name }}">
+                            </br>
+                            <div style="min-width: 200px; min-height: 200px;">
+                                <img src="{{$site.BaseURL}}/images/people/{{ .img_name }}" alt="" class="img-circle">
+                            </div>
+                        </a>
+                        <p>
+                            {{ .name }}
+                            </br>
+                            Research: {{ .research }}
+                        </p>
+                    </a>
+                </div>
+                {{ end }}
+            </div>
+
+            <br>
+            <h1 style="font-size:200%;">Master Students</h1>
+            <div id="mygallery">
+                {{ $site := site }}
+                {{ range .Site.Data.people.masters }}
+                <div>
+                    <a class="nlb" data-lightbox-gallery="gallery1">
+                        <a data-toggle="tooltip" title="{{ .name }}">
+                            </br>
+                            <div style="min-width: 150px; min-height: 150px;">
+                                <img src="{{$site.BaseURL}}/images/people/{{ .img_name }}" alt="" class="img-circle">
+                            </div>
+                        </a>
+                        <p>
+                            {{ .name }}
+                            </br>
+                            Research: {{ .research }}
+                        </p>
+                    </a>
+                </div>
+                {{ end }}
+            </div>
+
+            </br></br>
+            <h1 style="font-size:200%;">Undergraduate Students</h1>
+            <table style="border:hidden" class="zui-table zui-table-rounded" width="400" border="0" cellspacing="2"
+                cellpadding="2">
+                {{ range $i, $name := .Site.Data.people.undergraduates }}
+                {{ if modBool $i 2 }}
+                <tr>
+                    <td>{{ $name }}</td>
+                    {{ else }}
+                    <td>{{ $name }}</td>
+                </tr>
+                {{ end }}
+                {{ end }}
+            </table>
+
+            </br></br>
+            <h1 style="font-size:200%;">Post-Doc Alumni</h1>
+            <table style="border:hidden" class="zui-table zui-table-rounded" width="400" border="0" cellspacing="2"
+                cellpadding="2">
+                {{ $site := site }}
+                {{ range .Site.Data.people.post_doc_alumni }}
+                    <div id="people_row" style="border-bottom: black solid 1px; margin-bottom: 20px;">
+                        <div>
+                            <img class="img-circle" src="{{$site.BaseURL}}/images/people/{{ .img_name }}" alt="">
+                        </div>
+                        <div>
+                            <p style="font-size:140%;">
+                            <p style="font-size:140%;"> {{ .name }}<br><br></p>
+                            <p style="font-size:120%;">Current job: {{ .job }}</p>
+                        </div>
+                    </div>
+                {{ end }}
+            </table>
+
+            </br></br>
+            <h1 style="font-size:200%;">PhD Alumni</h1>
+            <table style="border:hidden" class="zui-table zui-table-rounded" width="400" border="0" cellspacing="2"
+                cellpadding="2">
+                {{ $site := site }}
+                {{ range .Site.Data.people.phd_alumni }}
+                    <div id="people_row" style="border-bottom: black solid 1px; margin-bottom: 20px;">
+                        <div>
+                            <img class="img-circle" src="{{$site.BaseURL}}/images/people/{{ .img_name }}" alt="">
+                        </div>
+                        <div>
+                            <p style="font-size:140%;">
+                            <p style="font-size:140%;"> {{ .name }}<br><br></p>
+                            <p style="font-size:120%;line-height: 200%;">PhD Thesis: {{ .thesis }} </p>
+                            <p style="font-size:120%;">Current job: {{ .job }}</p>
+                        </div>
+                    </div>
+                {{ end }}
+            </table>
+
+            </br></br>
+            <h1 style="font-size:200%;">MS Alumni</h1>
+            <table style="border:hidden" class="zui-table zui-table-rounded" width="400" border="0" cellspacing="2"
+                cellpadding="2">
+                {{ $site := site }}
+                {{ range .Site.Data.people.ms_alumni }}
+                    <div id="people_row" style="border-bottom: black solid 1px; margin-bottom: 20px;">
+                        <div>
+                            <img class="img-circle" src="{{$site.BaseURL}}/images/people/{{ .img_name }}" alt="">
+                        </div>
+                        <div>
+                            <p style="font-size:140%;">
+                            <p style="font-size:140%;"> {{ .name }}<br><br></p>
+                            <p style="font-size:120%;line-height: 200%;">MS Thesis: {{ .thesis }} </p>
+                            <p style="font-size:120%;">Current job: {{ .job }}</p>
+                        </div>
+                    </div>
+                {{ end }}
+            </table>
+
+            </br></br>
+            <h1 style="font-size:200%;">Undergraduate Students</h1>
+            <table style="border:hidden" class="zui-table zui-table-rounded" width="400" border="0" cellspacing="2"
+                cellpadding="2">
+                {{ range $i, $name := .Site.Data.people.undergrad_alumni }}
+                {{ if modBool $i 2 }}
+                <tr>
+                    <td>{{ $name }}</td>
+                    {{ else }}
+                    <td>{{ $name }}</td>
+                </tr>
+                {{ end }}
+                {{ end }}
+            </table>
+
+        </main>
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,581 @@
+<html>
+
+<head><script src="/~hhomayou/livereload.js?mindelay=10&amp;v=2&amp;port=8080&amp;path=~hhomayou/livereload" data-no-instant defer></script>
+    <title>Houman Homayoun Home Page</title>
+
+    <style>
+        div {
+            display: inline-block;
+            padding: 0px;
+            margin: 0;
+            white-space: 0;
+        }
+    </style>
+
+    
+<style type="text/css">
+    .container .group {
+        text-align: center;
+    }
+
+    .container .group div {
+        padding: 8px 0;
+        font-size: 16px;
+        font-family: Verdana, Geneva, sans-serif;
+    }
+
+    .container .group div:nth-child(odd) {
+        color: #FFFFFF;
+        background: #CCCCCC;
+    }
+
+    .container .group div:nth-child(even) {
+        color: #FFFFFF;
+        background: #979797;
+    }
+
+    @media screen and (min-width:180px) and (max-width:900px) {
+        .container .group div {
+            margin-bottom: 0;
+        }
+    }
+
+    ul.a {
+        list-style: circle;
+        color: #1B4F72;
+    }
+
+    ul.b {
+        list-style: circle;
+        color: #666666;
+    }
+</style>
+
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta charset="UTF-8"/>
+    <link href="//localhost:8080/~hhomayou//styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+
+<body id="top">
+    
+
+<style>
+    .wide {
+        width: 100%;
+    }
+
+    .padded {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .column {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    #title {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    #header {
+        display: flex;
+        background-color: white;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px;
+    }
+
+    .padded {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .header_heading {
+        color: #1B3E68;
+        font-size: 2em;
+        margin-bottom: 0px;
+    }
+
+    .header_subheading {
+        color: gray;
+        margin-bottom: 0px;
+    }
+
+    .header_button {
+        padding-top: 0.75em !important;
+        padding-bottom: 0.75em !important;
+    }
+
+    #header_nav_bar {
+        line-height: 24px; 
+        background-color: #1B4F72; 
+        font-size: 14px; 
+        border-bottom: #DAAA00 solid;
+        margin: 0px;
+        margin-bottom: 20px;
+    }
+
+    #header_logo {
+        width: 200px;
+    }
+
+    @media screen and (min-width:180px) and (max-width:900px) {
+        #mainav {
+            color: black;
+            padding: 10px;
+        }
+
+        #header {
+            flex-direction: column;
+        }
+
+        .header_heading {
+            font-size: 1.5em;
+        }
+
+        #header_logo {
+            width: 100px;
+        }
+    }
+</style>
+
+<header id="header" class="wide clear">
+    <div id="title" >
+        <img id="header_logo" alt="logo" src="//localhost:8080/~hhomayou//images/ECE75percent500w.jpg" class="padded" />
+        <div class="column">
+            <h1 class="header_heading">
+                HOUMAN HOMAYOUN
+            </h1>
+            <h2 class="header_subheading">
+                Associate Professor
+            </h2>
+        </div>
+    </div>
+    <div class="header_subheading">
+        Office: 2154, Kemper Hall
+        <br />
+        Email: <a href="mailto:hhomayoun@ucdavis.edu" target="_top">hhomayoun@ucdavis.edu</a>
+        <br />
+        Phone: (530) 752-0583
+    </div>
+</header>
+
+
+
+<div class="padded wide" id="header_nav_bar">
+    
+    
+    <nav id="mainav" class="clear">
+        <ul class="clear">
+            
+                
+                
+                
+                    <li><a class="header_button" href="//localhost:8080/~hhomayou//">Home</a></li>
+                
+            
+                
+                
+                
+                    <li><a class="header_button" href="//localhost:8080/~hhomayou//publications">Publication</a></li>
+                
+            
+                
+                
+                
+                    <li><a class="header_button" href="//localhost:8080/~hhomayou//research">Research</a></li>
+                
+            
+                
+                
+                
+                    <li><a class="header_button" href="//localhost:8080/~hhomayou//cv">Tech/IP Consulting</a></li>
+                
+            
+                
+                
+                
+                    <li class="active header_button"><a href="//localhost:8080/~hhomayou//goal">ASEEC Lab</a></li>
+                
+            
+                
+                
+                
+                    <li><a class="header_button" href="//localhost:8080/~hhomayou//students">Students</a></li>
+                
+            
+                
+                
+                
+                    <li><a class="header_button" href="//localhost:8080/~hhomayou//teaching">Teaching</a></li>
+                
+            
+                
+                
+                
+                    <li><a class="header_button" href="//localhost:8080/~hhomayou//service">Service</a></li>
+                
+            
+        </ul>
+        <form>
+            <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+                <option selected="selected" value>MENU</option>
+                
+                    <option value="/">Home</option>
+                
+                    <option value="/publications">Publication</option>
+                
+                    <option value="/research">Research</option>
+                
+                    <option value="/cv">Tech/IP Consulting</option>
+                
+                    <option value="/goal">ASEEC Lab</option>
+                
+                    <option value="/students">Students</option>
+                
+                    <option value="/teaching">Teaching</option>
+                
+                    <option value="/service">Service</option>
+                
+            </select>
+        </form>
+    </nav>
+</div>
+
+    
+<div class="wrapper">
+    <img src="//localhost:8080/~hhomayou//images/goal-lab.png" alt="goal-lab-logo">
+</div>
+
+<div class="wrapper row3">
+    <div id="slide-wrapper" class="rounded clear">
+        <main class="container clear">
+            <em style="color:#666666" class="heading"> <b>Welcome to ASEEC Lab</b></em>
+            <p style="color:#666666"> <p>The Accelerated, Secure, and Energy-Efficient Computing Lab (ASEEC), in the Electrical and Computer Engineering Department of the George Mason University, under the direction of Dr. Houman Homayoun, is a center for the investigation of Secure, Energy-Efficient, and High Performance Computer Architecture Design. The group pursues experimental research in the areas of big data computing, hardware security and trust, hardware accelerator for machine learning analytics, heterogeneous architecture design, developing energy-efficient algorithms for emerging big data applications, accelerating big data computing, emerging memory technologies for big data, and mapping and scheduling applications into heterogeneous architectures.</p>
+ </p>
+                
+            <div class="wrapper">
+                <img src="//localhost:8080/~hhomayou//images/IMG_0132.JPG" alt="goal-lab-photo">
+            </div>
+
+            <p style="color:#C60"> <strong>NEWS!</strong></p>
+            <ul class="a" style="color:#666666">
+                
+                    <p style="color:#C60"><strong>2019</strong></p>
+
+                    
+                        <li>January, two papers on hardware security and obfuscation, and adversarial machine learning accepted in DAC 2019 </li>
+                    
+                
+                    <p style="color:#C60"><strong>2018</strong></p>
+
+                    
+                        <li>December, Arezou Koohi successfully defended her PhD dissertations </li>
+                    
+                        <li>October, Jeremy Muldavin from DoD OSD visited ECE department and ASEEC lab </li>
+                    
+                        <li>October, two papers on IoT security and malware detection accepted in DATE 2019 </li>
+                    
+                        <li>September, SMT attack accepted in CHES 2019 August, Maria Malik and Katayoun Neshatpour successfully defended their dissertations. Maria joined Intel, and Katayoun joined Cadence </li>
+                    
+                        <li>August, A successful Planning Grant Meeting of NSF Center for Hardware and Embedded Systems Security and Trust (CHEST) @ GMU, 100&#43; participants from 6 member universities, more than 30 government research labs and lead industries in cybersecurity </li>
+                    
+                        <li>May, Maria Malik received 2018 ECE Department Outstanding Academic Achievement Award </li>
+                    
+                        <li>July, Member of Advisory Committee, Cybersecurity Research and Technology Commercialization (R&amp;TC) working group, Commonwealth of Virginia </li>
+                    
+                        <li>July, Special session on Adversarial Machine Learning at ICCAD 2018 </li>
+                    
+                        <li>July, Invited talk on machine learning acceleration at ASPDAC 2019 </li>
+                    
+                        <li>August, Several papers accepted in ASPDAC, SoCC, CHES, FCCM, MEMSYS, ASAP, and CGRID 2018 </li>
+                    
+                        <li>July, Two journals on HW security and IoT accepted in TODAES Special issue on Internet of Things System Performance, Reliability, and Security </li>
+                    
+                        <li>July, Two journals on big data computing topic accepted in TOMPECS and TMSCS </li>
+                    
+                        <li>June, Serving in advisory Committee, Research and Technology Commercialization (R&amp;TC), Cybersecurity working group, Commonwealth of Virginia </li>
+                    
+                        <li>March, paper on design space exploration of mapreduce accepted in FCCM 2018 </li>
+                    
+                        <li>February, paper on ensemble learning malware detection accepted in DAC 2018 </li>
+                    
+                
+                    <p style="color:#C60"><strong>2017</strong></p>
+
+                    
+                        <li>December, NSF funded planning IUCRC GMU: Center for Hardware and Embedded System Security and Trust (CHEST), will be serving as PI </li>
+                    
+                        <li>December, Katayoun Neshatpour, PhD student at ASEEC lab will be joining Cadence in Spring 2018 </li>
+                    
+                        <li>December, Professor Jack Sampson from Penn State visited ASEEC lab </li>
+                    
+                        <li>November, ICNN paper: An Iterative Implementation of Convolutional Neural Networks accepted in DATE 2018 </li>
+                    
+                        <li>October, Sai Manoj Pudukotai DinakarRao joined us as postdoc from TU Wien </li>
+                    
+                        <li>October, Professor Walid Najjar from UCR visited ASEEC lab </li>
+                    
+                        <li>October, Serving as TPC member for HOST, DAC, and IPDPS 2018 </li>
+                    
+                        <li>October, Professor Sandip Kundu from NSF/UMass Amherst visited ASEEC lab </li>
+                    
+                        <li>September, Serving as TPC program Co-Chair for GLSVLSI 2018 in Chicago! </li>
+                    
+                        <li>September, paper on scheduling multithreaded applications to composite cores accepted in ICCD 2017 </li>
+                    
+                        <li>September, paper on power conversion efficiency aware task scheduling in heterogeneous architectures accepted in ASPDAC 2018 </li>
+                    
+                        <li>September, 6 journals accepted in TVLSI (4), TMSCS, and JETC </li>
+                    
+                        <li>September, a new project recommended for funding by DARPA on Developing Machine Learning Algorithms for Detecting Malware </li>
+                    
+                        <li>August, 4 new PhD students joined ASEEC lab </li>
+                    
+                        <li>August, 6 new MS students joined ASEEC lab to work towards thesis </li>
+                    
+                        <li>August, A new exciting project by NSF-CNS on accelerating convolutional neural networks </li>
+                    
+                        <li>August, 3 papers accepted in IISWC 2017 on DRAM for big data, co-scheduling big data applications, and system level modeling for cloud architectures </li>
+                    
+                        <li>July, An invited paper and talk on memory requirements of big data at IGSC 2017 conference </li>
+                    
+                        <li>June, New exciting project recommended for funding by DARPA on 3D-Split of Obfuscation and Authentication of logic </li>
+                    
+                        <li>May, Paper on big data acceleration and compressed sensing accepted in TECS </li>
+                    
+                        <li>May, Paper on Reformulation of Peak Current Reduction accepted in ISLPED 2017 </li>
+                    
+                        <li>March, A new exciting project on hardware security proof of concept in 14nm </li>
+                    
+                        <li>March, Journal on voltage regulator design accepted in TVLSI </li>
+                    
+                        <li>February, Paper on hardware performance counter for security accepted in DAC 2017 </li>
+                    
+                        <li>February, Serving as TPC member for ICCD 2017. February, Congrats to Maria for receiving provost summer fellowship </li>
+                    
+                        <li>January, Serving on CASES and CODES ISSS TPC </li>
+                    
+                
+                    <p style="color:#C60"><strong>2016</strong></p>
+
+                    
+                        <li>December, Serving as an Associate Editor for Transactions on VLSI </li>
+                    
+                        <li>November, Two papers on big data computing accepted in DATE 2017 conference </li>
+                    
+                        <li>October, Serving as TPC member for HOST, DAC, DATE, and CF </li>
+                    
+                        <li>September, Patent on logical vanishable design to prevent reverse engineering </li>
+                    
+                        <li>July, Organizing a special session on heterogeneous architectures and big data in CODES-ISSS 2016 </li>
+                    
+                        <li>May, Maria joined Intel for summer intern. Katayoun joined USC ISI for summer intern </li>
+                    
+                        <li>May, Received the Best Paper award of GLSVLSI 2016 on heterogeneous accelerator for wearable biomedical computing </li>
+                    
+                        <li>May, Presenting an invited talk on heterogeneous architecture and big data in computing frontiers 2016 </li>
+                    
+                        <li>May, Visited KIT and gave a talk on accelerating big data analytics </li>
+                    
+                        <li>May, Visited Politecnico Di Milano and gave a talk on heterogeneous architectures for big data </li>
+                    
+                        <li>May, Visited TU Dresden and gave a talk on accelerating big data analytics </li>
+                    
+                        <li>April, Paper on embedded vision processing accepted in ISVLSI 2016 </li>
+                    
+                        <li>March, Paper on reconfigurable logic accepted in ICCD 2016 </li>
+                    
+                        <li>February, Paper on STT-CMOS Hybrid Designs for Reverse-engineering Prevention accepted in DAC 2016 conference </li>
+                    
+                        <li>January, Paper on Characterizing Hadoop Applications on Microservers accepted in ISPASS 2016 </li>
+                    
+                
+                    <p style="color:#C60"><strong>2015</strong></p>
+
+                    
+                        <li>October, Long Paper on Hadoop Big Data Acceleration Presented at IEEE Big Data </li>
+                    
+                        <li>October, Long Paper on Big Vs Little Core for Hadoop Kernels Presented in IEEE Big Data </li>
+                    
+                        <li>October, Paper on Big Data Characterization on Little Core Presented at ICCD 2015 </li>
+                    
+                        <li>October, Paper on Tuning Edge Detection on Commodity Embedded Platforms Presented at ICCD </li>
+                    
+                        <li>October, Paper on Wide I/O vs HMC presented at ICCD 2015 </li>
+                    
+                        <li>October, Serving on ISPASS 2016 TPC </li>
+                    
+                        <li>October, Paper on Manycore On Chip Power Delivery Presented at ICCD 2015 </li>
+                    
+                        <li>October, Serving on DAC 2016 TPC </li>
+                    
+                        <li>October, $288K Grant from NSF CNS to Study Heterogeneous Architecture Design for Emerging Wearable Biomedical Applications </li>
+                    
+                        <li>September, $330K Grant from DARPA to study Reconfigurable STT LUT Logic to Improve Power Efficiency </li>
+                    
+                        <li>September, Two Papers Accepted at IEEE Big Data 2015 </li>
+                    
+                        <li>September, Four New PhD Students Joined ASEEC Lab </li>
+                    
+                        <li>July, Four Papers Accepted at ICCD 2015 </li>
+                    
+                        <li>March, Paper on Big Data Acceleration Using FPGAs accepted in FCCM 2015 </li>
+                    
+                        <li>March, Paper accepted in Computing Frontiers 2015 </li>
+                    
+                        <li>March, Paper on Hadoop Acceleration using ZYNQ accepted in CCGRID 2015 </li>
+                    
+                        <li>February, Paper on dynamic heterogeneity accepted in DAC 2015 </li>
+                    
+                        <li>February, Paper on 3D HMC Memory Management accepted in GLSVLSI 2015 </li>
+                    
+                        <li>February, Paper on Inverse Thermal Dependant accepted in GLSVLSI 2015 </li>
+                    
+                        <li>October, Serving on DAC 2015 Embedded Systems Track TPC </li>
+                    
+                        <li>October, Invited Talk at IBM TJ Watson on Big Data Computing </li>
+                    
+                        <li>September, Congrats to Maria, Katayoun and Mohammad for passing the PhD qualifying exam </li>
+                    
+                        <li>July, Paper on Phase Change Material Modeling for Temperature Management accepted in ICCD 2014 </li>
+                    
+                        <li>June, Invited paper on Enabling Dynamic Heterogeneity Through Core on Core Stacking in DAC 2014 </li>
+                    
+                        <li>June, Paper on Hybrid STT-RAM Cache accepted in IGCC 2014 </li>
+                    
+                        <li>April, Paper on Mapping Biomedical Applications to Many-core accelerators accepted in ISLPED 2014 </li>
+                    
+                        <li>January, Organizing a special session on Heterogeneous Architectures, Accelerators, Tools, and Workloads in DAC 2014 Conference </li>
+                    
+                
+                    <p style="color:#C60"><strong>2014</strong></p>
+
+                    
+                        <li>November, Adarsh&#39;s Paper on Non-volatile Logic Accepted at DATE conference </li>
+                    
+                        <li>November, I am Presenting a Tutorial on Dynamic Heterogeneous Architecture in DATE conference </li>
+                    
+                        <li>October, Paper on Probabilistic Write for STT-RAMs presented at ICCD 2013 conference </li>
+                    
+                        <li>September, we have 6 new PhD-student lab members! </li>
+                    
+                        <li>August, $995K award from NSF Cyber Physical System program </li>
+                    
+                        <li>July, $261K award from General Motors for Security Project </li>
+                    
+                        <li>June, Paper on Resistive Computation: A Critique accepted at computer architecture letter </li>
+                    
+                        <li>June, Tutorial on Dynamic Heterogeneous Architecture will be presented at DAC 2013 </li>
+                    
+                        <li>May, Keynote talk on Future of Heterogeneous Architecture at United States Patent and Trademark Office (USPTO) </li>
+                    
+                        <li>May, Paper on Reliability in NUCA cache accepted at IGCC 2013 </li>
+                    
+                        <li>March, Invited talk at Virgina Tech Center for Embedded Systems for Critical Applications (CESCA) </li>
+                    
+                        <li>February, Paper on 3D multicore lifetime reliability accepted at DAC 2013 </li>
+                    
+                        <li>September, paper on Heterogeneous 3D DRAM accepted at ASP-DAC 2013 </li>
+                    
+                        <li>February, Paper Accepted at ISCA 2012 </li>
+                    
+                        <li>February, Tutorial on System-Level Exploration of Power, Temperature, and Performance accepted at DAC 2012 </li>
+                    
+                
+                    <p style="color:#C60"><strong>2013</strong></p>
+
+                    
+                        <li>December, Serving on the TPC of ISLPED 2012 </li>
+                    
+                        <li>December, Serving on the TPC of 2011 ACM conference of Computing Frontiers </li>
+                    
+                        <li>December, Serving on the TPC of 2011 IEEE-ISQED </li>
+                    
+                        <li>November, Paper on &#34;3D Heterogeneous Cores&#34; Accepted at HPCA 2012 </li>
+                    
+                        <li>November, Paper on &#34;Inquisitive Defect Cache&#34; appeared in TVLSI </li>
+                    
+                        <li>November, Paper on &#34;MZZ-HVS peripherals&#34; appeared in TVLSI </li>
+                    
+                        <li>November, Paper on &#34;Centralized Power Management&#34; appeared in TVLSI </li>
+                    
+                        <li>November, Paper on &#34;Hot Peripheral Thermal Management&#34; Accepted at ISQED 2012 </li>
+                    
+                        <li>November, Paper on &#34;History &amp; Variation Trained Cache&#34; Accepted at ISQED 2012 </li>
+                    
+                        <li>November, Invited talk on &#34;Flexible Fault-Tolerant Cache Architecture&#34; at 2011 SOC Conference </li>
+                    
+                        <li>November, Doctoral Dissertation nominated for ACM Dissertation award </li>
+                    
+                        <li>November, talk on &#34;multiple sleep modes design&#34; at Arizona State University </li>
+                    
+                        <li>November, Invited talk on &#34;resource adaptation for power management&#34; at 2010 SOC Conference </li>
+                    
+                        <li>November, Paper on &#34;multi copy cache architecture for reliability&#34; appeared in CASES 2010 </li>
+                    
+                        <li>October, Serving on the TPC of 2012 IEEE-ISQED </li>
+                    
+                        <li>October, Paper on &#34;FFT-Cache&#34; appeared in CASES 2011 </li>
+                    
+                        <li>October, Paper on &#34;Reliability-Aware Placement in SRAM-based FPGA&#34; appeared in CODES-ISSS 2011 </li>
+                    
+                        <li>September, Serving on the TPC of 2011 IEEE-AICCSA </li>
+                    
+                        <li>September, paper on &#34;multiple sleep mode design&#34; accepted in TVLSI </li>
+                    
+                
+            </ul>
+        </main>
+    </div>
+</div>
+
+
+    <style>
+    .wide {
+        width: 100%;
+    }
+
+    #footer {
+        background-color: #1B4F72;
+    }
+</style>
+
+<div id="footer" class="wide">
+    <p style="color:#CCC; text-align:center;"> College of Engineering, University of
+        California Davis </p>
+</div>
+
+    
+    <script src="//localhost:8080/~hhomayou//layout/scripts/jquery.min.js"></script>
+    <script src="//localhost:8080/~hhomayou//layout/scripts/jquery.fitvids.min.js"></script>
+    <script src="//localhost:8080/~hhomayou//layout/scripts/jquery.mobilemenu.js"></script>
+
+    
+    <script type="text/javascript">
+        var sc_project = 6478164;
+        var sc_invisible = 1;
+        var sc_security = "bd19e744";
+        var scJsHost = (("https:" == document.location.protocol) ?
+            "https://secure." : "http://www.");
+        document.write("<sc" + "ript type='text/javascript' src='" +
+            scJsHost +
+            "statcounter.com/counter/counter.js'></" + "script>");
+    </script>
+    <noscript>
+        <div class="statcounter"><a title="shopify visitor
+statistics" href="http://statcounter.com/shopify/" target="_blank"><img class="statcounter"
+                    src="http://c.statcounter.com/6478164/0/bd19e744/1/" alt="shopify visitor statistics"></a></div>
+    </noscript>
+    
+
+</body>
+
+</html>

@@ -1,173 +1,180 @@
 {
-    "director": {
-        "name": "Houman Homayoun",
-        "img_name": "personal2-222x260.png"
+  "director": {
+    "name": "Houman Homayoun",
+    "img_name": "personal2-222x260.png"
+  },
+  "post_docs": [
+
+  ],
+  "phds": [
+    {
+      "name": "test",
+      "research": "test",
+      "img_name": "cat03.jpg"
     },
-    "post_docs": [],
-    "phds": [
-        {
-            "name": "Hossein Mohammadi Makrani",
-            "research": "Memory for Big Data",
-            "img_name": "hosein-218x246.jpg"
-        },
-        {
-            "name": "Ted Winograd",
-            "research": "Hardware Security",
-            "img_name": "ted-230x262.jpg"
-        },
-        {
-            "name": "Ashkan Vakil",
-            "research": "Hardware Security",
-            "img_name": "Ashkan_vakil1.jpg"
-        },
-        {
-            "name": "Han (Jane) Wang",
-            "research": "Machine Learning for Big Data",
-            "img_name": "Jane Wang.JPG"
-        },
-        {
-            "name": "Gaurav Kolhe",
-            "research": "",
-            "img_name": "guarav-kolhi_resized.jpg"
-        },
-        {
-            "name": "Rakibul Hassan",
-            "research": "Computer System Security",
-            "img_name": "rakib_h.jpg"
-        },
-        {
-            "name": "Abhijit Dhalve",
-            "research": "",
-            "img_name": ""
-        }
-    ],
-    "masters": [
-        {
-            "name": "Sutej Kulkarni",
-            "research": "Machine Learning for Side Channel",
-            "img_name": ""
-        },
-        {
-            "name": "Mina Neronde",
-            "research": "Malware Detection on Android Devices",
-            "img_name": ""
-        }
-    ],
-    "undergraduates": [
-        "Tatiana Rodriguez",
-        "Michael Reyes",
-        "Henry Pham",
-        "Mingyu Kim",
-        "Jimmy Mejia",
-        "Narek Vanetsyan",
-        "Steven Wu",
-        "Alexander Tran",
-        "David Andritsis",
-        "Chris Hall",
-        "William Johnson",
-        "Shayan Mahmoudi",
-        "Dong Pham",
-        "Ismael Khalique",
-        "Dai Dinh",
-        "Daniel Pham"
-    ],
-    "post_doc_alumni": [
-        {
-            "name": "Sai Manoj Pudukotai DinakarRao",
-            "job": "Assistant Professor, George Mason University",
-            "img_name": "sai-postdoc.jpg"
-        }
-    ],
-    "phd_alumni": [
-        {
-            "name": "Maria Malik",
-            "thesis": "Characterization of Computing Intensive Biomedical Application and Big Data Benchmarking.",
-            "job": "Cloud Software Engineer, Intel Corporation",
-            "img_name": "maria2-223x229.jpg"
-        },
-        {
-            "name": "Katayoun Neshatpour",
-            "thesis": "Machine Learning Acceleration",
-            "job": "Machine Learning and Computer Vision Engineer, Cadence Design Systems",
-            "img_name": "katayoun-220x252.jpg"
-        },
-        {
-            "name": "Arezou Koohi",
-            "thesis": "Big Biomedical Computing",
-            "job": "MITRE ",
-            "img_name": "Arezou.jpg"
-        },
-        {
-            "name":  "Hossein Sayyadi",
-            "thesis": "Mapping and Scheduling - Security",
-            "job": "Assistant Professor, California State University, Long Beach",
-            "img_name": "hossein-223x308.jpg"
-        }
-    ],
-    "ms_alumni": [
-        {
-            "name": "Sara Bondi",
-            "thesis": "Vision Accelerator",
-            "job": "Boeing",
-            "img_name": "sara-bondi.jpg"
-        },
-        {
-            "name":  "Devang Motwani",
-            "thesis": "Wearable Computing",
-            "job": "Joby Aviation",
-            "img_name": "Dewang.jpg"
-        },
-        {
-            "name":  "Onkar Mahadev Randive",
-            "thesis": "Processor Architecture Security",
-            "job": "Software Engineer at Qualcomm",
-            "img_name": "onkar.jpg"
-        },
-        {
-            "name":  "Sammy Lin",
-            "thesis": "FPGA Accelerator Modeling",
-            "job": "Embedded Systems Designer at the Aerospace Corporation.",
-            "img_name": "Sammy.jpg"
-        },
-        {
-            "name":  "Gaurav Kolhe",
-            "thesis": "SAT Attack Modeling",
-            "job": "",
-            "img_name": "guarav-kolhi_resized.jpg"
-        },
-        {
-            "name":  "Saurabh Satish Deshpande",
-            "thesis": "Machine Learning Acceleration",
-            "job": "Software Engineer at MathWorks",
-            "img_name": "Saurabh.jpg"
-        },
-        {
-            "name":  "Abhimanyu Chopra",
-            "thesis": "Optimal Allocation of Computation in IoT Network",
-            "job": "Software Engineer at Machfu Inc",
-            "img_name": "Abhimanyu.jpg"
-        },
-        {
-            "name":  "Gaurav Shenoy",
-            "thesis": "Implementation And Evaluation Of Sat-Based Attacks On Hybrid STT-CMOS Circuits For Reverse Engineering",
-            "job": "Firmware Engineer at SK Hynix Memory Solutions",
-            "img_name": "gaurav-228x241.jpg"
-        },
-        {
-            "name":  "Matthew Drummond",
-            "thesis": "Power and Performance Characterization of Splash2 Benchmarks on Heterogeneous Architecture",
-            "job": "Software Engineer at Boeing",
-            "img_name": "MattDrummond-231x251.png"
-        },
-        {
-            "name":  "Adarsh Reddy",
-            "thesis": "Dynamic Functional Unit Reconfiguration using STT-RAM based Logic for Improving Performance and Mitigating Temperature Rise in Processor Architecture",
-            "job": "Software Engineer at Narvar",
-            "img_name": "Untitled-229x274.jpg"
-        }
-    ],
-    "undergrad_alumni": [
-        "Osaze Sheer",
-        "Nima Namazi"
-    ]
+    {
+      "name": "Hossein Mohammadi Makrani",
+      "research": "Memory for Big Data",
+      "img_name": "hosein-218x246.jpg"
+    },
+    {
+      "name": "Ted Winograd",
+      "research": "Hardware Security",
+      "img_name": "ted-230x262.jpg"
+    },
+    {
+      "name": "Ashkan Vakil",
+      "research": "Hardware Security",
+      "img_name": "Ashkan_vakil1.jpg"
+    },
+    {
+      "name": "Han (Jane) Wang",
+      "research": "Machine Learning for Big Data",
+      "img_name": "Jane Wang.JPG"
+    },
+    {
+      "name": "Gaurav Kolhe",
+      "research": "",
+      "img_name": "guarav-kolhi_resized.jpg"
+    },
+    {
+      "name": "Rakibul Hassan",
+      "research": "Computer System Security",
+      "img_name": "rakib_h.jpg"
+    },
+    {
+      "name": "Abhijit Dhalve",
+      "research": "",
+      "img_name": ""
+    }
+  ],
+  "masters": [
+    {
+      "name": "Sutej Kulkarni",
+      "research": "Machine Learning for Side Channel",
+      "img_name": ""
+    },
+    {
+      "name": "Mina Neronde",
+      "research": "Malware Detection on Android Devices",
+      "img_name": ""
+    }
+  ],
+  "undergraduates": [
+    "Tatiana Rodriguez",
+    "Michael Reyes",
+    "Henry Pham",
+    "Mingyu Kim",
+    "Jimmy Mejia",
+    "Narek Vanetsyan",
+    "Steven Wu",
+    "Alexander Tran",
+    "David Andritsis",
+    "Chris Hall",
+    "William Johnson",
+    "Shayan Mahmoudi",
+    "Dong Pham",
+    "Ismael Khalique",
+    "Dai Dinh",
+    "Daniel Pham"
+  ],
+  "post_doc_alumni": [
+    {
+      "name": "Sai Manoj Pudukotai DinakarRao",
+      "job": "Assistant Professor, George Mason University",
+      "img_name": "sai-postdoc.jpg"
+    }
+  ],
+  "phd_alumni": [
+    {
+      "name": "Maria Malik",
+      "thesis": "Characterization of Computing Intensive Biomedical Application and Big Data Benchmarking.",
+      "job": "Cloud Software Engineer, Intel Corporation",
+      "img_name": "maria2-223x229.jpg"
+    },
+    {
+      "name": "Katayoun Neshatpour",
+      "thesis": "Machine Learning Acceleration",
+      "job": "Machine Learning and Computer Vision Engineer, Cadence Design Systems",
+      "img_name": "katayoun-220x252.jpg"
+    },
+    {
+      "name": "Arezou Koohi",
+      "thesis": "Big Biomedical Computing",
+      "job": "MITRE ",
+      "img_name": "Arezou.jpg"
+    },
+    {
+      "name": "Hossein Sayyadi",
+      "thesis": "Mapping and Scheduling - Security",
+      "job": "Assistant Professor, California State University, Long Beach",
+      "img_name": "hossein-223x308.jpg"
+    }
+  ],
+  "ms_alumni": [
+    {
+      "name": "Sara Bondi",
+      "thesis": "Vision Accelerator",
+      "job": "Boeing",
+      "img_name": "sara-bondi.jpg"
+    },
+    {
+      "name": "Devang Motwani",
+      "thesis": "Wearable Computing",
+      "job": "Joby Aviation",
+      "img_name": "Dewang.jpg"
+    },
+    {
+      "name": "Onkar Mahadev Randive",
+      "thesis": "Processor Architecture Security",
+      "job": "Software Engineer at Qualcomm",
+      "img_name": "onkar.jpg"
+    },
+    {
+      "name": "Sammy Lin",
+      "thesis": "FPGA Accelerator Modeling",
+      "job": "Embedded Systems Designer at the Aerospace Corporation.",
+      "img_name": "Sammy.jpg"
+    },
+    {
+      "name": "Gaurav Kolhe",
+      "thesis": "SAT Attack Modeling",
+      "job": "",
+      "img_name": "guarav-kolhi_resized.jpg"
+    },
+    {
+      "name": "Saurabh Satish Deshpande",
+      "thesis": "Machine Learning Acceleration",
+      "job": "Software Engineer at MathWorks",
+      "img_name": "Saurabh.jpg"
+    },
+    {
+      "name": "Abhimanyu Chopra",
+      "thesis": "Optimal Allocation of Computation in IoT Network",
+      "job": "Software Engineer at Machfu Inc",
+      "img_name": "Abhimanyu.jpg"
+    },
+    {
+      "name": "Gaurav Shenoy",
+      "thesis": "Implementation And Evaluation Of Sat-Based Attacks On Hybrid STT-CMOS Circuits For Reverse Engineering",
+      "job": "Firmware Engineer at SK Hynix Memory Solutions",
+      "img_name": "gaurav-228x241.jpg"
+    },
+    {
+      "name": "Matthew Drummond",
+      "thesis": "Power and Performance Characterization of Splash2 Benchmarks on Heterogeneous Architecture",
+      "job": "Software Engineer at Boeing",
+      "img_name": "MattDrummond-231x251.png"
+    },
+    {
+      "name": "Adarsh Reddy",
+      "thesis": "Dynamic Functional Unit Reconfiguration using STT-RAM based Logic for Improving Performance and Mitigating Temperature Rise in Processor Architecture",
+      "job": "Software Engineer at Narvar",
+      "img_name": "Untitled-229x274.jpg"
+    }
+  ],
+  "undergrad_alumni": [
+    "Osaze Sheer",
+    "Nima Namazi"
+  ]
 }

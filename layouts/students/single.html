@@ -134,7 +134,7 @@
                             <a data-toggle="tooltip" title="{{ .name }}">
                                 </br>
                                 <div style="min-width: 200px; min-height: 200px;">
-                                    <img src="{{.Site.BaseURL}}/images/people/{{ .img_name }}" alt="" class="img-circle">
+                                    <img src="{{.Site.BaseURL}}/images/{{ .img_name }}" alt="" class="img-circle">
                                 </div>
                             </a>
                             <p>
@@ -157,7 +157,7 @@
                         <a data-toggle="tooltip" title="{{ .name }}">
                             </br>
                             <div style="min-width: 200px; min-height: 200px;">
-                                <img src="{{$site.BaseURL}}/images/people/{{ .img_name }}" alt="" class="img-circle">
+                                <img src="{{$site.BaseURL}}/images/{{ .img_name }}" alt="" class="img-circle">
                             </div>
                         </a>
                         <p>
@@ -180,7 +180,7 @@
                         <a data-toggle="tooltip" title="{{ .name }}">
                             </br>
                             <div style="min-width: 150px; min-height: 150px;">
-                                <img src="{{$site.BaseURL}}/images/people/{{ .img_name }}" alt="" class="img-circle">
+                                <img src="{{$site.BaseURL}}/images/{{ .img_name }}" alt="" class="img-circle">
                             </div>
                         </a>
                         <p>
@@ -216,7 +216,7 @@
                 {{ range .Site.Data.people.post_doc_alumni }}
                     <div id="people_row" style="border-bottom: black solid 1px; margin-bottom: 20px;">
                         <div>
-                            <img class="img-circle" src="{{$site.BaseURL}}/images/people/{{ .img_name }}" alt="">
+                            <img class="img-circle" src="{{$site.BaseURL}}/images/{{ .img_name }}" alt="">
                         </div>
                         <div>
                             <p style="font-size:140%;">
@@ -235,7 +235,7 @@
                 {{ range .Site.Data.people.phd_alumni }}
                     <div id="people_row" style="border-bottom: black solid 1px; margin-bottom: 20px;">
                         <div>
-                            <img class="img-circle" src="{{$site.BaseURL}}/images/people/{{ .img_name }}" alt="">
+                            <img class="img-circle" src="{{$site.BaseURL}}/images/{{ .img_name }}" alt="">
                         </div>
                         <div>
                             <p style="font-size:140%;">
@@ -255,7 +255,7 @@
                 {{ range .Site.Data.people.ms_alumni }}
                     <div id="people_row" style="border-bottom: black solid 1px; margin-bottom: 20px;">
                         <div>
-                            <img class="img-circle" src="{{$site.BaseURL}}/images/people/{{ .img_name }}" alt="">
+                            <img class="img-circle" src="{{$site.BaseURL}}/images/{{ .img_name }}" alt="">
                         </div>
                         <div>
                             <p style="font-size:140%;">

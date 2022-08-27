@@ -1,7 +1,6 @@
 ---
-title: "Students"
-date: 2020-11-02T12:53:50-08:00
-draft: false
-type: "students"
----
+title: Students
+date: 2020-11-02T12:53:50.000-08:00
+type: students
 
+---

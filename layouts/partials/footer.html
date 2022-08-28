@@ -12,14 +12,3 @@
     <p style="color:#CCC; text-align:center;"> College of Engineering, University of
         California Davis </p>
 </div>
-<script>
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
-        if (!user) {
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
-          });
-        }
-      });
-    }
-  </script>

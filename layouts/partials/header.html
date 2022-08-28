@@ -84,7 +84,9 @@
         }
     }
 </style>
-
+<head>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
 <header id="header" class="wide clear">
     <div id="title" >
         <img id="header_logo" alt="logo" src="{{.Site.BaseURL}}/images/ECE75percent500w.jpg" class="padded" />
@@ -127,7 +129,7 @@
             <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
                 <option selected="selected" value>MENU</option>
                 {{ range .Site.Data.header }}
-                    <option value="/{{ .path }}">{{ .title }}</option>
+                    <option value="{{$site.BaseURL}}/{{ .path }}">{{ .title }}</option>
                 {{ end }}
             </select>
         </form>

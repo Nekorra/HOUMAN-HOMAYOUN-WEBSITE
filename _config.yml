@@ -2,9 +2,6 @@
 title: Houman Homayoun Website
 timezone: UTC
 collections:
-  data:
-    title: Data
-    output: true
   posts:
     title: Posts
     output: true

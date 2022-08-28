@@ -1,7 +1,7 @@
 ---
-title: "Publications"
-date: 2020-10-26T21:44:11-07:00
+title: Publications
+date: 2020-10-27 04:44:11 Z
 draft: false
-type: "publications"
+type: publications
 ---
 

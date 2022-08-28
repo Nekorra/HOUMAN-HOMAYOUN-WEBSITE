@@ -1,7 +1,7 @@
 ---
-title: "Teaching"
-date: 2020-11-02T20:34:29-08:00
+title: Teaching
+date: 2020-11-03 04:34:29 Z
 draft: false
-type: "teaching"
+type: teaching
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Biographical Sketch"
-date: 2020-11-02T21:19:22-08:00
+title: Biographical Sketch
+date: 2020-11-03 05:19:22 Z
 draft: false
-type: "bio"
+type: bio
 ---
 
 Houman Homayoun is currently an Associate Professor in the Department of Electrical and Computer Engineering at University of California, Davis. Prior to that he was an Associate Professor in the Department of Electrical and Computer Engineering at George Mason University (GMU). From 2010 to 2012, he spent two years at the University of California, San Diego, as NSF Computing Innovation (CI) Fellow awarded by the CRA-CCC. Houman graduated in 2010 from University of California, Irvine with a Ph.D. in Computer Science. He was a recipient of the four-year University of California, Irvine Computer Science Department chair fellowship. Houman received the MS degree in computer engineering in 2005 from University of Victoria and BS degree in electrical engineering in 2003 from Sharif University of Technology. He is currently the director of UC Davis Accelerated, Secure, and Energy-Efficient Computing Laboratory (ASEEC).  Houman conduct research in hardware security and trust, data-intensive computing and heterogeneous computing, where he has published more than 100 technical papers in the prestigious conferences and journals on the subject and directed over $8M in research funding from NSF, DARPA, AFRL, NIST and various industrial sponsors. He received several best paper awards and nominations in various conferences including GLSVLSI 2016, ICCAD 2019, and ICDM 2019. Houman served as Member of Advisory Committee, Cybersecurity Research and Technology Commercialization (R&TC) working group in the Commonwealth of Virginia in 2018. Since 2017 he has been serving as an Associate Editor of IEEE Transactions on VLSI. He was the technical program co-chair of GLSVLSI 2018 and the general chair of 2019 conference.

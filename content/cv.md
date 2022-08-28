@@ -1,7 +1,7 @@
 ---
-title: "Cv"
-date: 2020-10-28T11:50:14-07:00
+title: Cv
+date: 2020-10-28 18:50:14 Z
 draft: false
-type: "cv"
+type: cv
 ---
 

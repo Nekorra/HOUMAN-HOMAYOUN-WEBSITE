@@ -53,7 +53,7 @@
                     <div id="res_first">
                         {{ $site := site }}
                         {{ if not (eq .img_name "") }}
-                            <img src="{{$site.BaseURL}}/images/slides/{{ .img_name }}" alt="research" />
+                            <img src="{{$site.BaseURL}}/images/{{ .img_name }}" alt="research" />
                         {{ end }}
                     </div>
                     <div id="res_second">

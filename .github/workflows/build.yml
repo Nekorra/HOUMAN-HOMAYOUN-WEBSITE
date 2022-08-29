@@ -37,8 +37,8 @@ jobs:
         with:
           submodules: recursive
       - name: build
-        run: hugo
         run : |
+          hugo
           git config user.email "action@github.com"
           git config user.name "GitHub Actions"
           git add --all

@@ -45,7 +45,6 @@ jobs:
         with:
           source_file: 'public'
           destination_repo: 'Nekorra/HOUMAN-HOMAYOUN-WEBSITE-BUILD'
-          destination_folder: 'public'
           user_email: 'abhisrin@gmail.com'
           user_name: 'Nekorra'
           commit_message: 'Automatic Build To build'

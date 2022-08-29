@@ -17,7 +17,6 @@ on:
 jobs:
   build_and_push:
     runs-on: ubuntu-latest
-
     # Steps represent a sequence of tasks that will be executed as part of the job
       steps:
       - name: Install Hugo CLI
@@ -30,8 +29,8 @@ jobs:
         with:
           submodules: recursive
       - name: build
-        - run: hugo
-        - run : |
+          run: hugo
+          run : |
         git config user.email "action@github.com"
         git config user.name "GitHub Actions"
         git add --all

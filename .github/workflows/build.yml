@@ -31,13 +31,13 @@ jobs:
           with:
             submodules: recursive
         - name: build
-            run: hugo
-            run : |
-              git config user.email "action@github.com"
-              git config user.name "GitHub Actions"
-              git add --all
-              git commit -m "build"
-              git push 
+          run: hugo
+          run : |
+            git config user.email "action@github.com"
+            git config user.name "GitHub Actions"
+            git add --all
+            git commit -m "build"
+            git push 
         - name: Push to another repo
         uses: dmnemec/copy_file_to_another_repo_action@main
         env:

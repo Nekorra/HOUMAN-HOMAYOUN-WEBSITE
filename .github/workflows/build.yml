@@ -2,16 +2,24 @@
 
 name: Build Public folder and push to repo 
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
+  # Runs on pushes targeting the default branch
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Default to bash
+defaults:
+  run:
+    shell: bash
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -19,14 +27,12 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.99.0
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Checkout
-          # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
         uses: actions/checkout@v3
         with:
           submodules: recursive
@@ -39,13 +45,13 @@ jobs:
           git commit -m "build"
           git push 
       - name: Push to another repo
-      uses: dmnemec/copy_file_to_another_repo_action@main
-      env:
-        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-      with:
-        source_file: 'public'
-        destination_repo: 'Nekorra/HOUMAN-HOMAYOUN-WEBSITE-BUILD'
-        destination_folder: 'public'
-        user_email: 'abhisrin@gmail.com'
-        user_name: 'Nekorra'
-        commit_message: 'Automatic Build To build'
+        uses: dmnemec/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source_file: 'public'
+          destination_repo: 'Nekorra/HOUMAN-HOMAYOUN-WEBSITE-BUILD'
+          destination_folder: 'public'
+          user_email: 'abhisrin@gmail.com'
+          user_name: 'Nekorra'
+          commit_message: 'Automatic Build To build'

@@ -20,32 +20,32 @@ jobs:
     env:
       HUGO_VERSION: 0.99.0
     # Steps represent a sequence of tasks that will be executed as part of the job
-      steps:
-        - name: Install Hugo CLI
-          run: |
-            wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb \
-            && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-        - name: Checkout
-            # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-          uses: actions/checkout@v3
-          with:
-            submodules: recursive
-        - name: build
-          run: hugo
-          run : |
-            git config user.email "action@github.com"
-            git config user.name "GitHub Actions"
-            git add --all
-            git commit -m "build"
-            git push 
-        - name: Push to another repo
-        uses: dmnemec/copy_file_to_another_repo_action@main
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+    steps:
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      - name: Checkout
+          # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+        uses: actions/checkout@v3
         with:
-          source_file: 'public'
-          destination_repo: 'Nekorra/HOUMAN-HOMAYOUN-WEBSITE-BUILD'
-          destination_folder: 'public'
-          user_email: 'abhisrin@gmail.com'
-          user_name: 'Nekorra'
-          commit_message: 'Automatic Build To build'
+          submodules: recursive
+      - name: build
+        run: hugo
+        run : |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Actions"
+          git add --all
+          git commit -m "build"
+          git push 
+      - name: Push to another repo
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'public'
+        destination_repo: 'Nekorra/HOUMAN-HOMAYOUN-WEBSITE-BUILD'
+        destination_folder: 'public'
+        user_email: 'abhisrin@gmail.com'
+        user_name: 'Nekorra'
+        commit_message: 'Automatic Build To build'

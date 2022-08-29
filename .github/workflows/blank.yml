@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Build Public folder
 
 # Controls when the workflow will run
 on:
@@ -21,16 +21,25 @@ jobs:
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+     steps:
+      - name: Install Hugo CLI
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      - name: Checkout
+          # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+      - name: build
+        - run: hugo
+        - run: cd public
+      -name: push to new repo
+        - run: |
+          git init
+          git config --global user.email 'abhisrin@gmail.com'
+          git config --global user.password "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"
+          git add .
+          git commit -m "public push"
+          git remote add origin https://github.com/Nekorra/HOUMAN-HOMAYOUN-WEBSITE-BUILD.git
+          git push -u origin main

@@ -3,6 +3,55 @@
     "year": "2022",
     "entries": [
       {
+        "journal": "MR",
+        "title": "Reliability Analysis of Spin Transfer Torque Based Look up Tables Under Process Variations and NBTI Aging",
+        "file_name": "ELSEVIER2016.pdf",
+        "authors": "Ragh Kuttappa, Houman Homayoun, Hassan Salmani, Hamid Mahmoodi",
+        "details": "Elsevier Microelectronics Reliability, Volume 62, 2016"
+      },
+      {
+        "journal": "TECS",
+        "title": "Using a Flexible Fault-Tolerant Cache to Improve Reliability for Ultra Low Voltage Operation",
+        "file_name": "TECS2015.pdf",
+        "authors": "Abbas Banaiyanmofrad, Houman Homayoun, Nikil Dutt",
+        "details": "ACM Transaction on Embedded Computing. 2015"
+      },
+      {
+        "journal": "CAL",
+        "title": "Resistive Computation: A Critique",
+        "file_name": "CAL-2013.pdf",
+        "authors": "Hamid Mahmoodi, Sridevi Srinivasan Lakshmipuram, Manish Arora, Yashar Asgarieh, Houman Homayoun, Bill Lin and Dean M.Tullsen.",
+        "details": "IEEE Computer Architecture Letters, DOI 10.1109/ 2014"
+      },
+      {
+        "journal": "TECS",
+        "title": "Multi-Copy Cache:  A Highly Energy Efficient Cache Architecture",
+        "file_name": "emc2-journal.pdf",
+        "authors": "Arup Chakraborty, Houman Homayoun, Amin Khejah, Nikil Dutt, Ahmed Eltawil, Fadi Kurdahi",
+        "details": "ACM Transactions on Embedded Computing Systems (TECS), 2014"
+      },
+      {
+        "journal": "TVLSI",
+        "title": "Variation Trained Drowsy Cache (VTD-Cache): A History Trained Variation Aware Drowsy Cache for Fine Grain Voltage Scaling",
+        "file_name": "VTD.pdf",
+        "authors": "Avesta Makhzan, Kiarash Amiri, Houman Homayoun, Ahmed Eltawil, Fadi J. Kurdahi.",
+        "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2012 (TVLSI). VOL. 20, Issue 4, pp: 630-642. April 2012)"
+      },
+      {
+        "journal": "TVLSI",
+        "title": "Reducing Power in All Major CAM and SRAM Based Processor Units via Centralized, Dynamic Resource Size Management",
+        "file_name": "05575440.pdf",
+        "authors": "Houman Homayoun, Avesta Sasan, Alex Veidenbaum, Jean-Luc Gaudiot.",
+        "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, VOL. 19, NO. 11, NOVEMBER 2011."
+      },
+      {
+        "journal": "TVLSI",
+        "title": "MZZ-HVS: Multi Modes Zig-Zag Horizontal and Vertical Sleep Transistor Sharing to Reduce Leakage Power in On-Chip SRAM Peripheral Circuits",
+        "file_name": "TVLSI-peripherals.pdf",
+        "authors": "Houman Homayoun, Avesta Sasan and Alex Veidenbaum, Hsin-Cheng Yao, Shahin Golshan, Payam Heydari.",
+        "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, (TVLSI), (TVLSI), VOL. 19, NO. 12, DECEMBER 2011."
+      },
+      {
         "journal": "JSC",
         "title": "On Leakage Power Optimization in Clock Tree Networks for ASICs and General-Purpose Processors",
         "file_name": "science.pdf",

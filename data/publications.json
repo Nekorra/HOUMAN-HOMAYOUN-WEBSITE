@@ -3,6 +3,181 @@
     "year": "2019",
     "entries": [
       {
+        "journal": "ASPDAC",
+        "title": "NESTA: Hamming Weigh Compression-Based Neural Proc. Engine",
+        "file_name": "",
+        "authors": "Ali Mirzaeian, Houman Homayoun, Avesta Sasan",
+        "details": "25th Asia and South Pacific Design Automation Conference (ASP-DAC 2020)"
+      },
+      {
+        "journal": "DATE",
+        "title": "Mitigating Cache-Based Side-Channel Attacks Through Randomization: A Comprehensive System And Architecture Level Analysis",
+        "file_name": "",
+        "authors": "Han Wang, Hossein Sayadi, Liang Zhao, Tinoosh Mohsenin, Avesta SasaN, Setareh Rafatirad, Houman Homayoun",
+        "details": "Design, Automation &amp; Test in Europe, (DATE 2020)"
+      },
+      {
+        "journal": "DATE",
+        "title": "Estimating the Circuit De-Obfuscation Runtime based on Graph Deep Learning",
+        "file_name": "",
+        "authors": "Zhiqian Chen, Gaurav Kolhe, Setareh Rafatirad, Chang-Tien Lu, Sai Manoj Pudukotai Dinakarrao, Houman Homayoun, and Liang Zhao",
+        "details": "Design, Automation &amp; Test in Europe, (DATE 2020)"
+      },
+      {
+        "journal": "ICCD",
+        "title": "Phased-Guard: Multi-Phase ML Framework for Detection and Identification of Zero-Day Microarchitectural SCAs",
+        "file_name": "",
+        "authors": "Han Wang, Hossein Sayadi, Avesta Sasan, Setareh Rafatirad, Houman Homayoun",
+        "details": "38th IEEE International Conference on Computer Design (ICCD), Hartford, Connecticut, USA, 2020"
+      },
+      {
+        "journal": "ICMLA",
+        "title": "HybriDG: Hybrid Dynamic Time Wrapping and Gaussian Distribution Model for Detecting Emerging Zero-day Microarchitectural Side-Channel Attacks",
+        "file_name": "",
+        "authors": "Han Wang, Hossein Sayadi, Avesta Sasan, Setareh Rafatirad, Houman Homayoun",
+        "details": "19th IEEE International Conference On Machine Learning And Applications (ICMLA), 2020"
+      },
+      {
+        "journal": "ICCAD",
+        "title": "InterLock: An Intercorrelated Logic and Routing Locking",
+        "file_name": "",
+        "authors": "Hadi M Kamali, Kimia Z Azar, Houman Homayoun, Avesta Sasan",
+        "details": "IEEE/ACM International Conference on Computer-Aided Design, (ICCAD 2020)"
+      },
+      {
+        "journal": "ICCAD",
+        "title": "Hybrid-Shield: Accurate and Efficient Cross-Layer Countermeasure for Run-Time Detection and Mitigation of Cache-Based Side-Channel Attacks",
+        "file_name": "",
+        "authors": "Han Wang, Hossein Sayadi, Avesta Sasan, Setareh Rafatirad, Houman Homayoun",
+        "details": "IEEE/ACM International Conference on Computer-Aided Design, (ICCAD 2020)"
+      },
+      {
+        "journal": "ICCAD",
+        "title": "NNgSAT: Neural Network guided SAT Attack on Logic Locked Complex Structures",
+        "file_name": "",
+        "authors": "Kimia Z Azar, Hadi M Kamali, Houman Homayoun, Avesta Sasan",
+        "details": "IEEE/ACM International Conference on Computer-Aided Design, (ICCAD 2020)"
+      },
+      {
+        "journal": "MWCAS",
+        "title": "Recent Advancements in Microarchitectural Security: Review of Machine Learning Countermeasures",
+        "file_name": "",
+        "authors": "Hossein Sayadi, Han Wang, Tahereh Miari, Hosein Mohammadi Makrani, Mehrdad Aliasgari, Setareh Rafatirad, Houman Homayoun",
+        "details": "2020 IEEE 63rd International Midwest Symposium on Circuits and Systems: 949-952"
+      },
+      {
+        "journal": "ISVLSI",
+        "title": "SCRAMBLE: The State, Connectivity and Routing Augmentation Model for Building Logic Encryption",
+        "file_name": "",
+        "authors": "Hadi Mardani Kamali, Kimia Zamiri Azar, Houman Homayoun, Avesta Sasan",
+        "details": "IEEE Computer Society Annual Symposium on VLSI 2020: 153-159, BEST PAPER NOMINEE"
+      },
+      {
+        "journal": "ISQED",
+        "title": "CSCMAC - Cyclic Sparsely Connected Neural Network Manycore Accelerator",
+        "file_name": "",
+        "authors": "Hirenkumar Paneliya, Morteza Hosseini, Avesta Sasan, Houman Homayoun, Tinoosh Mohsenin",
+        "details": "International Symposium on Quality Electronic Design ISQED 2020: 27-32"
+      },
+      {
+        "journal": "ISQED",
+        "title": "Entropy-Shield: Side-Channel Entropy Maximization for Timing-based Side-Channel Attacks",
+        "file_name": "",
+        "authors": "Abhijitt Dhavlle, Raj Mehta, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",
+        "details": "International Symposium on Quality Electronic Design ISQED 2020: 27-32"
+      },
+      {
+        "journal": "ISQED",
+        "title": "SATConda: SAT to SAT-Hard Clause Translator. International Symposium on Quality Electronic Design",
+        "file_name": "",
+        "authors": "Rakibul Hassan, Gaurav Kolhe, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao:",
+        "details": "International Symposium on Quality Electronic Design ISQED 2020: 27-32"
+      },
+      {
+        "journal": "ISQED",
+        "title": "LASCA: Learning Assisted Side Channel Delay Analysis for Hardware Trojan Detection",
+        "file_name": "",
+        "authors": "Ashkan Vakil, Farnaz Behnia, Ali Mirzaeian, Houman Homayoun, Naghmeh Karimi, Avesta Sasan:",
+        "details": "International Symposium on Quality Electronic Design ISQED 2020: 27-32"
+      },
+      {
+        "journal": "ISQED",
+        "title": "Code-Bridged Classifier (CBC): A Low or Negative Overhead Defense for Making a CNN Classifier Robust Against Adversarial Attacks",
+        "file_name": "",
+        "authors": "Farnaz Behnia, Ali Mirzaeian, Mohammad Sabokrou, Saj Manoj, Tinoosh Mohsenin, Khaled N. Khasawneh, Liang Zhao, Houman Homayoun, Avesta Sasan:",
+        "details": "International Symposium on Quality Electronic Design ISQED 2020: 27-32"
+      },
+      {
+        "journal": "IOLTS",
+        "title": "SCARF: Detecting Side-Channel Attacks at Real-time using Low-level Hardware Features",
+        "file_name": "",
+        "authors": "Han Wang, Hossein Sayadi, Setareh Rafatirad, Avesta Sasan, Houman Homayoun:",
+        "details": "26th IEEE International Symposium on On-Line Testing and Robust System Design (IOLTS) 2020: 1-6"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "On Designing Secure and Robust Scan Chain for Protecting Obfuscated Logic",
+        "file_name": "",
+        "authors": "Hadi Mardani Kamali, Kimia Zamiri Azar, Houman Homayoun, Avesta Sasan:",
+        "details": "ACM Great Lakes Symposium on VLSI 2020: 217-222"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "Comprehensive Evaluation of Machine Learning Countermeasures for Detecting Microarchitectural Side-Channel Attacks",
+        "file_name": "",
+        "authors": "Han Wang, Hossein Sayadi, Avesta Sasan, Setareh Rafatirad, Tinoosh Mohsenin, Houman Homayoun:",
+        "details": "ACM Great Lakes Symposium on VLSI 2020: 181-186"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "StealthMiner: Specialized Time Series Machine Learning for Run-Time Stealthy Malware Detection based on Microarchitectural Features",
+        "file_name": "",
+        "authors": "Hossein Sayadi, Yifeng Gao, Hosein Mohammadi Makrani, Tinoosh Mohsenin, Avesta Sasan, Setareh Rafatirad, Jessica Lin, Houman Homayoun:",
+        "details": "ACM Great Lakes Symposium on VLSI 2020: 175-180"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "Energy-Efficient Hardware for Language Guided Reinforcement Learning",
+        "file_name": "",
+        "authors": "Aidin Shiri, Arnab Neelim Mazumder, Bharat Prakash, Nitheesh Kumar Manjunath, Houman Homayoun, Avesta Sasan, Nicholas R. Waytowich, Tinoosh Mohsenin",
+        "details": "ACM Great Lakes Symposium on VLSI 2020: 131-136"
+      },
+      {
+        "journal": "VTS",
+        "title": "DFSSD: Deep Faults and Shallow State Duality, A Provably Strong Obfuscation Solution for Circuits with Restricted Access to Scan Chain",
+        "file_name": "",
+        "authors": "Shervin Roshanisefat, Hadi Mardani Kamali, Kimia Zamiri Azar, Manoj Sai, Naghmeh Karimi, Houman Homayoun, Avesta Sasan",
+        "details": "IEEE VLSI Test Symposium (VTS 2020)"
+      },
+      {
+        "journal": "ICCAD",
+        "title": "Security and Complexity Analysis of LUT-based Obfuscation: From Blueprint to Reality",
+        "file_name": "",
+        "authors": "Gaurav Kolhe, Hadi Mardani Kamali, Miklesh Naicker, Tyler David Sheaves, Hamid Mahmoodi, Sai Manoj Pudukotai Dinakarrao, Houman Homayoun, Setareh Rafatirad, Avesta Sasan",
+        "details": "IEEE/ACM International Conference on Computer-Aided Design, (ICCAD 2019). BEST PAPER NOMINEE"
+      },
+      {
+        "journal": "ICDM",
+        "title": "Deep Multi-attributed Graph Translation with Node-Edge Co-evolution",
+        "file_name": "",
+        "authors": "Xiaojie Guo, Liang Zhao, Cameron Nowzari, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",
+        "details": "19th IEEE International Conference on Data Mining (ICDM 2019). BEST PAPER AWARD"
+      },
+      {
+        "journal": "ICDM",
+        "title": "DynGraph2Seq: Dynamic-Graph-to-Sequence Interpretable Learning for Health Stage Prediction in Online Health Forums",
+        "file_name": "",
+        "authors": "Yuyang Gao, Lingfei Wu, Houman Homayoun, Liang Zhao",
+        "details": "19th IEEE International Conference on Data Mining (ICDM 2019)"
+      },
+      {
+        "journal": "RECONFIG",
+        "title": "TCD-NPE: A Re-configurable and Efficient Neural Processing Engine, Powered by Novel Temporal-Carry-deferring MACs",
+        "file_name": "",
+        "authors": "Ali Mirzaeian,  Houman Homayoun and Avesta Sasan",
+        "details": "IEEE International Conference on Reconfigurable Computing and FPGAs, (Reconfig 2019)"
+      },
+      {
         "journal": "CASES",
         "title": "Sequence-Crafter: Side-Channel Entropy Minimization to Thwart Timing-Based Side-Channel Attacks",
         "file_name": "",

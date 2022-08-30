@@ -1,179 +1,275 @@
 [
     {
-        "journal": "",
-        "title": "",
+        "journal": "TCAD",
+        "title": "Imitating functional operations for mitigating side-channel leakage",
         "file_name": "",
-
-        "authors": "",
-        "details": ""
-    },
-    {
+        "authors": "Abhijitt Dhavlle, Setareh Rafatirad, Khaled Khasawneh, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",
+        "details": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021)"
+      },
+      {
+        "journal": "IEEEDesign &amp; Test",
+        "title": "A Hardware Accelerator for Language Guided Reinforcement Learning",
+        "file_name": "",
+        "authors": "Aidin Shiri, Arnab Neelim Mazumder, Bharat Prakash, Houman Homayoun, Nicholas R Waytowich, Tinoosh Mohsenin",
+        "details": "IEEE Design &amp; Test, 2021"
+      },
+      {
+        "journal": "Frontiers in big Data",
+        "title": "Deep Graph Learning for Circuit Deobfuscation",
+        "file_name": "",
+        "authors": "Zhiqian Chen, Lei Zhang, Gaurav Kolhe, Hadi Mardani Kamali, Setareh Rafatirad, Sai Manoj Pudukotai Dinakarrao, Houman Homayoun, Chang-Tien Lu, Liang Zhao",
+        "details": "Frontiers in big Data, Volume 4, Frontiers Media SA, 2021"
+      },
+      {
+        "journal": "IEEE Access",
+        "title": "From Cryptography to Logic Locking: A Survey on the Architecture Evolution of Secure Scan Chains",
+        "file_name": "",
+        "authors": "Kimia Zamiri Azar, Hadi Mardani Kamali, Houman Homayoun, Avesta Sasan:",
+        "details": "IEEE Access 9: 73133-73151 (2021)"
+      },
+      {
+        "journal": "IEEE Access",
+        "title": "AVATAR: NN-Assisted Variation Aware Timing Analysis and Reporting for Hardware Trojan Detection.",
+        "file_name": "",
+        "authors": "Ashkan Vakil, Ali Mirzaeian, Houman Homayoun, Naghmeh Karimi, Avesta Sasan:",
+        "details": "IEEE Access 9: 92881-92900 (2021)"
+      },
+      {
+        "journal": "IEEE Design &amp; Test",
+        "title": "Automatic Detection of Respiratory Symptoms Using a Low Power Multi-Input CNN Processor",
+        "file_name": "",
+        "authors": "Arnab Neelim Mazumder, Haoran Ren, Hasib-Al Rashid, Morteza Hosseini, Vandana Chandrareddy, Houman Homayoun, Tinoosh Mohsenin",
+        "details": "IEEE Design &amp; Test, 2021"
+      },
+      {
+        "journal": "KAIS",
+        "title": "Deep graph transformation for attributed, directed, and signed networks",
+        "file_name": "",
+        "authors": "Xiaojie Guo, Liang Zhao, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao:",
+        "details": "Springer Knowledge and Information Systems (KAIS). 63(6): 1305-1337 (2021)"
+      },
+      {
+        "journal": "ToMPECS",
+        "title": "Adaptive Performance Modeling of Data-intensive Workloads for Resource Provisioning in Virtualized Environment.",
+        "file_name": "",
+        "authors": "Hosein Mohammadi Makrani, Hossein Sayadi, Najmeh Nazari, Sai Manoj Pudukotai Dinakarrao, Avesta Sasan, Tinoosh Mohsenin, Setareh Rafatirad, Houman Homayoun",
+        "details": "ACM Transactions on Modeling and Performance Evaluation of Computing Systems 5(4): 18:1-18:24 (ToMPECS 2021)"
+      },
+      {
+        "journal": "TVLSI",
+        "title": "Data Flow Obfuscation: A New Paradigm for Obfuscating Circuits",
+        "file_name": "",
+        "authors": "Kimia Zamiri Azar, Hadi Mardani Kamali, Shervin Roshanisefat, Houman Homayoun, Christos P. Sotiriou, Avesta Sasan",
+        "details": "IEEE Trans. Very Large Scale Integr. Syst. 29(4): 643-656 (2021)"
+      },
+      {
+        "journal": "BOOK Chapter",
+        "title": "Iterative convolutional neural network (ICNN): an iterative CNN solution for low power and real-time systems",
+        "file_name": "",
+        "authors": "Katayoun Neshatpour, Houman Homayoun, Avesta Sasan",
+        "details": "Hardware Architectures for Deep Learning, page 191, Institution of Engineering and Technology"
+      },
+      {
+        "journal": "TVLSI",
+        "title": "SAT-Hard Cyclic Logic Obfuscation for Protecting the IP in the Manufacturing Supply Chain",
+        "file_name": "",
+        "authors": "Shervin Roshanisefat, Hadi Mardani Kamali, Houman Homayoun, Avesta Sasan",
+        "details": "IEEE Trans. Very Large Scale Integration Systems 28(4): 954-967 (2020)"
+      },
+      {
+        "journal": "IEEE-ACCESS",
+        "title": "Cognitive and Scalable Technique for Securing IoT Networks Against Malware Epidemics",
+        "file_name": "",
+        "authors": "Sai Manoj Pudukotai Dinakarrao, Xiaojie Guo, Hossein Sayadi, Cameron Nowzari, Avesta Sasan,    Setareh Rafatirad, Liang Zhao, Houman Homayoun",
+        "details": "IEEE Access 8: 138508-138528 (2020)"
+      },
+      {
+        "journal": "TECS",
+        "title": "ICNN: The Iterative Convolutional Neural Network",
+        "file_name": "",
+        "authors": "Katayoun Neshatpour, Houman Homayoun, Avesta Sasan",
+        "details": "IEEE Transaction on Embedded Computing Systems (TECS 2020)"
+      },
+      {
+        "journal": "JETC",
+        "title": "Application and Thermal-reliability-aware Reinforcement Learning Based Multi-core Power Management",
+        "file_name": "",
+        "authors": "Sai Manoj Pudukotai Dinakarrao, Arun Joseph, Anand Haridass, Muhammad Shafique, Jörg Henkel, Houman Homayoun",
+        "details": "ACM Journal on Emerging Technologies in Computing Systems, Volume 15, Issue 4 (JETC 2019)"
+      },
+      {
+        "journal": "TCHES",
+        "title": "SMT Attack: Next Generation Attack on Obfuscated Circuits with Capabilities and Performance Beyond The SAT Attacks",
+        "file_name": "",
+        "authors": "Kimia Zamiri Azar, Hadi Mardani Kamali, Avesta Sasan, Houman Homayoun",
+        "details": "IACR Transactions on Cryptographic Hardware and Embedded Systems, Volume 29 (CHES 2019)"
+      },
+      {
         "journal": "TODAES",
         "title": "Programmable Gates Using Hybrid CMOS-STT Design to Prevent IC Reverse Engineering",
         "file_name": "todaes2018obfuscation.pdf",
         "authors": "Theodore Winograd, Hassan Salmani, Hamid Mahmoodi, Kris Gaj, Houman Homayoun",
         "details": "ACM Transactions on Design Automation of Electronic Systems, Special issue on Internet of Things System Performance, Reliability, and Security, 2018 (TODAES)"
-    },
-    {
+      },
+      {
         "journal": "TOMPECS",
         "title": "System and Architecture Level Characterization of Big Data Applications on Big and Little Core Server Architectures",
         "file_name": "tompecsmaria2018.pdf",
         "authors": "Maria Malik, Katayoun Neshatpour, Setareh Rafatirad, Houman Homayoun",
         "details": "ACM Transactions on Modeling and Performance Evaluation of Computing Systems, 2018 (TMSCS)"
-    },
-    {
+      },
+      {
         "journal": "TMSCS",
-        "title": "Hardware Accelerated Mappers for Hadoop MapReduce Streaming",
-        "file_name": "TMSCS2017katayoun.pdf",
+        "title": "TMSCS2017katayoun.pdf",
+        "file_name": "Hardware Accelerated Mappers for Hadoop MapReduce Streaming",
         "authors": "Katayoun Neshatpour, Maria Malik, Houman Homayoun",
         "details": "IEEE Transactions on Multi-Scale Computing Systems, 2018 (TMSCS)"
-    },
-    {
+      },
+      {
         "journal": "TODAES",
         "title": "Optimal Allocation of Computation and Communication in an IoT Network",
         "file_name": "todaes2018iot.pdf",
-        "authors": "Abhimanyu Chopra, Hakan Aydin, Setareh Rafatirad, Houman Homayoun",
+        "authors": "Abhimanyu Chopra, Hakan Aydin, Setareh Rafatirad, Houman Homayoun.",
         "details": "ACM Transactions on Design Automation of Electronic Systems, Special issue on Internet of Things System Performance, Reliability, and Security, 2018 (TODAES)"
-    },
-    {
+      },
+      {
         "journal": "TDSC",
         "title": "Specialized Hardware-Supported Malware Detection Using Machine Learning Techniques",
         "file_name": "TVLSI-2017-elastic.pdf",
         "authors": "Hossein Sayadi, Nisarg Patel and Houman Homayoun",
         "details": "IEEE Transactions on Dependable and Secure Computing, 2018 (TDSC)"
-    },
-    {
+      },
+      {
         "journal": "TVLSI",
         "title": "Enhancing Power, Performance, and Energy-efficiency in Chip Multiprocessors Exploiting Inverse Thermal Dependence",
         "file_name": "TVLSI2018Katayoun.pdf",
         "authors": "Katayoun Neshatpour, Wane Bfile_nameeson, Amin Khajeh, Houman Homayoun",
         "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2018"
-    },
-    {
+      },
+      {
         "journal": "JPDC",
         "title": "Big vs Little Core for Energy-Efficient Hadoop Computing",
         "file_name": "JPDC2018maria.pdf",
         "authors": "Maria Malik, Katayoun Neshatpour, Setareh Rafatirad, Rajiv V Joshi, Houman Homayoun",
         "details": "Elsevier Journal of Parallel and Distributed Computing, Special Issue on Systems for Learning, Inferencing, and Discovering (JPDC)"
-    },
-    {
+      },
+      {
         "journal": "TMSCS",
         "title": "Hadoop Workloads Characterization for Performance and Energy Efficiency Optimizations on Microservers",
         "file_name": "TMSCS2017Maria.pdf",
         "authors": "Maria Malik, Katayoun Neshatpour, Setareh Rafatirad, Houman Homayoun",
         "details": "IEEE Transactions on Multi-Scale Computing Systems, 2017 (TMSCS)"
-    },
-    {
+      },
+      {
         "journal": "TVLSI",
         "title": "ElasticCore: A Dynamic Heterogeneous Platform with Joint Core and Voltage/Frequency Scaling",
         "file_name": "TVLSI-2017-elastic.pdf",
         "authors": "Mohammad Khavari Tavana, Mohammad Hajkazemi, Divya Pathak, Ioannis Savidis, Houman Homayoun",
         "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2017 (TVLSI)"
-    },
-    {
+      },
+      {
         "journal": "JPDC",
         "title": "Energy-Efficient Acceleration of MapReduce Applications Using FPGAs",
         "file_name": "JPDC2018Katayoun.pdf",
         "authors": "Katayoun Neshatpour, Maria Malik, Houman Homayoun",
         "details": "Elsevier Journal of Parallel and Distributed Computing, Special Issue on Systems for Learning, Inferencing, and Discovering (JPDC), 2018"
-    },
-    {
+      },
+      {
         "journal": "JETC",
-        "title": "Heterogeneous HMC+DDRx Memory Management for Performance-Temperature Trade-offs",
+        "title": "Heterogeneous HMC&#43;DDRx Memory Management for Performance-Temperature Trade-offs",
         "file_name": "JETC-2017.pdf",
         "authors": "Mohammad Hossein Hajkazemi, Mohammad Khavari Tavana, Tinoosh Mohsein, Houman Homayoun",
         "details": "ACM Journal on Emerging Technologies in Computing, 2017 (JETC)"
-    },
-    {
+      },
+      {
         "journal": "TVLSI",
         "title": "Sparse Regression Driven Mixture Important Sampling for Memory Design",
         "file_name": "TVLSI-2018sparse.pdf",
         "authors": "Maria Malik, Rajiv Joshi, Rouwaida Kanj, Shupeng Sun, Houman Homayoun, Tong Li",
         "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2017 (TVLSI)"
-    },
-    {
+      },
+      {
         "journal": "TVLSI",
         "title": "An Energy Efficient Programmable Manycore Accelerator for Personalized Biomedical Applications",
         "file_name": "TVLSI-2018accelerator.pdf",
         "authors": "Adam Page, Adwaya Kulkarni, Nasrin Attaran, Ali Jafari, Maria Malik, Houman Homayoun, and Tinoosh Mohsenin",
         "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2017 (TVLSI)"
-    },
-    {
+      },
+      {
         "journal": "TECS",
         "title": "Low Overhead CS-based Heterogeneous Framework for Big Data Acceleration",
         "file_name": "TECS-2017.pdf",
         "authors": "Amey Kulkarni, Houman Homayoun, Tinoosh Mohsenin",
         "details": "ACM Transactions on Embedded Computing Systems, 2017 (TECS)"
-    },
-    {
+      },
+      {
         "journal": "TVLSI",
         "title": "SMART GRID ON CHIP: Work Load Balanced On-Chip Power Delivery",
         "file_name": "TVLSI-2017-1.pdf",
         "authors": "Divya Pathak, Houman Homayoun, Ioannis Savidis",
         "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2017 (TVLSI)"
-    },
-    {
+      },
+      {
         "journal": "MR",
         "title": "Reliability Analysis of Spin Transfer Torque Based Look up Tables Under Process Variations and NBTI Aging",
         "file_name": "ELSEVIER2016.pdf",
         "authors": "Ragh Kuttappa, Houman Homayoun, Hassan Salmani, Hamid Mahmoodi",
         "details": "Elsevier Microelectronics Reliability, Volume 62, 2016"
-    },
-    {
+      },
+      {
         "journal": "TECS",
         "title": "Using a Flexible Fault-Tolerant Cache to Improve Reliability for Ultra Low Voltage Operation",
         "file_name": "TECS2015.pdf",
         "authors": "Abbas Banaiyanmofrad, Houman Homayoun, Nikil Dutt",
         "details": "ACM Transaction on Embedded Computing. 2015"
-    },
-    {
+      },
+      {
         "journal": "CAL",
         "title": "Resistive Computation: A Critique",
         "file_name": "CAL-2013.pdf",
-        "authors": "Hamid Mahmoodi, Sridevi Srinivasan Lakshmipuram, Manish Arora, Yashar Asgarieh, Houman Homayoun, Bill Lin and Dean M.Tullsen",
+        "authors": "Hamid Mahmoodi, Sridevi Srinivasan Lakshmipuram, Manish Arora, Yashar Asgarieh, Houman Homayoun, Bill Lin and Dean M.Tullsen.",
         "details": "IEEE Computer Architecture Letters, DOI 10.1109/ 2014"
-    },
-    {
+      },
+      {
         "journal": "TECS",
         "title": "Multi-Copy Cache:  A Highly Energy Efficient Cache Architecture",
         "file_name": "emc2-journal.pdf",
         "authors": "Arup Chakraborty, Houman Homayoun, Amin Khejah, Nikil Dutt, Ahmed Eltawil, Fadi Kurdahi",
         "details": "ACM Transactions on Embedded Computing Systems (TECS), 2014"
-    },
-    {
+      },
+      {
         "journal": "TVLSI",
         "title": "Variation Trained Drowsy Cache (VTD-Cache): A History Trained Variation Aware Drowsy Cache for Fine Grain Voltage Scaling",
         "file_name": "VTD.pdf",
-        "authors": "Avesta Makhzan, Kiarash Amiri, Houman Homayoun, Ahmed Eltawil, Fadi J. Kurdahi",
+        "authors": "Avesta Makhzan, Kiarash Amiri, Houman Homayoun, Ahmed Eltawil, Fadi J. Kurdahi.",
         "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2012 (TVLSI). VOL. 20, Issue 4, pp: 630-642. April 2012)"
-    },
-    {
+      },
+      {
         "journal": "TVLSI",
         "title": "Reducing Power in All Major CAM and SRAM Based Processor Units via Centralized, Dynamic Resource Size Management",
         "file_name": "05575440.pdf",
-        "authors": "Houman Homayoun, Avesta Sasan, Alex Veidenbaum, Jean-Luc Gaudiot",
-        "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, VOL. 19, NO. 11, NOVEMBER 2011"
-    },
-    {
+        "authors": "Houman Homayoun, Avesta Sasan, Alex Veidenbaum, Jean-Luc Gaudiot.",
+        "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, VOL. 19, NO. 11, NOVEMBER 2011."
+      },
+      {
         "journal": "TVLSI",
         "title": "MZZ-HVS: Multi Modes Zig-Zag Horizontal and Vertical Sleep Transistor Sharing to Reduce Leakage Power in On-Chip SRAM Peripheral Circuits",
         "file_name": "TVLSI-peripherals.pdf",
-        "authors": "Houman Homayoun, Avesta Sasan and Alex Veidenbaum, Hsin-Cheng Yao, Shahin Golshan, Payam Heydari",
-        "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, (TVLSI), (TVLSI), VOL. 19, NO. 12, DECEMBER 2011"
-    },
-    {
+        "authors": "Houman Homayoun, Avesta Sasan and Alex Veidenbaum, Hsin-Cheng Yao, Shahin Golshan, Payam Heydari.",
+        "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, (TVLSI), (TVLSI), VOL. 19, NO. 12, DECEMBER 2011."
+      },
+      {
         "journal": "JSC",
         "title": "On Leakage Power Optimization in Clock Tree Networks for ASICs and General-Purpose Processors",
         "file_name": "science.pdf",
-        "authors": "Homayoun, Shahin Golshan, Eli Bozorgzadeh, Alex Veidenbaum, Fadi Kurdahi",
+        "authors": "Homayoun, Shahin Golshan, Eli Bozorgzadeh, Alex Veidenbaum, Fadi Kurdahi.",
         "details": "Elsevier Journal of Sustainable Computing, Volume 1, Issue 1, March 2011, Pages 75-87 (Invited paper)"
-    },
-    {
+      },
+      {
         "journal": "TVLSI",
         "title": "Inquisitive Defect Cache: A Means of Combating Manufacturing Induced Process Variation",
         "file_name": "05540313.pdf",
-        "authors": "Avesta Makhzan, Houman Homayoun, Ahmed Eltawil, Fadi J. Kurdahi",
-        "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, (TVLSI), VOL. 19, NO. 9, SEPTEMBER 2011"
-    }
-
+        "authors": "Avesta Makhzan, Houman Homayoun, Ahmed Eltawil, Fadi J. Kurdahi.",
+        "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, (TVLSI), VOL. 19, NO. 9, SEPTEMBER 2011."
+      }
 ]

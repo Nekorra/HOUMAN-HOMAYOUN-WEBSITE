@@ -1,5 +1,119 @@
 [
   {
+    "year": "2022",
+    "entries": ""
+  },
+  {
+    "year": "2021",
+    "entries": [
+      {
+        "journal": "DAC",
+        "title": "Defense-Aware Code-Reuse based Dynamic Spectre",
+        "file_name": "",
+        "authors": "Abhijitt Dhavlle, Setareh Rafatirad, Houman Homayoun, Saj Manoj PD",
+        "details": "ACM/IEEE 58th Design Automation Conference. (DAC 2021)"
+      },
+      {
+        "journal": "DAC",
+        "title": "Securing Hardware via Dynamic Obfuscation Utilizing Reconfigurable Interconnect and Logic Blocks",
+        "file_name": "",
+        "authors": "Gaurav Kolhe, Soheil Salehi, Tyler Sheaves, Setareh Rafatirad, Sai Manoj PD, Avesta Sasan, Houman Homayoun",
+        "details": "ACM/IEEE 58th Design Automation Conference. (DAC 2021)"
+      },
+      {
+        "journal": "DAC",
+        "title": "StocHD: Stochastic Hyperdimensional System for Efficient and Robust Learning from Raw Data",
+        "file_name": "",
+        "authors": "Prathyush Poduval, Zhuowen Zou, Hassan Najafi, Houman Homayoun, Mohsen Imani",
+        "details": "ACM/IEEE 58th Design Automation Conference. (DAC 2021)"
+      },
+      {
+        "journal": "ICSC",
+        "title": "Ontology-Driven Framework for Trend Analysis of Vulnerabilities and Impacts in IoT Hardware",
+        "file_name": "",
+        "authors": "Charan Bandi, Soheil Salehi, Rakibul Hassan, Sai Manoj P. D., Houman Homayoun, Setareh Rafatirad",
+        "details": "15th IEEE International Conference on Semantic Computing: 211-214, (ICSC 2021)"
+      },
+      {
+        "journal": "AICAS",
+        "title": "Demography-aware COVID-19 Confinement with Game Theory",
+        "file_name": "",
+        "authors": "Sreenitha Kasarapu, Rakibul Hassan, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",
+        "details": "IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2021)"
+      },
+      {
+        "journal": "AICAS",
+        "title": "Evaluation of Machine Learning-based Detection against Side-Channel Attacks on Autonomous Vehicle",
+        "file_name": "",
+        "authors": "Han Wang, Soheil Salehi, Hossein Sayadi, Avesta Sasan, Tinoosh Mohsenin, Sai Manoj P. D., Setareh Rafatirad, Houman Homayoun",
+        "details": "IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2021)"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop",
+        "file_name": "",
+        "authors": "Sayed Aresh Beheshti-Shirazi, Ashkan Vakil, Sai Manoj, Ioannis Savidis, Houman Homayoun, Avesta Sasan",
+        "details": "ACM Great Lakes Symposium on VLSI 2021: 221-228 (GLSVLSI 2021)"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "Energy-Efficient and Adversarially Robust Machine Learning with Selective Dynamic Band Filtering",
+        "file_name": "",
+        "authors": "Neha Nagarkar, Khaled N. Khasawneh, Setareh Rafatirad, Avesta Sasan, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",
+        "details": "ACM Great Lakes Symposium on VLSI 2021: 221-228 (GLSVLSI 2021)"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "RANE: An Open-Source Formal De-obfuscation Attack for Reverse Engineering of Logic Encrypted Circuits",
+        "file_name": "",
+        "authors": "Shervin Roshanisefat, Hadi Mardani Kamali, Houman Homayoun, Avesta Sasan",
+        "details": "ACM Great Lakes Symposium on VLSI 2021: 221-228 (GLSVLSI 2021)"
+      },
+      {
+        "journal": "ISQED",
+        "title": "Machine Learning-Assisted Website Fingerprinting Attacks with Side-Channel Information: A Comprehensive Analysis and Characterization",
+        "file_name": "",
+        "authors": "Han Wang, Hossein Sayadi, Avesta Sasan, Sai Manoj P. D., Setareh Rafatirad, Houman Homayoun",
+        "details": "International Symposium on Quality Electronic Design 387-394, (ISQED 2021)"
+      },
+      {
+        "journal": "ISQED",
+        "title": "When Machine Learning Meets Hardware Cybersecurity: Delving into Accurate Zero-Day Malware Detection",
+        "file_name": "",
+        "authors": "Zhangying He, Tahereh Miari, Hosein Mohammadi Makrani, Mehrdad Aliasgari, Houman Homayoun, Hossein Sayadi",
+        "details": "International Symposium on Quality Electronic Design 387-394, (ISQED 2021)"
+      },
+      {
+        "journal": "ISQED",
+        "title": "Diverse Knowledge Distillation (DKD): A Solution for Improving The Robustness of Ensemble Models Against Adversarial Attacks",
+        "file_name": "",
+        "authors": "Ali Mirzaeian, Jana Kosecka, Houman Homayoun, Tinoosh Mohsenin, Avesta Sasan",
+        "details": "International Symposium on Quality Electronic Design 387-394, (ISQED 2021)"
+      },
+      {
+        "journal": "ISQED",
+        "title": "Conditional Classification: A Solution for Computational Energy Reduction",
+        "file_name": "",
+        "authors": "Ali Mirzaeian, Sai Manoj, Ashkan Vakil, Houman Homayoun, Avesta Sasan",
+        "details": "International Symposium on Quality Electronic Design 387-394, (ISQED 2021)"
+      },
+      {
+        "journal": "ISQED",
+        "title": "ChaoLock: Yet Another SAT-hard Logic Locking using Chaos Computing",
+        "file_name": "",
+        "authors": "Hadi Mardani Kamali, Kimia Zamiri Azar, Houman Homayoun, Avesta Sasan",
+        "details": "International Symposium on Quality Electronic Design 387-394, (ISQED 2021)"
+      },
+      {
+        "journal": "ICLRW",
+        "title": "A fast method to fine-tune neural networks for the least energy consumption on fpgas",
+        "file_name": "",
+        "authors": "Morteza Hosseini, Mohammad Ebrahimabadi, Arnab Neelim Mazumder, Houman Homayoun, Tinoosh Mohsenin",
+        "details": "Proceedings of the Hardware Aware Efficient Training workshop of ICLR 2021"
+      }
+    ]
+  },
+  {
     "year": "2020",
     "entries": [
       {

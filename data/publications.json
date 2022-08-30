@@ -1,770 +1,847 @@
 [
-    {
-        "year": "2019",
-        "entries": [
-            {
-                "journal": "DAC",
-                "title": "Adversarial Attack on Microarchitectural Events based Malware Detectors",
-                "file_name": "",
-                "authors": "Abhijit Dhalve, Sairaj Kiran Amberkar, Sahil Bhat, Hossein Sayadi, Nisarg Patel, Sai Manoj P. D., Avesta Sasan, Setareh Rafatirad, Houman Homayoun",
-                "details": "ACM/IEEE 56th Design Automation Conference. (DAC 2019)"
-            },
-            {
-                "journal": "DAC",
-                "title": "Full-Lock: Hard Distributions of SAT instances for Obfuscating Circuits using Fully Configurable Logic Blocks",
-                "file_name": "",
-                "authors": "Hadi Mardahi, Houman Homayoun, Avesta Sasan",
-                "details": "ACM/IEEE 56th Design Automation Conference. (DAC 2019)"
-            },
-            {
-                "journal": "CHES",
-                "title": "SMT Attack: Next Generation Attack on Obfuscated Circuits with Capabilities and Performance Beyond The SAT Attacks",
-                "file_name": "SMT-CHES.pdf",
-                "authors": "Kimia Zamiri Azar, Hadi Mardani Kamali, Avesta Sasan, Houman Homayoun",
-                "details": "IACR Conference on Cryptographic Hardware and Embedded Systems (CHES 2019)"
-            },
-            {
-                "journal": "DATE",
-                "title": "Lightweight Node-level Malware Detection and Network-level Malware Confinement in IoT Networks",
-                "file_name": "DATE19_IoT.pdf",
-                "authors": "Sai Manoj Pudukotai Dinakarrao, Hossein Sayadi, Hosein Mohammadi Makrani, Cameron Nowzari, Setareh Rafatirad and Houman Homayoun",
-                "details": "Design, Automation & Test in Europe, (DATE 2019)"
-            },
-            {
-                "journal": "DATE",
-                "title": "2SMaRT: A Two-Stage Machine Learning-Based Approach for Run-Time Specialized Hardware-Assisted Malware Detection",
-                "file_name": "DATE19_sayadi.pdf",
-                "authors": "Hossein Sayadi, Hosein Mohammadi Makrani, Sai Manoj Pudukotai Dinakarrao, Tinoosh Mohsenin, Avesta Sasan, Setareh Rafatirad and Houman Homayoun",
-                "details": "Design, Automation & Test in Europe, (DATE 2019)"
-            },
-            {
-                "journal": "ASPDAC",
-                "title": "XPPE: Cross-Platform Performance Estimation of Hardware Accelerators Using Machine Learning",
-                "file_name": "ASPDAC-XPPE.pdf",
-                "authors": "Hosein Makrani, Hossein Sayadi, Sara Bondi, Tinoosh Mohsenin, Setareh Rafatirad, Avesta Sasan, Houman Homayoun",
-                "details": "24th Asia and South Pacific Design Automation Conference, (ASPDAC 2019)"
-            },
-            {
-                "journal": "ASPDAC",
-                "title": "IR-ATA: IR Annotated Timing Analysis, A Flow for Closing the Loop Between PDN design, IR  Analysis & Timing Closure",
-                "file_name": "iiswc2017-2017-Hosein-2.pdf",
-                "authors": "Ashkan Vakil, Houman Homayoun, Avesta Sasan",
-                "details": "24th Asia and South Pacific Design Automation Conference, (ASPDAC 2019)"
-            },
-            {
-                "journal": "ISQED",
-                "title": "Exploiting Energy-Accuracy Trade-off through Contextual Awareness in Multi-Stage Convolutional Neural Networks",
-                "file_name": "Neshatpour_Sasan_CNN_.pdf",
-                "authors": "Katayoun Neshatpour, Houman Homayoun , Avesta Sasan (Invited Talk)",
-                "details": "20th International Symposium on Quality of Electronic Design, (ISQED 2019)"
-            }
-        ]
-    },
-    {
-        "year": "2018",
-        "entries": [
-            {
-                "journal": "DAC",
-                "title": "Ensemble Learning for Hardware-Based Malware Detection: A Comprehensive Analysis and Classification",
-                "file_name": "sayadi-dac.pdf",
-                "authors": "Hossein Sayadi, Sai Manoj PD , Houman Homayoun",
-                "details": "ACM/IEEE 55th Design Automation Conference. (DAC), 2018"
-            },
-            {
-                "journal": "DATE",
-                "title": "ICNN: An Iterative Implementation of Convolutional Neural Networks to Enable Energy and Computational Complexity Aware Dynamic Approximation",
-                "file_name": "katayoun-date.pdf",
-                "authors": "Katayoun Neshatpour, Farnaz Behnia, Houman Homayoun, Avesta Sasan",
-                "details": "Design, Automation & Test in Europe, (DATE), 201"
-            },
-            {
-                "journal": "ICCAD",
-                "title": "Efficient Utilization of Adversarial Training towards Robust Machine Learners and its Analysis",
-                "file_name": "sai-iccad.pdf",
-                "authors": "Sai Manoj P D, Sairaj Amberkar, Setareh Rafatirad, Houman Homayoun",
-                "details": "IEEE/ACM International Conference on Computer Aided Design, Special Session (ICCAD) 2018"
-            },
-            {
-                "journal": "ASPDAC",
-                "title": "Power Conversion Efficiency-Aware Mapping of Multithreaded Applications on Heterogeneous Architectures: A Comprehensive Parameter Tuning",
-                "file_name": "sayad-aspdac.pdf",
-                "authors": "Hossein Sayadi, Divya Pathak, Ioannis Savidis, Houman Homayoun",
-                "details": "23rd Asia and South Pacific Design Automation Conference, (ASPDAC), 2018"
-            },
-            {
-                "journal": "FCMM",
-                "title": "Design Space Exploration for Acceleration of Machine Learning Applications",
-                "file_name": "fccm-2018.pdf",
-                "authors": "Katayoun Neshatpour, Houman Homayoun",
-                "details": "The 26th IEEE International Symposium on Field-Programmable Custom Computing Machines, 2018"
-            },
-            {
-                "journal": "RECONFIG",
-                "title": "A Scalable and Low Power DCNN for Multimodal Data Classification",
-                "file_name": "",
-                "authors": "Ali Jafari, Morteza Hosseini, Houman Homayoun and Tinoosh Mohsenin",
-                "details": "International Conference on Reconfigurable Computing and FPGAs, (Reconfig 2018)"
-            },
-            {
-                "journal": "CASES",
-                "title": "Hardware-Assisted Security: Understanding Security Vulnerabilities, Emerging Attacks and Existing Defenses",
-                "file_name": "cases2018.pdf",
-                "authors": "Sai Manoj Pudukotai Dinakarrao, Ferdinand Brasser, Lucas Davi, Abhijitt Dhavlle, Tommaso Frassetto, Setareh Rafatirad, Ahmad-Reza Sadeghi, Hossein Sayadi, and Shaza Zeitouni, Houman Homayoun",
-                "details": "In Proceedings of the 2018 International Conference on Compilers, Architecture, and Synthesis for Embedded Systems, CASES 2018"
-            },
-            {
-                "journal": "SoCC",
-                "title": "Energy-aware and Machine Learning-based Resource Provisioning of In-Memory Analytics on Cloud",
-                "file_name": "p517-Makrani",
-                "authors": "Hosein Mohammadi Makrani, Hossein Sayadi, Devang Motwani, Han Wang, Setareh Rafatirad, Houman Homayoun",
-                "details": "ACM Symposium on Cloud Computing 2018 (SoCC 2018"
-            },
-            {
-                "journal": "IOLTS",
-                "title": "Benchmarking the Capabilities and Limitations of SAT Solvers in Defeating Obfuscation Schemes",
-                "file_name": "iolts-2018.pdf",
-                "authors": "Shervin Roshanisefat, Harshith Thirumala, Houman Homayoun, Kris Gaj, Avesta Sasan",
-                "details": "24th IEEE International Symposium on On-Line Testing and Robust System Design. (IOLTS 2018"
-            },
-            {
-                "journal": "SAMOS",
-                "title": "Architectural Considerations for FPGA Acceleration of Machine Learning Applications in MapReduce",
-                "file_name": "Samos_katayoun.pdf",
-                "authors": "Katayoun Neshatpour,Hosein Mohammadi Mokrani, Avesta Sasan, Hassan Ghasemzadeh, Setareh Rafatirad, Houman Homayoun",
-                "details": "International Symposium on Systems, Systems, Architectures, Modeling and Simulation. SAMOS XVIII 2018, Samos, Greece"
-            },
-            {
-                "journal": "MEMSYS",
-                "title": "A comprehensive Memory Analysis of Data Intensive Workloads on Server Class Architecture",
-                "file_name": "memsys2018.pdf",
-                "authors": "Hosein Mohammadi Makrani, Hossein Sayadi, Sai Manoj Pudukotai Dinakarra, Setareh Rafatirad, Houman Homayoun",
-                "details": "The International Symposium on Memory Systems (MEMSYS 2018)"
-            },
-            {
-                "journal": "ASAP",
-                "title": "Compressive Sensing on Storage Data: An Effective Solution to Alleviate I/O Bottleneck in Data Intensive Workloads",
-                "file_name": "hosein-asap.pdf",
-                "authors": "Hosein Mohammadi Makrani, Hossein Sayadi, Sai Manoj Pudukotai Dinakarrao, Setareh Rafatirad, Houman Homayoun",
-                "details": "The 29th Annual IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP 2018"
-            },
-            {
-                "journal": "ISVLSI",
-                "title": "LUT-Lock: A Novel LUT-based Logic Obfuscation for FPGA-Bitstream and ASIC-Hardware Protection",
-                "file_name": "hadi-isvlsi.pdf",
-                "authors": "Hadi Mardani Kamali, Kimia Zamiri Azar, Kris Gaj, Houman Homayoun, Avesta Sasan",
-                "details": "IEEE Computer Society Annual Symposium on VLSI, (ISVLSI 2018)"
-            },
-            {
-                "journal": "CCGRID",
-                "title": "Main-Memory Requirements of Big Data Applications on Commodity Server Platform",
-                "file_name": "hosein-ccgrid.pdf",
-                "authors": "Hosein Mohammadi Makrani, Setareh Rafatirad and Houman Homayoun",
-                "details": "18th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, 2018"
-            },
-            {
-                "journal": "CF",
-                "title": "Comprehensive Assessment of Run-Time Hardware-Supported Malware Detection Using General and Ensemble Learning",
-                "file_name": "p212-sayadi.pdf",
-                "authors": "Hossein Sayadi, Sai Manoj, Setareh Rafatirad, Houman Homayoun",
-                "details": "ACM International Conference on Computing Frontiers (CF) 2017"
-            }
-        ]
-    },
-    {
-        "year": "2017",
-        "entries": [
-            {
-                "journal": "IISWC",
-                "title": "MeNa: A Memory Navigator for Modern Hardware in Scale-out Environment",
-                "file_name": "iiswc2017-2017-Hosein-2.pdf",
-                "authors": "Hosein Makrani, Houman Homayoun",
-                "details": "2017 IEEE International Symposium on Workload Characterization, (IISWC), 2017"
-            },
-            {
-                "journal": "IISWC",
-                "title": "Co-Locating and Concurrent Fine-Tuning MapReduce Applications on Microservers for Energy Efficiency",
-                "file_name": "Malik-IISWC-2017.pdf",
-                "authors": "Maria Malik, Dean Tullsen, Houman Homayoun",
-                "details": "2017 IEEE International Symposium on Workload Characterization, (IISWC), 2017"
-            },
-            {
-                "journal": "IISWC",
-                "title": "Memory Requirements of Hadoop, Spark, and MPI Based Big Data Applications on Commodity Server Class Architecture",
-                "file_name": "iiswc2017-2017-Hosein-1.pdf",
-                "authors": "Hosein Makrani, Houman Homayoun",
-                "details": "2017 IEEE International Symposium on Workload Characterization, (IISWC), 2017"
-            },
-            {
-                "journal": "DAC",
-                "title": "Analyzing Hardware Based Malware Detectors",
-                "file_name": "DAC-2017.pdf",
-                "authors": "Nisarg Patel and Houman Homayoun",
-                "details": "ACM/IEEE 54th Design Automation Conference. (DAC), 2017"
-            },
-            {
-                "journal": "DATE",
-                "title": "Big vs Little Core for Energy-Efficient Hadoop Computing",
-                "file_name": "DATE2017-1.pdf",
-                "authors": "Maria Malik, Katayoun Neshatpour, Tinoosh Mohsenin, Avesta Sasan and Houman Homayoun",
-                "details": "Design, Automation & Test in Europe, (DATE), 2017"
-            },
-            {
-                "journal": "DATE",
-                "title": "LESS: Big Data Sketching and Encryption on Low Power Platform",
-                "file_name": "DATE-2017-2.pdf",
-                "authors": "Amey Kulkarni, Colin Shea, Houman Homayoun and Tinoosh Mohsenin",
-                "details": "Design, Automation & Test in Europe, (DATE), 2017"
-            },
-            {
-                "journal": "ISLPED",
-                "title": "Spatial and Temporal Scheduling of Clock Arrival Times for IR Hot- Spot Mitigation, Reformulation of Peak Current Reduction",
-                "file_name": "ISLPED-2017.pdf",
-                "authors": "Bhoopal Re Gunna, Houman Homayoun, Avesta Sasan",
-                "details": "The International Symposium on Low Power Electronics and Design (ISLPED), 2017"
-            },
-            {
-                "journal": "ICCD",
-                "title": "Machine Learning-based Approaches for Energy Efficiency Prediction and Scheduling in Composite Cores Architectures",
-                "file_name": "",
-                "authors": "Hossein Sayadi, Avesta Sasan, Houman Homayoun",
-                "details": "IEEE International Conference on Computer Design (ICCD), 2017"
-            },
-            {
-                "journal": "ISVLSI",
-                "title": "A Power Delivery Network and Cell Placement Aware IR-Drop Mitigation Technique: Harvesting Unused Timing Slacks to Schedule Useful Skews",
-                "file_name": "ISVLSI-2017.pdf",
-                "authors": "Lakshmi Bhamidipati, Bhoopal Gunna, Houman Homayoun, Avesta Sasan",
-                "details": "IEEE Computer Society Annual Symposium on VLSI, (ISVLSI), 2017"
-            },
-            {
-                "journal": "IGSC",
-                "title": "Understanding the Role of Memory Subsystem on Performance and Energy-Efficiency of Hadoop Applications",
-                "file_name": "IGSC17-2017-Hosein.pdf",
-                "authors": "Hosein Makrani, Shahab Tabatabaei, Setareh Rafatirad and Houman Homayoun",
-                "details": "The Eighth International Green and Sustainable Computing Conference, (IGSC), 2017. (Invited Special Session Talk)"
-            },
-            {
-                "journal": "IGSC",
-                "title": "Scheduling Multithreaded Applications onto Heterogeneous Composite Cores Architectures",
-                "file_name": "IGSC17-Hossein.pdf",
-                "authors": "Hossein Sayadi, Houman Homayoun",
-                "details": "The Eighth International Green and Sustainable Computing Conference, (IGSC), 2017"
-            },
-            {
-                "journal": "GLSVLSI",
-                "title": "Work Load Scheduling For Multi Core Systems With Under-Provisioned Power Delivery",
-                "file_name": "GLSVLSI-2017.pdf",
-                "authors": "Divya Pathak, Houman Homayoun, Ioannis Savidis",
-                "details": "27th ACM International Conference of the Great Lakes Symposium on VLSI, (GLSVLSI), 2017"
-            }
-        ]
-    },
-    {
-        "year": "2016",
-        "entries": [
-            {
-                "journal": "DAC",
-                "title": "STT-CMOS Hybrid Designs for Reverse-engineering Prevention",
-                "file_name": "DAC2016.pdf",
-                "authors": "Ted Winograd, Hassan Salmani, Hamid Mahmoodi, Kris Gaj, Houman Homayoun",
-                "details": "ACM/IEEE 53rd Design Automation Conference. (DAC), 2016"
-            },
-            {
-                "journal": "SOCC",
-                "title": "Comparative Analysis of Hybrid Magnetic Tunnel Junction and CMOS Logic Circuits",
-                "file_name": "SOCC2016.pdf",
-                "authors": "Darya Almasi, Houman Homayoun, Hassan Salmani, Hamid Mahmoodi",
-                "details": "29th IEEE International System-on-Chip Conference (SOCC), 2016"
-            },
-            {
-                "journal": "ICCD",
-                "title": "Dynamic Single and Dual Rail Spin Transfer Torque Look Up Tables with Enhanced Robustness under CMOS and MTJ Process Variations",
-                "file_name": "ICCD2016.pdf",
-                "authors": "Aliyar Attaran, Hassan Salmani, Houman Homayoun and Hamid Mahmoodi",
-                "details": "IEEE International Conference on Computer Design (ICCD), 2016"
-            },
-            {
-                "journal": "CODES+ISSS",
-                "title": "Big Data Analytics on Heterogeneous Accelerator Architectures",
-                "file_name": "CODES2016.pdf",
-                "authors": "Katayoun Neshatpour, Avesta Sasan, Houman Homayoun",
-                "details": "IEEE/ACM International Conference on Hardware/Software Codesign and System Synthesis"
-            },
-            {
-                "journal": "CF",
-                "title": "Heterogeneous Chip Multiprocessor Architectures for Big Data Applications",
-                "file_name": "CF2016.pdf",
-                "authors": "Houman Homayoun",
-                "details": "ACM International Conference on Computing Frontiers (CF) 2016. (Invited Talk"
-            },
-            {
-                "journal": "ISVLSI",
-                "title": "Architecture Exploration for Energy-Efficient Embedded Vision Applications: From General Purpose Processor to Domain Specific Accelerator",
-                "file_name": "ISVLSI2016.pdf",
-                "authors": "Maria Malik, Farnoud Farahmand, Paul Otto, Nima Akhlaghi, Tinoosh Mohsenin, Siddhartha Sikdar, Houman Homayoun",
-                "details": "IEEE Computer Society Annual Symposium on VLSI, (ISVLSI) 2016"
-            },
-            {
-                "journal": "ISPASS",
-                "title": "Characterizing Hadoop Applications on Microservers for Performance and Energy Efficiency Optimizations",
-                "file_name": "ISPASS2016.pdf",
-                "authors": "Maria Malik, Setareh Rafatirad, Rajiv Joshi, Houman Homayoun",
-                "details": "IEEE International Symposium on Performance Analysis of Systems and Software, (ISPASS) 2016"
-            },
-            {
-                "journal": "GLSVLSI",
-                "title": "Low-Power ManyCore Accelerator for Personalized Biomedical Applications",
-                "file_name": "GLSVLSI2016-1.pdf",
-                "authors": "Adam Page, Nasrin Attaran, Colin Shea, Houman Homayoun and Tinoosh Mohsenin",
-                "details": "26th ACM International Conference of the Great Lakes Symposium on VLSI, (GLSVLSI) 2016"
-            },
-            {
-                "journal": "GLSVLSI",
-                "title": "Load Balanced On-Chip Power Delivery for Average Current Demand",
-                "file_name": "GLSVLSI2016-2.pdf",
-                "authors": "Divya Pathak, Mohammad Hajkazemi, Mohammad Tavana, Houman Homayoun and Ioannis Savidis",
-                "details": "26th ACM International Conference of the Great Lakes Symposium on VLSI, (GLSVLSI) 2016. (Best Paper Award"
-            },
-            {
-                "journal": "ISCAS",
-                "title": "Comparative Analysis of Robustness of Spin Transfer Torque based Look Up Tables Under Process Variations",
-                "file_name": "ISCAS2016-3.pdf",
-                "authors": "Ragh Kuttappa, Hassan Salmani, Hamid Mahmoodi, Houman Homayoun",
-                "details": "IEEE International Symposium on Circuits and Systems, (ISCAS) 2016"
-            },
-            {
-                "journal": "ISCAS",
-                "title": "Energy Efficient On-Chip Power Delivery with Run-Time Voltage Regulator Clustering",
-                "file_name": "ISCAS2016-1.pdf",
-                "authors": "Divya Pathak, Mohammad Khavari Tavana, Mohammad Hossein Hajkazemi, Houman Homayoun and Ioannis Savidis",
-                "details": "IEEE International Symposium on Circuits and Systems, (ISCAS) 2016"
-            },
-            {
-                "journal": "ISCAS",
-                "title": "Big Biomedical Image Processing Hardware Acceleration: A Case Study for K-means and Image Filtering",
-                "file_name": "ISCAS2016-2.pdf",
-                "authors": "Katayoun Neshatpour, Arezou Koohi, Maria Malik, Avesta Sasan, Setareh Rafatirad, Houman Homayoun",
-                "details": "IEEE International Symposium on Circuits and Systems, (ISCAS) 2016"
-            },
-            {
-                "journal": "ISQED",
-                "title": "Preventing Design Reverse Engineering with Reconfigurable Spin Transfer Torque LUT Gates",
-                "file_name": "ISQED2016.pdf",
-                "authors": "Ted Winograd, Hasan Salmani, Hamid Mahmoodi, Houman Homayoun",
-                "details": "17th International Symposium on Quality of Electronic Design, (ISQED) 2016"
-            }
-        ]
-    },
-    {
-        "year": "2015",
-        "entries": [
-            {
-                "journal": "BigData",
-                "title": "System and Architecture Level Characterization of Big Data Applications on Big and Little Core Server Architectures",
-                "file_name": "BD2015-2.pdf",
-                "authors": "Maria Malik, Setareh Rafatirad, Houman Homayoun",
-                "details": "IEEE BigData Conference 2015"
-            },
-            {
-                "journal": "BigData",
-                "title": "Energy-Efficient Acceleration of Big Data Analytics Applications Using FPGAs",
-                "file_name": "BD2015-1.pdf",
-                "authors": "Katayoun Neshatpour, Maria Malik, Mohammad Ali Ghodrat, Avesta Sasan, Houman Homayoun",
-                "details": "IEEE BigData Conference 2015"
-            },
-            {
-                "journal": "ICCD",
-                "title": "Wide I/O or LPDDR? Exploration and Analysis of Performance, Power and Temperature Trade-Offs of Emerging DRAM Technologies in Embedded MPSoCs",
-                "file_name": "ICCD15-4.pdf",
-                "authors": "Mohammad Hossein Hajkazemi, Mohammad Khavari Tavana and Houman Homayoun",
-                "details": "IEEE International Conference on Computer Design (ICCD), 2015"
-            },
-            {
-                "journal": "ICCD",
-                "title": "Realizing Complexity-Effective On-Chip Power Delivery for Many-Core Platforms by Exploiting Optimized Mapping",
-                "file_name": "ICCD15-3.pdf",
-                "authors": "Mohammad Khavari Tavana, Divya Pathak, Mohammad Hossein Hajkazemi, Maria Malik, Ioannis Savidis and Houman Homayoun",
-                "details": "IEEE International Conference on Computer Design (ICCD), 2015"
-            },
-            {
-                "journal": "ICCD",
-                "title": "Big Data on Low Power Cores Are Low Power Embedded Processors a Good Fit for the Big Data Workloads?",
-                "file_name": "ICCD15-1.pdf",
-                "authors": "Maria Malik and Houman Homayoun",
-                "details": "IEEE International Conference on Computer Design (ICCD), 2015"
-            },
-            {
-                "journal": "ICCD",
-                "title": "Power and Performance Characterization, Analysis and Tuning for Energy-efficient Edge Detection on Atom and ARM Based Platforms",
-                "file_name": "ICCD15-2.pdf",
-                "authors": "Paul Otto, Maria Malik, Nima Akhlaghi, Rebel Sequeira, Houman Homayoun and Siddhartha Sikdar",
-                "details": "IEEE International Conference on Computer Design (ICCD), 2015"
-            },
-            {
-                "journal": "CF",
-                "title": "Just-in-time Component-Wise Power and Thermal Modeling",
-                "file_name": "CF2015.pdf",
-                "authors": "Shah Mohammad Faizur Rahman, Qing Yi, Houman Homayoun",
-                "details": "ACM Conference On Computing Frontiers 2015"
-            },
-            {
-                "journal": "FCCM",
-                "title": "Accelerating Big Data Analytics Using FPGAs",
-                "file_name": "FCCM2015.pdf",
-                "authors": "Katayoun Neshatpour, Maria Malik, Mohammad Ali Ghodrat, Houman Homayoun",
-                "details": "The 23rd IEEE International Symposium on Field-Programmable Custom Computing Machines, 2015"
-            },
-            {
-                "journal": "DAC",
-                "title": "ElasticCore: Enabling Dynamic Heterogeneity with Joint Core and Voltage/Frequency Scaling",
-                "file_name": "DAC2015.pdf",
-                "authors": "Mohammad Khavari Tavana, Mohammad Hajkazemi, Divya Pathak, Ioannis Savidis, Houman Homayoun",
-                "details": "ACM/IEEE 52TH Design Automation Conference. (DAC 2015)"
-            },
-            {
-                "journal": "CCGRID",
-                "title": "Accelerating Machine Learning Kernels in Hadoop Using FPGAs",
-                "file_name": "CCGRID2015.pdf",
-                "authors": "Katayoun Neshatpour, Maria Malik, Mohammad Ali Ghodrat, Houman Homayoun",
-                "details": "15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, 2015"
-            },
-            {
-                "journal": "GLSVLSI",
-                "title": "Adaptive Bandwidth Management for Performance-Temperature Trade-offs in Heterogeneous HMC+DDRx Memory",
-                "file_name": "GLSVLSI2015-1.pdf",
-                "authors": "Mohammad Hossein Hajkazemi, Michael Chorney, Reyhaneh Jabbarvand Behrouz, Mohammad Khavari Tavana and Houman Homayoun",
-                "details": "25th ACM International Conference of the Great Lakes Symposium on VLSI, 2015"
-            },
-            {
-                "journal": "GLSVLSI",
-                "title": "Revisiting Dynamic Thermal Management Exploiting Inverse Thermal Dependence",
-                "file_name": "GLSVLSI2015-2.pdf",
-                "authors": "Katayoun Neshatpour, Amin Khajeh-Djahromi, Wayne Bfile_nameeson",
-                "details": "25th ACM International Conference of the Great Lakes Symposium on VLSI, 2015"
-            }
-        ]
-    },
-    {
-        "year": "2014",
-        "entries": [
-            {
-                "journal": "DAC",
-                "title": "Enabling Dynamic Heterogeneity Through Core on Core Stacking. (Special Session Talk)",
-                "file_name": "DAC-2014.pdf",
-                "authors": "Vasileios Kontorinis, Mohammad Khavari Tavana, Mohammad Hajkazemi, Dean Tullsen, Houman Homayoun",
-                "details": "ACM/IEEE 51TH Design Automation Conference. (DAC 2014)"
-            },
-            {
-                "journal": "ISLPED",
-                "title": "Energy-efficient mapping of biomedical applications on domain-specific accelerator under process variation",
-                "file_name": "ISLPED-2014.pdf",
-                "authors": "Mohammad Khavari Tavana, Amey M. Kulkarni, Abbas Rahimi, Tinoosh Mohsenin, Houman Homayoun",
-                "details": "International Symposium on Low Power Electronics and Design, (ISLPED 2014)"
-            },
-            {
-                "journal": "DATE",
-                "title": "Exploiting STT-NV Technology for Reconfigurable, High Performance, Low Power, and Low Temperature Functional Unit Design",
-                "file_name": "DATE-2014.pdf",
-                "authors": "Adarsh Reddy Ashammagari, Hamid Mahmoodi, Houman Homayoun",
-                "details": "Design, Automation & Test in Europe, (DATE 2014)"
-            },
-            {
-                "journal": "ICCD",
-                "title": "Modeling and Analysis of Phase Change Materials for Efficient Thermal Management",
-                "file_name": "ICCD-2014.pdf",
-                "authors": "Fulya Kaplan, Charlie De Vivero, Samuel Howes, Manish Arora, Houman Homayoun, Wayne Bfile_nameeson, Dean Tullsen,",
-                "details": "Ayse Coskun"
-            },
-            {
-                "journal": "GLSVLSI",
-                "title": "A Parallel and Reconfigurable Architecture for Efficient OMP Compressive Sensing Reconstruction",
-                "file_name": "GLSVLSI-1-2014.pdf",
-                "authors": "Amey Kulkarni, Houman Homayoun and Tinoosh Mohsenin",
-                "details": "24th ACM International Conference of the Great Lakes Symposium on VLSI, 2014"
-            },
-            {
-                "journal": "GLSVLSI",
-                "title": "Reconfigurable STT-NV LUT-based Functional Units to Improve Performance in General-Purpose Processors",
-                "file_name": "GLSVLSI-2-2014.pdf",
-                "authors": "Adarsh Reddy, Ashammagari, Hamid Mahmoodi, Tinoosh Mohsenin, Houman Homayoun",
-                "details": "24th ACM International Conference of the Great Lakes Symposium on VLSI, 2014"
-            },
-            {
-                "journal": "IGCC",
-                "title": "NVP: Non-uniform Voltage and Pulse width Settings for Power Efficient Hybrid STT-RAM",
-                "file_name": "IGCC-2014.pdf",
-                "authors": "Reyhaneh Jabbarvand Behrouz, Houman Homayoun",
-                "details": "International Green Computing Conference, (IGCC 2014)"
-            }
-        ]
-    },
-    {
-        "year": "2013",
-        "entries": [
-            {
-                "journal": "ICCD",
-                "title": "Low-Current Probabilistic Writes for Power-Efficient STT-RAM Cache",
-                "file_name": "ICCD-2013.pdf",
-                "authors": "Nikolaos Strikos, Vasileios Kontorinis, Xiangyu Dong, Houman Homayoun, Dean Tullsen",
-                "details": "International Conference on Computer Design (ICCD), 2013"
-            },
-            {
-                "journal": "IGCC",
-                "title": "REMEDIATE: A Scalable Fault-tolerant Architecture for Low-Power NUCA Cache in Tiled CMPs",
-                "file_name": "REMEDIATE_IGCC2013.pdf",
-                "authors": "Abbas Banayian, Houman Homayoun, Vasikeios Kontorinis, Dean Tullsen, Nikil Dutt",
-                "details": "International Green Computing Conference. IGCC 2013"
-            },
-            {
-                "journal": "DAC",
-                "title": "VAWOM: Temperature and Process Variation Aware WearOut Management in 3D Multicore Architecture",
-                "file_name": "DAC-2013.pdf",
-                "authors": "Hossein Tajik, Houman Homayoun, Nikil Dutt",
-                "details": "ACM/IEEE 50th Design Automation Conference, Austin, Texas"
-            },
-            {
-                "journal": "ASPDAC",
-                "title": "Heterogeneous Memory Management for 3D-DRAM and External DRAM with Qo",
-                "file_name": "ASPDAC-2013.pdf",
-                "authors": "Le-Nguyen Tran, Houman Homayoun, Fadi Kurdahi, Ahmed Eltawil",
-                "details": "18th Asia and South Pacific Design Automation Conference"
-            },
-            {
-                "journal": "ISQED",
-                "title": "Temperature Aware Thread Migration in 3D Architecture with Stacked DRA",
-                "file_name": "ISQED-3D.pdf",
-                "authors": "Dali Zhao, Houman Homayoun, Alex Veidenbaum",
-                "details": "14th International Symposium on Quality of Electronic Design (ISQED) 2013.San Jose, California"
-            },
-            {
-                "journal": "ISQED",
-                "title": "A Many-core Platform for Biomedical Signal and Image Processin",
-                "file_name": "accelerator.pdf",
-                "authors": "Jordan Bisasky, Tinoosh Mohsenin and Houman Homayoun",
-                "details": "14th International Symposium on Quality of Electronic Design (ISQED) 2013.San Jose, California"
-            }
-        ]
-    },
-    {
-        "year": "2012",
-        "entries": [
-            {
-                "journal": "ISCA",
-                "title": "Managing Distributed UPS Energy for Effective Power Capping in Data Center",
-                "file_name": "ISCA_batteries_Final_2011-11-21.pdf",
-                "authors": "Vasileios Kontorinis, Baris Aksanli, Houman Homayoun, John Sampson, Tajana S. Rosing, and",
-                "details": "Dean M. Tullsen"
-            },
-            {
-                "journal": "HPCA Acceptance rate 17% (36/210)",
-                "title": "Dynamically heterogeneous cores through 3D resource poolin",
-                "file_name": "hpca18-paper277.pdf",
-                "authors": "Houman Homayoun, Vasileios Kontorinis, Ta-Wei Lin, Amirali Shayan and Dean M. Tullsen",
-                "details": "International Symposium on High-Performance Computer Architecture, HPCA 2012. New Orleans, Louisiana"
-            },
-            {
-                "journal": "ISQED",
-                "title": "Hot Peripheral Thermal Management to Mitigate Cache Temperature Variatio",
-                "file_name": "ISQED-2012-submitted.pdf",
-                "authors": "Houman Homayoun, Mehryar Rahmatian, Vasileios Kontorinis, Shahin Golshan, Dean Tullsen",
-                "details": "13th International Symposium on Quality of Electronic Design (ISQED) 2012.San Jose, California"
-            },
-            {
-                "journal": "ISQED",
-                "title": "History & Variation Trained Cache (HVT-Cache):A Process Variation Aware and Fine Grain voltage Scalable Cache with Active Access History Monitoring",
-                "file_name": "ISLPED_AvestaSasanFJK.pdf",
-                "authors": "Avesta Sasan, Houman Homayoun, Kiarash Amiri, Ahmed Eltawil and Fadi Kurdahi",
-                "details": "13th International Symposium on Quality of Electronic Design (ISQED) 2012.San Jose, California"
-            }
-        ]
-    },
-    {
-        "year": "2011",
-        "entries": [
-            {
-                "journal": "CASES Acceptance rate 35%",
-                "title": "FFT-Cache: A Flexible Fault-Tolerant Cache Architecture for Ultra Low Voltage Operatio",
-                "file_name": "p95-mofrad.pdf",
-                "authors": "Abbas Banaiyan, Houman Homayoun and Nikil Dutt",
-                "details": "In Proceedings of the 2011 International Conference on Compilers, Architecture, and Synthesis for Embedded Systems, CASES 2011. Taipei, Taiwan"
-            },
-            {
-                "journal": "CODES-ISSS Acceptance tare 28% (33/117)",
-                "title": "Reliability-Aware Placement in SRAM-based FPGA for Voltage Scaling Realization in the Presence of Process Variations",
-                "file_name": "p257-golshan.pdf",
-                "authors": "Shahin Golshan, Amin Khajeh, Houman Homayoun, Eli Bozorgzadeh, Ahmed Eltaweel and Fadi Kurdahi",
-                "details": "In Proceedings of the 9th International Conference on Hardware/Software Codesign and System Synthesis, CODES+ISSS 2011. Taipei, Taiwan"
-            }
-        ]
-    },
-    {
-        "year": "2010",
-        "entries": [
-            {
-                "journal": "HiPEAC Acceptance rate 25.5% (24/94)",
-                "title": "RELOCATE: Register File Local Access Pattern Redistribution Mechanism for Power and Thermal Management in Out-of-Order Embedded Processor",
-                "file_name": "fulltext.pdf",
-                "authors": "Houman Homayoun, Aseem Gupta, Alex Veidenbaum, Fadi J. Kurdahi, Nikil Dutt",
-                "details": "5th International Conference of High Performance Embedded Architectures and Compilers, (HiPEAC 2010)"
-            },
-            {
-                "journal": "ISQED Acceptance rate 31% (84/270)",
-                "title": "Post-Synthesis Sleep Transistor Insertion for Leakage Power Optimization in Clock Tree Networks",
-                "file_name": "ISQED.pdf",
-                "authors": "Houman Homayoun, Shahin Golshan, Eli Bozorgzadeh, Fadi Kurdahi, Alex Veidenbaum",
-                "details": "11th IEEE International Symposium on Quality Electronic Design. (ISQED"
-            },
-            {
-                "journal": "CF Acceptance rate 26% (30/113)",
-                "title": "Multiple sleep modes leakage control in peripheral circuits of a all major SRAM-based processor units",
-                "file_name": "p297-homayoun.pdf",
-                "authors": "Houman Homayoun, Avesta Sasan, Aseem Gupta, Alex Veidenbaum, Fadi Kurdahi, Nikil Dutt",
-                "details": "2010 ACM International Conference on Computing Frontiers, (CF)"
-            },
-            {
-                "journal": "CASES",
-                "title": "E < MC^2 : Less Energy through Multi-Copy Cache",
-                "file_name": "cases-2010.pdf",
-                "authors": "Arup Chakraborty, Houman Homayoun, Amin Khejah, Nikil Dutt, Ahmed Eltawil, Fadi Kurdahi",
-                "details": "In Proceedings of the 2010 International Conference on Compilers, Architecture, and Synthesis for Embedde"
-            },
-            {
-                "journal": "ISLPED Acceptance rate 24% (52/210)",
-                "title": "Exploiting Power Budgeting in Thermal-Aware Dynamic Placement for Reconfigurable System",
-                "file_name": "ISLPED-2010.pdf",
-                "authors": "Shahin Golshan, Kazutoshi Wakabayashi, Benjamin Carri\u00f3n Sch\u00e4fer, Houman Homayoun, Elaheh Bozorgzadeh",
-                "details": "International Symposium on Low Power Electronics and Design, ISLPED 2010. Austin, Texas"
-            }
-        ]
-    },
-    {
-        "year": "2009",
-        "entries": [
-            {
-                "journal": "CASES Acceptance rate 42% (31/72)",
-                "title": "A Fault Tolerant Cache Architecture for Sub 500mv Operation Resizable Data Composer Cache (RDC-Cache)",
-                "file_name": "cases-09.pdf",
-                "authors": "Avesta Makhzan, Houman Homayoun, Ahmed Eltawil, Fadi J. Kurdahi",
-                "details": "In Proceedings of the 2009 International Conference on Compilers, Architecture, and Synthesis for Embedde"
-            },
-            {
-                "journal": "DATE Acceptance rate 23%, (226/965)",
-                "title": "Process Variation Aware Cache for Aggressive Voltage-Frequency Scaling",
-                "file_name": "date-092.pdf",
-                "authors": "Avesta Makhzan, Houman Homayoun, Ahmed Eltawil, Fadi J. Kurdahi",
-                "details": "Design, Automation & Test in Europe, DATE 2009, Nice, France"
-            }
-        ]
-    },
-    {
-        "year": "2008",
-        "entries": [
-            {
-                "journal": "DAC Acceptance rate \u00a0 23% (147/639)",
-                "title": "Dynamic Register File Resizing and Frequency Scaling to Improve Embedded Processor Performance and Energy-Delay Efficiency",
-                "file_name": "DAC-08.pdf",
-                "authors": "Houman Homayoun, Sudeep Pasricha, Mohammad A. Makhzan, Alexander V. Veidenbaum",
-                "details": "ACM/IEEE 45TH Design Automation Conference, DAC 2008. Anaheim, U.S.A"
-            },
-            {
-                "journal": "CASES Acceptance rate 33% (27/82)",
-                "title": "Multiple Sleep Mode Leakage Control for Cache Peripheral Circuits in Embedded Processors",
-                "file_name": "cases-08.pdf",
-                "authors": "Houman Homayoun, Mohammad Makhzan and Alex Veidenbaum",
-                "details": "In Proceedings of the 2008 International Conference on Compilers, Architecture, and Synthesis for Embedde"
-            },
-            {
-                "journal": "ICCD Acceptance rate 34% (106/306)",
-                "title": "Adaptive Techniques for Leakage Power Management in L2 Cache Peripheral Circuits",
-                "file_name": "iccd-08-arch.pdf",
-                "authors": "Houman Homayoun, Alex Veidenbaum and Jean-Luc Gaudiot",
-                "details": "In Proceedings of XXVI IEEE International Conference on Computer Design, ICCD 2008.Lake Tahoe,U.S.A"
-            },
-            {
-                "journal": "LCTES Acceptance rate 25% (17/68)",
-                "title": "Improving Performance and Reducing Energy-Delay with Adaptive Resource Resizing for Out-Of Order Embedded Processors",
-                "file_name": "lctes-08.pdf",
-                "authors": "Houman Homayoun, Sudeep Pasricha, Mohammad A. Makhzan, Alexander V. Veidenbaum",
-                "details": "ACM SIGPLAN/SIGBED 2008 Conference on Languages, Compilers, and Tools for Embedded Systems"
-            },
-            {
-                "journal": "ICCD Acceptance rate 34% (106/306)",
-                "title": "ZZ-HVS: Zig-Zag Horizontal and Vertical Sleep Transistor Sharing to Reduce Leakage Power in On Chip SRAM Peripheral Circuits",
-                "file_name": "iccd-08-circuit.pdf",
-                "authors": "Houman Homayoun, Mohammad Makhzan and Alex Veidenbaum",
-                "details": "In Proceedings of XXVI IEEE International Conference on Computer Design, ICCD 2008. Lake Tahoe, U.S.A"
-            },
-            {
-                "journal": "SAMOS Acceptance rate 36% (29/79)",
-                "title": "A Centralized Cache Miss Driven Technique to Improve Processor Power Dissipation",
-                "file_name": "samos-08.pdf",
-                "authors": "Houman Homayoun, Mohammad Makhzan, Jean-Luc Gaudiot, and Alex Veidenbaum",
-                "details": "International Symposium on Systems, Systems, Architectures, Modeling and Simulation. SAMOS VIII 2008, Samos"
-            }
-        ]
-    },
-    {
-        "year": "2007",
-        "entries": [
-            {
-                "journal": "ICCD Acceptance rate 27%",
-                "title": "Reducing Leakage Power in Peripheral Circuit of L2 Caches",
-                "file_name": "iccd-07.pdf",
-                "authors": "Houman Homayoun and Alexander V. Veidenbaum",
-                "details": "In Proceedings of XXV IEEE International Conference on Computer Design, ICCD 2007. Lak"
-            }
-        ]
-    },
-    {
-        "year": "2006",
-        "entries": [
-            {
-                "journal": "UCAS-2",
-                "title": "Using Lazy Instruction Prediction to Reduce Processor Wakeup Power Dissipation",
-                "file_name": "ISPASS06-UCAS2.pdf",
-                "authors": "Houman Homayoun and Amirali Baniasadi",
-                "details": "The 2nd workshop on unique chips and systems, in conjunction with IEEE International Symposium on Performanc"
-            },
-            {
-                "journal": "SAMOS",
-                "title": "Reducing Execution Unit Leakage Power in Embedded Processors",
-                "file_name": "SAMOS-2006.pdf",
-                "authors": "Houman Homayoun and Amirali Baniasadi",
-                "details": "The 6th International Conference on Embedded Computer Systems, SAMOS VI-2006. Samos, Greece"
-            },
-            {
-                "journal": "CCECE",
-                "title": "Reducing the Instruction Queue Leakage Power in Superscalar Processor",
-                "file_name": "ccece-06.pdf",
-                "authors": "Houman Homayoun and Ted H. Szymanski",
-                "details": "The 19th Annual Canadian Conference on Electrical and Computer Engineering, CCECE-2006, Ottawa, Canada"
-            }
-        ]
-    },
-    {
-        "year": "2005",
-        "entries": [
-            {
-                "journal": "NEWCAS",
-                "title": "Thread Scheduling Based on Low Quality Instruction Prediction for Simultaneous Multithreaded Processors",
-                "file_name": "newcas-05.pdf",
-                "authors": "Houman Homayoun, Kin F. Li and Setareh Rafatirad",
-                "details": "The 3rd International IEEE NorthEast Workshop on Circuits and Systems, IEEE-NEWCAS 2005. Montreal, Canada"
-            },
-            {
-                "journal": "VLSI-SOC",
-                "title": "Analysis of Functional Unit Power Gating in Embedded Processors",
-                "file_name": "VLSI-SOC_2005.pdf",
-                "authors": "Houman Homayoun and Amirali Baniasadi",
-                "details": "IFIP International Conference on Very Large Scale Integration System on Chip IFIP VLSI-SOC 2005. Perth, Wetsre"
-            },
-            {
-                "journal": "PACRIM",
-                "title": "Functional Unit Power Gating in Simultaneous Multithreaded Processors",
-                "file_name": "pacrim-05.pdf",
-                "authors": "Houman Homayoun, Kin F. Li. and Setareh Rafatirad",
-                "details": "The IEEE Pacific Rim Conference on Communications, Computers and Signal Processing IEEE-PACRIM 2005"
-            }
-        ]
-    }
+  {
+    "year": "2019",
+    "entries": [
+      {
+        "journal": "CASES",
+        "title": "Sequence-Crafter: Side-Channel Entropy Minimization to Thwart Timing-Based Side-Channel Attacks",
+        "file_name": "",
+        "authors": "Abhijitt Dhavlle, Sahil Bhat, Setareh Rafatirad, Houman Homayoun",
+        "details": "Proceedings of the International Conference on Compliers, Architectures and Synthesis for Embedded Systems Companion (CASES 2019)"
+      },
+      {
+        "journal": "CASES",
+        "title": "SAT to SAT-hard Clause Translator",
+        "file_name": "",
+        "authors": "Rakibul Hassan, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",
+        "details": "Proceedings of the International Conference on Compliers, Architectures and Synthesis for Embedded Systems Companion (CASES 2019)"
+      },
+      {
+        "journal": "BSN",
+        "title": "Resource-Efficient Wearable Computing for Real-Time Reconfigurable Machine Learning: A Cascading Binary Classification",
+        "file_name": "",
+        "authors": "Mahdi Pedram, Seyed Ali Rokni, Marjan Nourollahi, Houman Homayoun, Hassan Ghasemzadeh",
+        "details": "16th IEEE International Conference on Wearable and Implantable Body Sensor Networks. (BSN 2019)"
+      },
+      {
+        "journal": "CCWC",
+        "title": "Parallel Multi-View Graph Matrix Completion for Large Input Matrix",
+        "file_name": "",
+        "authors": "Arezou Koohi, Houman Homayoun",
+        "details": "2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC 2019)"
+      },
+      {
+        "journal": "FPL",
+        "title": "",
+        "file_name": "Pyramid: Machine Learning Framework to Estimate the Optimal Timing and Resource Usage of a High-Level Synthesis Design",
+        "authors": "Hosein Mohammadi Makrani, Farnoud Farahmand, Hossein Sayadi, Sara Bondi, Sai Manoj Pudukotai Dinakarrao, Houman Homayoun, Setareh Rafatirad",
+        "details": "29th International Conference on Field Programmable Logic and Applications"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "Mitigating the Performance and Quality of Parallelized Compressive Sensing Reconstruction Using Image Stitching ",
+        "file_name": "",
+        "authors": "Mahmoud Namazi, Hosein Mohammadi Makrani, Zhi Tian, Setareh Rafatirad, Mohamad Hosein Akbari, Avesta Sasan, Houman Homayoun",
+        "details": "ACM Great Lakes Symposium on VLSI"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "Threats on Logic Locking: A Decade Later",
+        "file_name": "",
+        "authors": "Kimia Zamiri Azar, Hadi Mardani Kamali, Houman Homayoun, Avesta Sasan",
+        "details": "ACM Great Lakes Symposium on VLSI"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "On Custom LUT-based Obfuscation",
+        "file_name": "",
+        "authors": "Gaurav Kolhe, Sai Manoj P. D., Setareh Rafatirad, Hamid Mahmoodi, Avesta Sasan, Houman Homayoun",
+        "details": "ACM Great Lakes Symposium on VLSI. (GLSVLSI 2019)"
+      },
+      {
+        "journal": "ICPP",
+        "title": "ECoST: Energy-Efficient Co-Locating and Self-Tuning MapReduce Applications",
+        "file_name": "",
+        "authors": "Maria Malik, Hassan Ghasemzadeh, Tinoosh Mohsenin, Rosario Cammarota, Liang Zhao, Avesta Sasan, Houman Homayoun, Setareh Rafatirad",
+        "details": "48th International Conference on Parallel Processing. (ICPP 2019)"
+      },
+      {
+        "journal": "RAID",
+        "title": "COMA: Communication and Obfuscation Management Architecture ",
+        "file_name": "",
+        "authors": "Kimia Zamiri Azar, Farnoud Farahmand, Hadi Mardani Kamali, Shervin Roshanisefat, Houman Homayoun, William Diehl, Kris Gaj, Avesta Sasan",
+        "details": "22nd International Symposium on Research in Attacks, Intrusions and Defenses. (RAID 2019)"
+      },
+      {
+        "journal": "DAC",
+        "title": "On the Complexity Reduction of Dense Layers from O(N^2) to O(N logN) with Cyclic Sparsely Connected Layers",
+        "file_name": "",
+        "authors": "S. Morteza Hoseini, Mark Horton, Hirenkumar Paneliya, Uttej Kallakuri, Houman Homamyoun, Tinoosh Mohsenin",
+        "details": "ACM/IEEE 56th Design Automation Conference. (DAC 2019)"
+      },
+      {
+        "journal": "DAC",
+        "title": "Adversarial Attack on Microarchitectural Events based Malware Detectors",
+        "file_name": "",
+        "authors": "Abhijit Dhalve, Sairaj Kiran Amberkar, Sahil Bhat, Hossein Sayadi, Nisarg Patel, Sai Manoj P. D., Avesta Sasan, Setareh Rafatirad, Houman Homayoun",
+        "details": "ACM/IEEE 56th Design Automation Conference. (DAC 2019)"
+      },
+      {
+        "journal": "DAC",
+        "title": "Full-Lock: Hard Distributions of SAT instances for Obfuscating Circuits using Fully Configurable Logic Blocks",
+        "file_name": "",
+        "authors": "Hadi Mardahi, Houman Homayoun, Avesta Sasan",
+        "details": "ACM/IEEE 56th Design Automation Conference. (DAC 2019)"
+      },
+      {
+        "journal": "CHES",
+        "title": "SMT Attack: Next Generation Attack on Obfuscated Circuits with Capabilities and Performance Beyond The SAT Attacks",
+        "file_name": "SMT-CHES.pdf",
+        "authors": "Kimia Zamiri Azar, Hadi Mardani Kamali, Avesta Sasan, Houman Homayoun",
+        "details": "IACR Conference on Cryptographic Hardware and Embedded Systems (CHES 2019)"
+      },
+      {
+        "journal": "DATE",
+        "title": "Lightweight Node-level Malware Detection and Network-level Malware Confinement in IoT Networks",
+        "file_name": "DATE19_IoT.pdf",
+        "authors": "Sai Manoj Pudukotai Dinakarrao, Hossein Sayadi, Hosein Mohammadi Makrani, Cameron Nowzari, Setareh Rafatirad and Houman Homayoun",
+        "details": "Design, Automation & Test in Europe, (DATE 2019)"
+      },
+      {
+        "journal": "DATE",
+        "title": "2SMaRT: A Two-Stage Machine Learning-Based Approach for Run-Time Specialized Hardware-Assisted Malware Detection",
+        "file_name": "DATE19_sayadi.pdf",
+        "authors": "Hossein Sayadi, Hosein Mohammadi Makrani, Sai Manoj Pudukotai Dinakarrao, Tinoosh Mohsenin, Avesta Sasan, Setareh Rafatirad and Houman Homayoun",
+        "details": "Design, Automation & Test in Europe, (DATE 2019)"
+      },
+      {
+        "journal": "ASPDAC",
+        "title": "XPPE: Cross-Platform Performance Estimation of Hardware Accelerators Using Machine Learning",
+        "file_name": "ASPDAC-XPPE.pdf",
+        "authors": "Hosein Makrani, Hossein Sayadi, Sara Bondi, Tinoosh Mohsenin, Setareh Rafatirad, Avesta Sasan, Houman Homayoun",
+        "details": "24th Asia and South Pacific Design Automation Conference, (ASPDAC 2019)"
+      },
+      {
+        "journal": "ASPDAC",
+        "title": "IR-ATA: IR Annotated Timing Analysis, A Flow for Closing the Loop Between PDN design, IR  Analysis & Timing Closure",
+        "file_name": "iiswc2017-2017-Hosein-2.pdf",
+        "authors": "Ashkan Vakil, Houman Homayoun, Avesta Sasan",
+        "details": "24th Asia and South Pacific Design Automation Conference, (ASPDAC 2019)"
+      },
+      {
+        "journal": "ISQED",
+        "title": "Exploiting Energy-Accuracy Trade-off through Contextual Awareness in Multi-Stage Convolutional Neural Networks",
+        "file_name": "Neshatpour_Sasan_CNN_.pdf",
+        "authors": "Katayoun Neshatpour, Houman Homayoun , Avesta Sasan (Invited Talk)",
+        "details": "20th International Symposium on Quality of Electronic Design, (ISQED 2019)"
+      }
+    ]
+  },
+  {
+    "year": "2018",
+    "entries": [
+      {
+        "journal": "DAC",
+        "title": "Ensemble Learning for Hardware-Based Malware Detection: A Comprehensive Analysis and Classification",
+        "file_name": "sayadi-dac.pdf",
+        "authors": "Hossein Sayadi, Sai Manoj PD , Houman Homayoun",
+        "details": "ACM/IEEE 55th Design Automation Conference. (DAC), 2018"
+      },
+      {
+        "journal": "DATE",
+        "title": "ICNN: An Iterative Implementation of Convolutional Neural Networks to Enable Energy and Computational Complexity Aware Dynamic Approximation",
+        "file_name": "katayoun-date.pdf",
+        "authors": "Katayoun Neshatpour, Farnaz Behnia, Houman Homayoun, Avesta Sasan",
+        "details": "Design, Automation & Test in Europe, (DATE), 201"
+      },
+      {
+        "journal": "ICCAD",
+        "title": "Efficient Utilization of Adversarial Training towards Robust Machine Learners and its Analysis",
+        "file_name": "sai-iccad.pdf",
+        "authors": "Sai Manoj P D, Sairaj Amberkar, Setareh Rafatirad, Houman Homayoun",
+        "details": "IEEE/ACM International Conference on Computer Aided Design, Special Session (ICCAD) 2018"
+      },
+      {
+        "journal": "ASPDAC",
+        "title": "Power Conversion Efficiency-Aware Mapping of Multithreaded Applications on Heterogeneous Architectures: A Comprehensive Parameter Tuning",
+        "file_name": "sayad-aspdac.pdf",
+        "authors": "Hossein Sayadi, Divya Pathak, Ioannis Savidis, Houman Homayoun",
+        "details": "23rd Asia and South Pacific Design Automation Conference, (ASPDAC), 2018"
+      },
+      {
+        "journal": "FCMM",
+        "title": "Design Space Exploration for Acceleration of Machine Learning Applications",
+        "file_name": "fccm-2018.pdf",
+        "authors": "Katayoun Neshatpour, Houman Homayoun",
+        "details": "The 26th IEEE International Symposium on Field-Programmable Custom Computing Machines, 2018"
+      },
+      {
+        "journal": "RECONFIG",
+        "title": "A Scalable and Low Power DCNN for Multimodal Data Classification",
+        "file_name": "",
+        "authors": "Ali Jafari, Morteza Hosseini, Houman Homayoun and Tinoosh Mohsenin",
+        "details": "International Conference on Reconfigurable Computing and FPGAs, (Reconfig 2018)"
+      },
+      {
+        "journal": "CASES",
+        "title": "Hardware-Assisted Security: Understanding Security Vulnerabilities, Emerging Attacks and Existing Defenses",
+        "file_name": "cases2018.pdf",
+        "authors": "Sai Manoj Pudukotai Dinakarrao, Ferdinand Brasser, Lucas Davi, Abhijitt Dhavlle, Tommaso Frassetto, Setareh Rafatirad, Ahmad-Reza Sadeghi, Hossein Sayadi, and Shaza Zeitouni, Houman Homayoun",
+        "details": "In Proceedings of the 2018 International Conference on Compilers, Architecture, and Synthesis for Embedded Systems, CASES 2018"
+      },
+      {
+        "journal": "SoCC",
+        "title": "Energy-aware and Machine Learning-based Resource Provisioning of In-Memory Analytics on Cloud",
+        "file_name": "p517-Makrani",
+        "authors": "Hosein Mohammadi Makrani, Hossein Sayadi, Devang Motwani, Han Wang, Setareh Rafatirad, Houman Homayoun",
+        "details": "ACM Symposium on Cloud Computing 2018 (SoCC 2018"
+      },
+      {
+        "journal": "IOLTS",
+        "title": "Benchmarking the Capabilities and Limitations of SAT Solvers in Defeating Obfuscation Schemes",
+        "file_name": "iolts-2018.pdf",
+        "authors": "Shervin Roshanisefat, Harshith Thirumala, Houman Homayoun, Kris Gaj, Avesta Sasan",
+        "details": "24th IEEE International Symposium on On-Line Testing and Robust System Design. (IOLTS 2018"
+      },
+      {
+        "journal": "SAMOS",
+        "title": "Architectural Considerations for FPGA Acceleration of Machine Learning Applications in MapReduce",
+        "file_name": "Samos_katayoun.pdf",
+        "authors": "Katayoun Neshatpour,Hosein Mohammadi Mokrani, Avesta Sasan, Hassan Ghasemzadeh, Setareh Rafatirad, Houman Homayoun",
+        "details": "International Symposium on Systems, Systems, Architectures, Modeling and Simulation. SAMOS XVIII 2018, Samos, Greece"
+      },
+      {
+        "journal": "MEMSYS",
+        "title": "A comprehensive Memory Analysis of Data Intensive Workloads on Server Class Architecture",
+        "file_name": "memsys2018.pdf",
+        "authors": "Hosein Mohammadi Makrani, Hossein Sayadi, Sai Manoj Pudukotai Dinakarra, Setareh Rafatirad, Houman Homayoun",
+        "details": "The International Symposium on Memory Systems (MEMSYS 2018)"
+      },
+      {
+        "journal": "ASAP",
+        "title": "Compressive Sensing on Storage Data: An Effective Solution to Alleviate I/O Bottleneck in Data Intensive Workloads",
+        "file_name": "hosein-asap.pdf",
+        "authors": "Hosein Mohammadi Makrani, Hossein Sayadi, Sai Manoj Pudukotai Dinakarrao, Setareh Rafatirad, Houman Homayoun",
+        "details": "The 29th Annual IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP 2018"
+      },
+      {
+        "journal": "ISVLSI",
+        "title": "LUT-Lock: A Novel LUT-based Logic Obfuscation for FPGA-Bitstream and ASIC-Hardware Protection",
+        "file_name": "hadi-isvlsi.pdf",
+        "authors": "Hadi Mardani Kamali, Kimia Zamiri Azar, Kris Gaj, Houman Homayoun, Avesta Sasan",
+        "details": "IEEE Computer Society Annual Symposium on VLSI, (ISVLSI 2018)"
+      },
+      {
+        "journal": "CCGRID",
+        "title": "Main-Memory Requirements of Big Data Applications on Commodity Server Platform",
+        "file_name": "hosein-ccgrid.pdf",
+        "authors": "Hosein Mohammadi Makrani, Setareh Rafatirad and Houman Homayoun",
+        "details": "18th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, 2018"
+      },
+      {
+        "journal": "CF",
+        "title": "Comprehensive Assessment of Run-Time Hardware-Supported Malware Detection Using General and Ensemble Learning",
+        "file_name": "p212-sayadi.pdf",
+        "authors": "Hossein Sayadi, Sai Manoj, Setareh Rafatirad, Houman Homayoun",
+        "details": "ACM International Conference on Computing Frontiers (CF) 2017"
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "entries": [
+      {
+        "journal": "IISWC",
+        "title": "MeNa: A Memory Navigator for Modern Hardware in Scale-out Environment",
+        "file_name": "iiswc2017-2017-Hosein-2.pdf",
+        "authors": "Hosein Makrani, Houman Homayoun",
+        "details": "2017 IEEE International Symposium on Workload Characterization, (IISWC), 2017"
+      },
+      {
+        "journal": "IISWC",
+        "title": "Co-Locating and Concurrent Fine-Tuning MapReduce Applications on Microservers for Energy Efficiency",
+        "file_name": "Malik-IISWC-2017.pdf",
+        "authors": "Maria Malik, Dean Tullsen, Houman Homayoun",
+        "details": "2017 IEEE International Symposium on Workload Characterization, (IISWC), 2017"
+      },
+      {
+        "journal": "IISWC",
+        "title": "Memory Requirements of Hadoop, Spark, and MPI Based Big Data Applications on Commodity Server Class Architecture",
+        "file_name": "iiswc2017-2017-Hosein-1.pdf",
+        "authors": "Hosein Makrani, Houman Homayoun",
+        "details": "2017 IEEE International Symposium on Workload Characterization, (IISWC), 2017"
+      },
+      {
+        "journal": "DAC",
+        "title": "Analyzing Hardware Based Malware Detectors",
+        "file_name": "DAC-2017.pdf",
+        "authors": "Nisarg Patel and Houman Homayoun",
+        "details": "ACM/IEEE 54th Design Automation Conference. (DAC), 2017"
+      },
+      {
+        "journal": "DATE",
+        "title": "Big vs Little Core for Energy-Efficient Hadoop Computing",
+        "file_name": "DATE2017-1.pdf",
+        "authors": "Maria Malik, Katayoun Neshatpour, Tinoosh Mohsenin, Avesta Sasan and Houman Homayoun",
+        "details": "Design, Automation & Test in Europe, (DATE), 2017"
+      },
+      {
+        "journal": "DATE",
+        "title": "LESS: Big Data Sketching and Encryption on Low Power Platform",
+        "file_name": "DATE-2017-2.pdf",
+        "authors": "Amey Kulkarni, Colin Shea, Houman Homayoun and Tinoosh Mohsenin",
+        "details": "Design, Automation & Test in Europe, (DATE), 2017"
+      },
+      {
+        "journal": "ISLPED",
+        "title": "Spatial and Temporal Scheduling of Clock Arrival Times for IR Hot- Spot Mitigation, Reformulation of Peak Current Reduction",
+        "file_name": "ISLPED-2017.pdf",
+        "authors": "Bhoopal Re Gunna, Houman Homayoun, Avesta Sasan",
+        "details": "The International Symposium on Low Power Electronics and Design (ISLPED), 2017"
+      },
+      {
+        "journal": "ICCD",
+        "title": "Machine Learning-based Approaches for Energy Efficiency Prediction and Scheduling in Composite Cores Architectures",
+        "file_name": "",
+        "authors": "Hossein Sayadi, Avesta Sasan, Houman Homayoun",
+        "details": "IEEE International Conference on Computer Design (ICCD), 2017"
+      },
+      {
+        "journal": "ISVLSI",
+        "title": "A Power Delivery Network and Cell Placement Aware IR-Drop Mitigation Technique: Harvesting Unused Timing Slacks to Schedule Useful Skews",
+        "file_name": "ISVLSI-2017.pdf",
+        "authors": "Lakshmi Bhamidipati, Bhoopal Gunna, Houman Homayoun, Avesta Sasan",
+        "details": "IEEE Computer Society Annual Symposium on VLSI, (ISVLSI), 2017"
+      },
+      {
+        "journal": "IGSC",
+        "title": "Understanding the Role of Memory Subsystem on Performance and Energy-Efficiency of Hadoop Applications",
+        "file_name": "IGSC17-2017-Hosein.pdf",
+        "authors": "Hosein Makrani, Shahab Tabatabaei, Setareh Rafatirad and Houman Homayoun",
+        "details": "The Eighth International Green and Sustainable Computing Conference, (IGSC), 2017. (Invited Special Session Talk)"
+      },
+      {
+        "journal": "IGSC",
+        "title": "Scheduling Multithreaded Applications onto Heterogeneous Composite Cores Architectures",
+        "file_name": "IGSC17-Hossein.pdf",
+        "authors": "Hossein Sayadi, Houman Homayoun",
+        "details": "The Eighth International Green and Sustainable Computing Conference, (IGSC), 2017"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "Work Load Scheduling For Multi Core Systems With Under-Provisioned Power Delivery",
+        "file_name": "GLSVLSI-2017.pdf",
+        "authors": "Divya Pathak, Houman Homayoun, Ioannis Savidis",
+        "details": "27th ACM International Conference of the Great Lakes Symposium on VLSI, (GLSVLSI), 2017"
+      }
+    ]
+  },
+  {
+    "year": "2016",
+    "entries": [
+      {
+        "journal": "DAC",
+        "title": "STT-CMOS Hybrid Designs for Reverse-engineering Prevention",
+        "file_name": "DAC2016.pdf",
+        "authors": "Ted Winograd, Hassan Salmani, Hamid Mahmoodi, Kris Gaj, Houman Homayoun",
+        "details": "ACM/IEEE 53rd Design Automation Conference. (DAC), 2016"
+      },
+      {
+        "journal": "SOCC",
+        "title": "Comparative Analysis of Hybrid Magnetic Tunnel Junction and CMOS Logic Circuits",
+        "file_name": "SOCC2016.pdf",
+        "authors": "Darya Almasi, Houman Homayoun, Hassan Salmani, Hamid Mahmoodi",
+        "details": "29th IEEE International System-on-Chip Conference (SOCC), 2016"
+      },
+      {
+        "journal": "ICCD",
+        "title": "Dynamic Single and Dual Rail Spin Transfer Torque Look Up Tables with Enhanced Robustness under CMOS and MTJ Process Variations",
+        "file_name": "ICCD2016.pdf",
+        "authors": "Aliyar Attaran, Hassan Salmani, Houman Homayoun and Hamid Mahmoodi",
+        "details": "IEEE International Conference on Computer Design (ICCD), 2016"
+      },
+      {
+        "journal": "CODES+ISSS",
+        "title": "Big Data Analytics on Heterogeneous Accelerator Architectures",
+        "file_name": "CODES2016.pdf",
+        "authors": "Katayoun Neshatpour, Avesta Sasan, Houman Homayoun",
+        "details": "IEEE/ACM International Conference on Hardware/Software Codesign and System Synthesis"
+      },
+      {
+        "journal": "CF",
+        "title": "Heterogeneous Chip Multiprocessor Architectures for Big Data Applications",
+        "file_name": "CF2016.pdf",
+        "authors": "Houman Homayoun",
+        "details": "ACM International Conference on Computing Frontiers (CF) 2016. (Invited Talk"
+      },
+      {
+        "journal": "ISVLSI",
+        "title": "Architecture Exploration for Energy-Efficient Embedded Vision Applications: From General Purpose Processor to Domain Specific Accelerator",
+        "file_name": "ISVLSI2016.pdf",
+        "authors": "Maria Malik, Farnoud Farahmand, Paul Otto, Nima Akhlaghi, Tinoosh Mohsenin, Siddhartha Sikdar, Houman Homayoun",
+        "details": "IEEE Computer Society Annual Symposium on VLSI, (ISVLSI) 2016"
+      },
+      {
+        "journal": "ISPASS",
+        "title": "Characterizing Hadoop Applications on Microservers for Performance and Energy Efficiency Optimizations",
+        "file_name": "ISPASS2016.pdf",
+        "authors": "Maria Malik, Setareh Rafatirad, Rajiv Joshi, Houman Homayoun",
+        "details": "IEEE International Symposium on Performance Analysis of Systems and Software, (ISPASS) 2016"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "Low-Power ManyCore Accelerator for Personalized Biomedical Applications",
+        "file_name": "GLSVLSI2016-1.pdf",
+        "authors": "Adam Page, Nasrin Attaran, Colin Shea, Houman Homayoun and Tinoosh Mohsenin",
+        "details": "26th ACM International Conference of the Great Lakes Symposium on VLSI, (GLSVLSI) 2016"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "Load Balanced On-Chip Power Delivery for Average Current Demand",
+        "file_name": "GLSVLSI2016-2.pdf",
+        "authors": "Divya Pathak, Mohammad Hajkazemi, Mohammad Tavana, Houman Homayoun and Ioannis Savidis",
+        "details": "26th ACM International Conference of the Great Lakes Symposium on VLSI, (GLSVLSI) 2016. (Best Paper Award"
+      },
+      {
+        "journal": "ISCAS",
+        "title": "Comparative Analysis of Robustness of Spin Transfer Torque based Look Up Tables Under Process Variations",
+        "file_name": "ISCAS2016-3.pdf",
+        "authors": "Ragh Kuttappa, Hassan Salmani, Hamid Mahmoodi, Houman Homayoun",
+        "details": "IEEE International Symposium on Circuits and Systems, (ISCAS) 2016"
+      },
+      {
+        "journal": "ISCAS",
+        "title": "Energy Efficient On-Chip Power Delivery with Run-Time Voltage Regulator Clustering",
+        "file_name": "ISCAS2016-1.pdf",
+        "authors": "Divya Pathak, Mohammad Khavari Tavana, Mohammad Hossein Hajkazemi, Houman Homayoun and Ioannis Savidis",
+        "details": "IEEE International Symposium on Circuits and Systems, (ISCAS) 2016"
+      },
+      {
+        "journal": "ISCAS",
+        "title": "Big Biomedical Image Processing Hardware Acceleration: A Case Study for K-means and Image Filtering",
+        "file_name": "ISCAS2016-2.pdf",
+        "authors": "Katayoun Neshatpour, Arezou Koohi, Maria Malik, Avesta Sasan, Setareh Rafatirad, Houman Homayoun",
+        "details": "IEEE International Symposium on Circuits and Systems, (ISCAS) 2016"
+      },
+      {
+        "journal": "ISQED",
+        "title": "Preventing Design Reverse Engineering with Reconfigurable Spin Transfer Torque LUT Gates",
+        "file_name": "ISQED2016.pdf",
+        "authors": "Ted Winograd, Hasan Salmani, Hamid Mahmoodi, Houman Homayoun",
+        "details": "17th International Symposium on Quality of Electronic Design, (ISQED) 2016"
+      }
+    ]
+  },
+  {
+    "year": "2015",
+    "entries": [
+      {
+        "journal": "BigData",
+        "title": "System and Architecture Level Characterization of Big Data Applications on Big and Little Core Server Architectures",
+        "file_name": "BD2015-2.pdf",
+        "authors": "Maria Malik, Setareh Rafatirad, Houman Homayoun",
+        "details": "IEEE BigData Conference 2015"
+      },
+      {
+        "journal": "BigData",
+        "title": "Energy-Efficient Acceleration of Big Data Analytics Applications Using FPGAs",
+        "file_name": "BD2015-1.pdf",
+        "authors": "Katayoun Neshatpour, Maria Malik, Mohammad Ali Ghodrat, Avesta Sasan, Houman Homayoun",
+        "details": "IEEE BigData Conference 2015"
+      },
+      {
+        "journal": "ICCD",
+        "title": "Wide I/O or LPDDR? Exploration and Analysis of Performance, Power and Temperature Trade-Offs of Emerging DRAM Technologies in Embedded MPSoCs",
+        "file_name": "ICCD15-4.pdf",
+        "authors": "Mohammad Hossein Hajkazemi, Mohammad Khavari Tavana and Houman Homayoun",
+        "details": "IEEE International Conference on Computer Design (ICCD), 2015"
+      },
+      {
+        "journal": "ICCD",
+        "title": "Realizing Complexity-Effective On-Chip Power Delivery for Many-Core Platforms by Exploiting Optimized Mapping",
+        "file_name": "ICCD15-3.pdf",
+        "authors": "Mohammad Khavari Tavana, Divya Pathak, Mohammad Hossein Hajkazemi, Maria Malik, Ioannis Savidis and Houman Homayoun",
+        "details": "IEEE International Conference on Computer Design (ICCD), 2015"
+      },
+      {
+        "journal": "ICCD",
+        "title": "Big Data on Low Power Cores Are Low Power Embedded Processors a Good Fit for the Big Data Workloads?",
+        "file_name": "ICCD15-1.pdf",
+        "authors": "Maria Malik and Houman Homayoun",
+        "details": "IEEE International Conference on Computer Design (ICCD), 2015"
+      },
+      {
+        "journal": "ICCD",
+        "title": "Power and Performance Characterization, Analysis and Tuning for Energy-efficient Edge Detection on Atom and ARM Based Platforms",
+        "file_name": "ICCD15-2.pdf",
+        "authors": "Paul Otto, Maria Malik, Nima Akhlaghi, Rebel Sequeira, Houman Homayoun and Siddhartha Sikdar",
+        "details": "IEEE International Conference on Computer Design (ICCD), 2015"
+      },
+      {
+        "journal": "CF",
+        "title": "Just-in-time Component-Wise Power and Thermal Modeling",
+        "file_name": "CF2015.pdf",
+        "authors": "Shah Mohammad Faizur Rahman, Qing Yi, Houman Homayoun",
+        "details": "ACM Conference On Computing Frontiers 2015"
+      },
+      {
+        "journal": "FCCM",
+        "title": "Accelerating Big Data Analytics Using FPGAs",
+        "file_name": "FCCM2015.pdf",
+        "authors": "Katayoun Neshatpour, Maria Malik, Mohammad Ali Ghodrat, Houman Homayoun",
+        "details": "The 23rd IEEE International Symposium on Field-Programmable Custom Computing Machines, 2015"
+      },
+      {
+        "journal": "DAC",
+        "title": "ElasticCore: Enabling Dynamic Heterogeneity with Joint Core and Voltage/Frequency Scaling",
+        "file_name": "DAC2015.pdf",
+        "authors": "Mohammad Khavari Tavana, Mohammad Hajkazemi, Divya Pathak, Ioannis Savidis, Houman Homayoun",
+        "details": "ACM/IEEE 52TH Design Automation Conference. (DAC 2015)"
+      },
+      {
+        "journal": "CCGRID",
+        "title": "Accelerating Machine Learning Kernels in Hadoop Using FPGAs",
+        "file_name": "CCGRID2015.pdf",
+        "authors": "Katayoun Neshatpour, Maria Malik, Mohammad Ali Ghodrat, Houman Homayoun",
+        "details": "15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, 2015"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "Adaptive Bandwidth Management for Performance-Temperature Trade-offs in Heterogeneous HMC+DDRx Memory",
+        "file_name": "GLSVLSI2015-1.pdf",
+        "authors": "Mohammad Hossein Hajkazemi, Michael Chorney, Reyhaneh Jabbarvand Behrouz, Mohammad Khavari Tavana and Houman Homayoun",
+        "details": "25th ACM International Conference of the Great Lakes Symposium on VLSI, 2015"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "Revisiting Dynamic Thermal Management Exploiting Inverse Thermal Dependence",
+        "file_name": "GLSVLSI2015-2.pdf",
+        "authors": "Katayoun Neshatpour, Amin Khajeh-Djahromi, Wayne Bfile_nameeson",
+        "details": "25th ACM International Conference of the Great Lakes Symposium on VLSI, 2015"
+      }
+    ]
+  },
+  {
+    "year": "2014",
+    "entries": [
+      {
+        "journal": "DAC",
+        "title": "Enabling Dynamic Heterogeneity Through Core on Core Stacking. (Special Session Talk)",
+        "file_name": "DAC-2014.pdf",
+        "authors": "Vasileios Kontorinis, Mohammad Khavari Tavana, Mohammad Hajkazemi, Dean Tullsen, Houman Homayoun",
+        "details": "ACM/IEEE 51TH Design Automation Conference. (DAC 2014)"
+      },
+      {
+        "journal": "ISLPED",
+        "title": "Energy-efficient mapping of biomedical applications on domain-specific accelerator under process variation",
+        "file_name": "ISLPED-2014.pdf",
+        "authors": "Mohammad Khavari Tavana, Amey M. Kulkarni, Abbas Rahimi, Tinoosh Mohsenin, Houman Homayoun",
+        "details": "International Symposium on Low Power Electronics and Design, (ISLPED 2014)"
+      },
+      {
+        "journal": "DATE",
+        "title": "Exploiting STT-NV Technology for Reconfigurable, High Performance, Low Power, and Low Temperature Functional Unit Design",
+        "file_name": "DATE-2014.pdf",
+        "authors": "Adarsh Reddy Ashammagari, Hamid Mahmoodi, Houman Homayoun",
+        "details": "Design, Automation & Test in Europe, (DATE 2014)"
+      },
+      {
+        "journal": "ICCD",
+        "title": "Modeling and Analysis of Phase Change Materials for Efficient Thermal Management",
+        "file_name": "ICCD-2014.pdf",
+        "authors": "Fulya Kaplan, Charlie De Vivero, Samuel Howes, Manish Arora, Houman Homayoun, Wayne Bfile_nameeson, Dean Tullsen,",
+        "details": "Ayse Coskun"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "A Parallel and Reconfigurable Architecture for Efficient OMP Compressive Sensing Reconstruction",
+        "file_name": "GLSVLSI-1-2014.pdf",
+        "authors": "Amey Kulkarni, Houman Homayoun and Tinoosh Mohsenin",
+        "details": "24th ACM International Conference of the Great Lakes Symposium on VLSI, 2014"
+      },
+      {
+        "journal": "GLSVLSI",
+        "title": "Reconfigurable STT-NV LUT-based Functional Units to Improve Performance in General-Purpose Processors",
+        "file_name": "GLSVLSI-2-2014.pdf",
+        "authors": "Adarsh Reddy, Ashammagari, Hamid Mahmoodi, Tinoosh Mohsenin, Houman Homayoun",
+        "details": "24th ACM International Conference of the Great Lakes Symposium on VLSI, 2014"
+      },
+      {
+        "journal": "IGCC",
+        "title": "NVP: Non-uniform Voltage and Pulse width Settings for Power Efficient Hybrid STT-RAM",
+        "file_name": "IGCC-2014.pdf",
+        "authors": "Reyhaneh Jabbarvand Behrouz, Houman Homayoun",
+        "details": "International Green Computing Conference, (IGCC 2014)"
+      }
+    ]
+  },
+  {
+    "year": "2013",
+    "entries": [
+      {
+        "journal": "ICCD",
+        "title": "Low-Current Probabilistic Writes for Power-Efficient STT-RAM Cache",
+        "file_name": "ICCD-2013.pdf",
+        "authors": "Nikolaos Strikos, Vasileios Kontorinis, Xiangyu Dong, Houman Homayoun, Dean Tullsen",
+        "details": "International Conference on Computer Design (ICCD), 2013"
+      },
+      {
+        "journal": "IGCC",
+        "title": "REMEDIATE: A Scalable Fault-tolerant Architecture for Low-Power NUCA Cache in Tiled CMPs",
+        "file_name": "REMEDIATE_IGCC2013.pdf",
+        "authors": "Abbas Banayian, Houman Homayoun, Vasikeios Kontorinis, Dean Tullsen, Nikil Dutt",
+        "details": "International Green Computing Conference. IGCC 2013"
+      },
+      {
+        "journal": "DAC",
+        "title": "VAWOM: Temperature and Process Variation Aware WearOut Management in 3D Multicore Architecture",
+        "file_name": "DAC-2013.pdf",
+        "authors": "Hossein Tajik, Houman Homayoun, Nikil Dutt",
+        "details": "ACM/IEEE 50th Design Automation Conference, Austin, Texas"
+      },
+      {
+        "journal": "ASPDAC",
+        "title": "Heterogeneous Memory Management for 3D-DRAM and External DRAM with Qo",
+        "file_name": "ASPDAC-2013.pdf",
+        "authors": "Le-Nguyen Tran, Houman Homayoun, Fadi Kurdahi, Ahmed Eltawil",
+        "details": "18th Asia and South Pacific Design Automation Conference"
+      },
+      {
+        "journal": "ISQED",
+        "title": "Temperature Aware Thread Migration in 3D Architecture with Stacked DRA",
+        "file_name": "ISQED-3D.pdf",
+        "authors": "Dali Zhao, Houman Homayoun, Alex Veidenbaum",
+        "details": "14th International Symposium on Quality of Electronic Design (ISQED) 2013.San Jose, California"
+      },
+      {
+        "journal": "ISQED",
+        "title": "A Many-core Platform for Biomedical Signal and Image Processin",
+        "file_name": "accelerator.pdf",
+        "authors": "Jordan Bisasky, Tinoosh Mohsenin and Houman Homayoun",
+        "details": "14th International Symposium on Quality of Electronic Design (ISQED) 2013.San Jose, California"
+      }
+    ]
+  },
+  {
+    "year": "2012",
+    "entries": [
+      {
+        "journal": "ISCA",
+        "title": "Managing Distributed UPS Energy for Effective Power Capping in Data Center",
+        "file_name": "ISCA_batteries_Final_2011-11-21.pdf",
+        "authors": "Vasileios Kontorinis, Baris Aksanli, Houman Homayoun, John Sampson, Tajana S. Rosing, and",
+        "details": "Dean M. Tullsen"
+      },
+      {
+        "journal": "HPCA Acceptance rate 17% (36/210)",
+        "title": "Dynamically heterogeneous cores through 3D resource poolin",
+        "file_name": "hpca18-paper277.pdf",
+        "authors": "Houman Homayoun, Vasileios Kontorinis, Ta-Wei Lin, Amirali Shayan and Dean M. Tullsen",
+        "details": "International Symposium on High-Performance Computer Architecture, HPCA 2012. New Orleans, Louisiana"
+      },
+      {
+        "journal": "ISQED",
+        "title": "Hot Peripheral Thermal Management to Mitigate Cache Temperature Variatio",
+        "file_name": "ISQED-2012-submitted.pdf",
+        "authors": "Houman Homayoun, Mehryar Rahmatian, Vasileios Kontorinis, Shahin Golshan, Dean Tullsen",
+        "details": "13th International Symposium on Quality of Electronic Design (ISQED) 2012.San Jose, California"
+      },
+      {
+        "journal": "ISQED",
+        "title": "History & Variation Trained Cache (HVT-Cache):A Process Variation Aware and Fine Grain voltage Scalable Cache with Active Access History Monitoring",
+        "file_name": "ISLPED_AvestaSasanFJK.pdf",
+        "authors": "Avesta Sasan, Houman Homayoun, Kiarash Amiri, Ahmed Eltawil and Fadi Kurdahi",
+        "details": "13th International Symposium on Quality of Electronic Design (ISQED) 2012.San Jose, California"
+      }
+    ]
+  },
+  {
+    "year": "2011",
+    "entries": [
+      {
+        "journal": "CASES Acceptance rate 35%",
+        "title": "FFT-Cache: A Flexible Fault-Tolerant Cache Architecture for Ultra Low Voltage Operatio",
+        "file_name": "p95-mofrad.pdf",
+        "authors": "Abbas Banaiyan, Houman Homayoun and Nikil Dutt",
+        "details": "In Proceedings of the 2011 International Conference on Compilers, Architecture, and Synthesis for Embedded Systems, CASES 2011. Taipei, Taiwan"
+      },
+      {
+        "journal": "CODES-ISSS Acceptance tare 28% (33/117)",
+        "title": "Reliability-Aware Placement in SRAM-based FPGA for Voltage Scaling Realization in the Presence of Process Variations",
+        "file_name": "p257-golshan.pdf",
+        "authors": "Shahin Golshan, Amin Khajeh, Houman Homayoun, Eli Bozorgzadeh, Ahmed Eltaweel and Fadi Kurdahi",
+        "details": "In Proceedings of the 9th International Conference on Hardware/Software Codesign and System Synthesis, CODES+ISSS 2011. Taipei, Taiwan"
+      }
+    ]
+  },
+  {
+    "year": "2010",
+    "entries": [
+      {
+        "journal": "HiPEAC Acceptance rate 25.5% (24/94)",
+        "title": "RELOCATE: Register File Local Access Pattern Redistribution Mechanism for Power and Thermal Management in Out-of-Order Embedded Processor",
+        "file_name": "fulltext.pdf",
+        "authors": "Houman Homayoun, Aseem Gupta, Alex Veidenbaum, Fadi J. Kurdahi, Nikil Dutt",
+        "details": "5th International Conference of High Performance Embedded Architectures and Compilers, (HiPEAC 2010)"
+      },
+      {
+        "journal": "ISQED Acceptance rate 31% (84/270)",
+        "title": "Post-Synthesis Sleep Transistor Insertion for Leakage Power Optimization in Clock Tree Networks",
+        "file_name": "ISQED.pdf",
+        "authors": "Houman Homayoun, Shahin Golshan, Eli Bozorgzadeh, Fadi Kurdahi, Alex Veidenbaum",
+        "details": "11th IEEE International Symposium on Quality Electronic Design. (ISQED"
+      },
+      {
+        "journal": "CF Acceptance rate 26% (30/113)",
+        "title": "Multiple sleep modes leakage control in peripheral circuits of a all major SRAM-based processor units",
+        "file_name": "p297-homayoun.pdf",
+        "authors": "Houman Homayoun, Avesta Sasan, Aseem Gupta, Alex Veidenbaum, Fadi Kurdahi, Nikil Dutt",
+        "details": "2010 ACM International Conference on Computing Frontiers, (CF)"
+      },
+      {
+        "journal": "CASES",
+        "title": "E < MC^2 : Less Energy through Multi-Copy Cache",
+        "file_name": "cases-2010.pdf",
+        "authors": "Arup Chakraborty, Houman Homayoun, Amin Khejah, Nikil Dutt, Ahmed Eltawil, Fadi Kurdahi",
+        "details": "In Proceedings of the 2010 International Conference on Compilers, Architecture, and Synthesis for Embedde"
+      },
+      {
+        "journal": "ISLPED Acceptance rate 24% (52/210)",
+        "title": "Exploiting Power Budgeting in Thermal-Aware Dynamic Placement for Reconfigurable System",
+        "file_name": "ISLPED-2010.pdf",
+        "authors": "Shahin Golshan, Kazutoshi Wakabayashi, Benjamin Carrión Schäfer, Houman Homayoun, Elaheh Bozorgzadeh",
+        "details": "International Symposium on Low Power Electronics and Design, ISLPED 2010. Austin, Texas"
+      }
+    ]
+  },
+  {
+    "year": "2009",
+    "entries": [
+      {
+        "journal": "CASES Acceptance rate 42% (31/72)",
+        "title": "A Fault Tolerant Cache Architecture for Sub 500mv Operation Resizable Data Composer Cache (RDC-Cache)",
+        "file_name": "cases-09.pdf",
+        "authors": "Avesta Makhzan, Houman Homayoun, Ahmed Eltawil, Fadi J. Kurdahi",
+        "details": "In Proceedings of the 2009 International Conference on Compilers, Architecture, and Synthesis for Embedde"
+      },
+      {
+        "journal": "DATE Acceptance rate 23%, (226/965)",
+        "title": "Process Variation Aware Cache for Aggressive Voltage-Frequency Scaling",
+        "file_name": "date-092.pdf",
+        "authors": "Avesta Makhzan, Houman Homayoun, Ahmed Eltawil, Fadi J. Kurdahi",
+        "details": "Design, Automation & Test in Europe, DATE 2009, Nice, France"
+      }
+    ]
+  },
+  {
+    "year": "2008",
+    "entries": [
+      {
+        "journal": "DAC Acceptance rate   23% (147/639)",
+        "title": "Dynamic Register File Resizing and Frequency Scaling to Improve Embedded Processor Performance and Energy-Delay Efficiency",
+        "file_name": "DAC-08.pdf",
+        "authors": "Houman Homayoun, Sudeep Pasricha, Mohammad A. Makhzan, Alexander V. Veidenbaum",
+        "details": "ACM/IEEE 45TH Design Automation Conference, DAC 2008. Anaheim, U.S.A"
+      },
+      {
+        "journal": "CASES Acceptance rate 33% (27/82)",
+        "title": "Multiple Sleep Mode Leakage Control for Cache Peripheral Circuits in Embedded Processors",
+        "file_name": "cases-08.pdf",
+        "authors": "Houman Homayoun, Mohammad Makhzan and Alex Veidenbaum",
+        "details": "In Proceedings of the 2008 International Conference on Compilers, Architecture, and Synthesis for Embedde"
+      },
+      {
+        "journal": "ICCD Acceptance rate 34% (106/306)",
+        "title": "Adaptive Techniques for Leakage Power Management in L2 Cache Peripheral Circuits",
+        "file_name": "iccd-08-arch.pdf",
+        "authors": "Houman Homayoun, Alex Veidenbaum and Jean-Luc Gaudiot",
+        "details": "In Proceedings of XXVI IEEE International Conference on Computer Design, ICCD 2008.Lake Tahoe,U.S.A"
+      },
+      {
+        "journal": "LCTES Acceptance rate 25% (17/68)",
+        "title": "Improving Performance and Reducing Energy-Delay with Adaptive Resource Resizing for Out-Of Order Embedded Processors",
+        "file_name": "lctes-08.pdf",
+        "authors": "Houman Homayoun, Sudeep Pasricha, Mohammad A. Makhzan, Alexander V. Veidenbaum",
+        "details": "ACM SIGPLAN/SIGBED 2008 Conference on Languages, Compilers, and Tools for Embedded Systems"
+      },
+      {
+        "journal": "ICCD Acceptance rate 34% (106/306)",
+        "title": "ZZ-HVS: Zig-Zag Horizontal and Vertical Sleep Transistor Sharing to Reduce Leakage Power in On Chip SRAM Peripheral Circuits",
+        "file_name": "iccd-08-circuit.pdf",
+        "authors": "Houman Homayoun, Mohammad Makhzan and Alex Veidenbaum",
+        "details": "In Proceedings of XXVI IEEE International Conference on Computer Design, ICCD 2008. Lake Tahoe, U.S.A"
+      },
+      {
+        "journal": "SAMOS Acceptance rate 36% (29/79)",
+        "title": "A Centralized Cache Miss Driven Technique to Improve Processor Power Dissipation",
+        "file_name": "samos-08.pdf",
+        "authors": "Houman Homayoun, Mohammad Makhzan, Jean-Luc Gaudiot, and Alex Veidenbaum",
+        "details": "International Symposium on Systems, Systems, Architectures, Modeling and Simulation. SAMOS VIII 2008, Samos"
+      }
+    ]
+  },
+  {
+    "year": "2007",
+    "entries": [
+      {
+        "journal": "ICCD Acceptance rate 27%",
+        "title": "Reducing Leakage Power in Peripheral Circuit of L2 Caches",
+        "file_name": "iccd-07.pdf",
+        "authors": "Houman Homayoun and Alexander V. Veidenbaum",
+        "details": "In Proceedings of XXV IEEE International Conference on Computer Design, ICCD 2007. Lak"
+      }
+    ]
+  },
+  {
+    "year": "2006",
+    "entries": [
+      {
+        "journal": "UCAS-2",
+        "title": "Using Lazy Instruction Prediction to Reduce Processor Wakeup Power Dissipation",
+        "file_name": "ISPASS06-UCAS2.pdf",
+        "authors": "Houman Homayoun and Amirali Baniasadi",
+        "details": "The 2nd workshop on unique chips and systems, in conjunction with IEEE International Symposium on Performanc"
+      },
+      {
+        "journal": "SAMOS",
+        "title": "Reducing Execution Unit Leakage Power in Embedded Processors",
+        "file_name": "SAMOS-2006.pdf",
+        "authors": "Houman Homayoun and Amirali Baniasadi",
+        "details": "The 6th International Conference on Embedded Computer Systems, SAMOS VI-2006. Samos, Greece"
+      },
+      {
+        "journal": "CCECE",
+        "title": "Reducing the Instruction Queue Leakage Power in Superscalar Processor",
+        "file_name": "ccece-06.pdf",
+        "authors": "Houman Homayoun and Ted H. Szymanski",
+        "details": "The 19th Annual Canadian Conference on Electrical and Computer Engineering, CCECE-2006, Ottawa, Canada"
+      }
+    ]
+  },
+  {
+    "year": "2005",
+    "entries": [
+      {
+        "journal": "NEWCAS",
+        "title": "Thread Scheduling Based on Low Quality Instruction Prediction for Simultaneous Multithreaded Processors",
+        "file_name": "newcas-05.pdf",
+        "authors": "Houman Homayoun, Kin F. Li and Setareh Rafatirad",
+        "details": "The 3rd International IEEE NorthEast Workshop on Circuits and Systems, IEEE-NEWCAS 2005. Montreal, Canada"
+      },
+      {
+        "journal": "VLSI-SOC",
+        "title": "Analysis of Functional Unit Power Gating in Embedded Processors",
+        "file_name": "VLSI-SOC_2005.pdf",
+        "authors": "Houman Homayoun and Amirali Baniasadi",
+        "details": "IFIP International Conference on Very Large Scale Integration System on Chip IFIP VLSI-SOC 2005. Perth, Wetsre"
+      },
+      {
+        "journal": "PACRIM",
+        "title": "Functional Unit Power Gating in Simultaneous Multithreaded Processors",
+        "file_name": "pacrim-05.pdf",
+        "authors": "Houman Homayoun, Kin F. Li. and Setareh Rafatirad",
+        "details": "The IEEE Pacific Rim Conference on Communications, Computers and Signal Processing IEEE-PACRIM 2005"
+      }
+    ]
+  }
 ]

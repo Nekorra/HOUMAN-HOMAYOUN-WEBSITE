@@ -3,6 +3,13 @@
     "year": "2022",
     "entries": [
       {
+        "journal": "JSC",
+        "title": "On Leakage Power Optimization in Clock Tree Networks for ASICs and General-Purpose Processors",
+        "file_name": "science.pdf",
+        "authors": "Homayoun, Shahin Golshan, Eli Bozorgzadeh, Alex Veidenbaum, Fadi Kurdahi.",
+        "details": "Elsevier Journal of Sustainable Computing, Volume 1, Issue 1, March 2011, Pages 75-87 (Invited paper)"
+      },
+      {
         "journal": "TVLSI",
         "title": "Inquisitive Defect Cache: A Means of Combating Manufacturing Induced Process Variation",
         "file_name": "05540313.pdf",

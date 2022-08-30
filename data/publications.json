@@ -1,6 +1,6 @@
 [
   {
-    "year": "2019",
+    "year": "2020",
     "entries": [
       {
         "journal": "ASPDAC",
@@ -148,7 +148,12 @@
         "file_name": "",
         "authors": "Shervin Roshanisefat, Hadi Mardani Kamali, Kimia Zamiri Azar, Manoj Sai, Naghmeh Karimi, Houman Homayoun, Avesta Sasan",
         "details": "IEEE VLSI Test Symposium (VTS 2020)"
-      },
+      }
+    ]
+  },
+  {
+    "year": "2019",
+    "entries": [
       {
         "journal": "ICCAD",
         "title": "Security and Complexity Analysis of LUT-based Obfuscation: From Blueprint to Reality",

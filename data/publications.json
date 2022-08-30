@@ -1,7 +1,15 @@
 [
   {
     "year": "2022",
-    "entries": ""
+    "entries": [
+      {
+        "journal": "TVLSI",
+        "title": "Inquisitive Defect Cache: A Means of Combating Manufacturing Induced Process Variation",
+        "file_name": "05540313.pdf",
+        "authors": "Avesta Makhzan, Houman Homayoun, Ahmed Eltawil, Fadi J. Kurdahi.",
+        "details": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, (TVLSI), VOL. 19, NO. 9, SEPTEMBER 2011."
+      }
+    ]
   },
   {
     "year": "2021",

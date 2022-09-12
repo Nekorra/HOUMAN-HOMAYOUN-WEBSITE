@@ -118,7 +118,7 @@
                 {{ if or $same (and (eq $path "") (eq $title "MY NEW HUGO SITE")) }}
                     <li class="active header_button"><a href="{{$site.BaseURL}}/{{ .path }}">{{ .title }}</a></li>
                 {{ else }}
-                    <li><a class="header_button" href="{{$site.BaseURL}}/{{ .path }}">{{ .title }}</a></li>
+                    <li><a class="header_button" style="color: white" href="{{$site.BaseURL}}/{{ .path }}">{{ .title }}</a></li>
                 {{ end }}
             {{ end }}
         </ul>

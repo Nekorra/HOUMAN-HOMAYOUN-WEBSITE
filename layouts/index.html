@@ -1,202 +1,219 @@
 {{ define "style" }}
 <style>
-    div {
-        display: inline-block;
-        padding: 0px;
-        margin: 0;
-        white-space: 0;
-    }
+  div {
+    display: inline-block;
+    padding: 0px;
+    margin: 0;
+    white-space: 0;
+  }
 
+  #slide {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: justify;
+  }
+
+  #slide_heading {
+    display: block;
+  }
+
+  #slide_img {
+    width: 222px;
+    height: 260px;
+  }
+
+  #slide_text {
+    color: black;
+    margin-left: 20px;
+  }
+
+  #slide_text > h2 {
+    color: black;
+  }
+
+  #slide_text > p {
+    color: black;
+  }
+
+  .card-bio {
+    margin-top: 8px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.45rem;
+    transition: 0.3s;
+    color: #232b2b;
+    font-size: 17px;
+  }
+
+  .card {
+    padding:20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.45rem;
+    transition: 0.3s;
+    color: #232b2b;
+    font-size: 17px;
+  }
+
+  ul {
+    padding-left: 20px;
+  }
+
+  .heading {
+    border-bottom-color: #232b2b !important;
+  }
+
+  @media screen and (min-width: 180px) and (max-width: 900px) {
     #slide {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        text-align: justify;
-    }
-
-    #slide_heading {
-        display: block;
-    }
-
-    #slide_img {
-        width: 222px;
-        height: 260px;
+      flex-direction: column;
     }
 
     #slide_text {
-        color: black;
-        margin-left: 20px;
-    }
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 17px
 
-    #slide_text > h2 {
-        color: black;
     }
+  }
 
-    #slide_text > p {
-        color: black;
-    }
 
-    .card {
-        padding: 20px;
-        margin-top: 10px;
-        margin-bottom: 10px;
-        border-radius: 10px;
-        box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
-        transition: 0.3s;
-        color: #232b2b;
-    }
-
-    ul {
-        padding-left: 20px;
-    }
-
-    .heading {
-        border-bottom-color:  #232b2b !important;
-    }
-
-    @media screen and (min-width:180px) and (max-width:900px) {
-        #slide {
-            flex-direction: column;
-        }
-
-        #slide_text {
-            margin-left: 0px;
-            margin-top: 20px;
-            text-align: center;
-        }
-    }
 </style>
-{{ end }}
-
-{{ define "main" }}
+{{ end }} {{ define "main" }}
 <!-- ################################################################################################ -->
 
 <div class="wrapper">
-    <div id="slide" class="card" style="background-color: lightgoldenrodyellow;">
-        <img src="{{.Site.BaseURL}}/images/personal2-222x260.png" width="150" alt="">
-        <div id="slide_text">
-            <h2 id="slide_heading"><b>{{ .Site.Data.bio.title }}</b></h2>
-            <p>{{ truncate 900 .Site.Data.bio.content }}</p>
-            <p><a href="bio">Continue Reading &raquo;</a></p>
-        </div>
+  <div id="slide" class="card-bio" style="background-color: #ffffff">
+    <img src="{{.Site.BaseURL}}/images/personal2-222x260.png" style="height: 350px; width: auto; border-radius: 0.45rem;"/>
+    <div id="slide_text">
+      <h2 id="slide_heading"><b>{{ .Site.Data.bio.title }}</b></h2>
+      <p>{{ truncate 900 .Site.Data.bio.content }}</p>
+      <p><a href="bio">Continue Reading &raquo;</a></p>
     </div>
+  </div>
 </div>
 
 <!-- ################################################################################################ -->
 <div class="wrapper row3">
-    <div>
-        <main class="container clear">
-            <h2 style="color:#FF0000;position:relative; margin:0;">
-                {{ if not (eq .Site.Data.announcement.message "" )  }}
-                    {{ .Site.Data.announcement.message }}
+  <div>
+    <main class="container clear">
+      <div id="slide" class="card" style="background-color: #ffffff">
+        <h2
+          style="
+            color: #ff0000;
+            position: relative;
+            margin: 0;
+            border-bottom: 0;
+            padding: 0;
+            font-weight: bold;
+          "
+        >
+          {{ if not (eq .Site.Data.announcement.message "" ) }} {{
+          .Site.Data.announcement.message }} {{ end }}
+        </h2>
+      </div>
+
+      <div class="group btmspace-30">
+        <!-- Left Column -->
+        <div class="one_half first">
+          <div class="card" style="background-color: lightcyan">
+            <ul class="nospace">
+              <ul style="padding-left: 0px">
+                <em class="heading">New Funding</em>
+                <b>
+                  <p>
+                    Sponsored Research: Total ${{ .Site.Data.funding.total }}
+                  </p>
+                </b>
+
+                {{ range .Site.Data.funding.funds }}
+                <div style="display: flex; justify-content: center;">
+                  {{ $site := site }}
+                  <img
+                    src="{{$site.BaseURL}}/images/{{ .img_name }}"
+                    width="50"
+                    height="50"
+                    style="width: 50px; padding: 5px; padding-left: 0px"
+                  />
+                  <div>
+                    <b>{{ .timespan }}</b>
+                    <u>${{ .amount }} Grant from {{ .source }}</u>
+                    {{ if not (eq .purpose "") }} for {{ .purpose }}. {{ end }}
+                    Role: {{ .role }}
+                  </div>
+                </div>
                 {{ end }}
-            </h2>
-            <div class="group btmspace-30">
-                <!-- Left Column -->
-                <div class="one_half first">
-                    <div class="card" style="background-color: lightcyan;">
-                        <ul class="nospace">
-                            <ul style="padding-left: 0px;">
-                                <em class="heading">New Funding</em>
-                                <b>
-                                <p>Sponsored Research: Total ${{ .Site.Data.funding.total }}</p>
-                                </b>
-    
-                                {{ range .Site.Data.funding.funds }}
-                                    <div style="display: flex; justify-content: center;">
-                                        {{ $site := site }}
-                                        <img src="{{$site.BaseURL}}/images/{{ .img_name }}" width=50 height=50 style="width: 50px; padding: 5px; padding-left: 0px;">
-                                        <div>
-                                            <b>{{ .timespan }}</b>
-                                            <u>${{ .amount }} Grant from {{ .source }}</u>
-                                            {{ if not (eq .purpose "") }}
-                                                for {{ .purpose }}.
-                                            {{ end }}
-                                            Role: {{ .role }}
-                                        </div>
-                                    </div>
-                                {{ end }}
-    
-                            </ul>
-                        </ul>
-                    </div>
+              </ul>
+            </ul>
+          </div>
 
-                    <div class="card" style="background-color: honeydew;">
-                        <ul class="nospace">
-                            <ul>
-                                <em class="heading">Honors & Awards</em>
+          <div class="card" style="background-color: honeydew;">
+            <ul class="nospace">
+              <ul>
+                <em class="heading">Honors & Awards</em>
 
-                                {{ range .Site.Data.honors }}
-                                <li>
-                                    <a href="{{ .url }}">{{ .name }}</a>
-                                    {{ if not (eq .earnings "")}}
-                                        ${{ .earnings }},
-                                    {{ end }}
-                                    {{ if not (eq .earning "")}}
-                                        {{ .extra }},
-                                    {{ end }}
-                                    {{ if not (eq .timespan "")}}
-                                        ({{ .timespan }})
-                                    {{ end }}
-                                </li>
-                                {{ end }}
-    
-                            </ul>
-                        </ul>
-                    </div>
+                {{ range .Site.Data.honors }}
+                <li>
+                  <a href="{{ .url }}" >{{ .name }}</a>
+                  {{ if not (eq .earnings "")}} ${{ .earnings }}, {{ end }} {{
+                  if not (eq .earning "")}} {{ .extra }}, {{ end }} {{ if not
+                  (eq .timespan "")}} ({{ .timespan }}) {{ end }}
+                </li>
+                {{ end }}
+              </ul>
+            </ul>
+          </div>
 
-                    <div class="card" style="background-color: lavender;">
-                        <ul class="nospace">
-                            <ul>
-                                <em class="heading">Research Interests</em>
-    
-                                {{ range .Site.Data.interests }}
-                                    <li>{{ . }}</li>
-                                {{ end }}
-    
-                            </ul>
-                        </ul>
-                    </div>
-                </div>
-                <!-- / Left Column -->
+          <div class="card" style="background-color: lavender">
+            <ul class="nospace">
+              <ul>
+                <em class="heading">Research Interests</em>
 
+                {{ range .Site.Data.interests }}
+                <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+            </ul>
+          </div>
+        </div>
+        <!-- / Left Column -->
 
-                <!-- Right Column -->
-                <div class="one_half sidebar">
-                    <ul class="nospace">
-                        <div class="card" style="background-color: lavenderblush;">
-                            <em class="heading">New Publications & Others</em>
-                            <ul>
+        <!-- Right Column -->
+        <div class="one_half sidebar">
+          <ul class="nospace">
+            <div class="card" style="background-color: lavenderblush;">
+              <em class="heading">New Publications & Others</em>
+              <ul>
+                {{ $linecount := add (len .Site.Data.interests) (add (len
+                .Site.Data.funding) (len .Site.Data.honors)) }} {{
+                $adj_linecount := add $linecount 6}} {{ $n := 0 }} {{ range
+                .Site.Data.news }} {{ if lt $n $adj_linecount }}
+                <p style="color: #190707"><strong>{{ .year }}</strong></p>
 
-                                {{ $linecount := add (len .Site.Data.interests) (add (len .Site.Data.funding) (len .Site.Data.honors)) }}
-                                {{ $adj_linecount := add $linecount 6}}
-                                {{ $n := 0 }}
-                                {{ range .Site.Data.news }}
-                                    {{ if lt $n $adj_linecount }}
-                                        <p style="color:#190707"> <strong>{{ .year }}</strong></p>
+                {{ range .news }} {{ $n = add $n 1 }} {{ if lt $n $adj_linecount
+                }}
+                <li>{{ .month }}, {{ .details}}</li>
+                {{ end }} {{ end }} {{ end }} {{ end }}
 
-                                        {{ range .news }}
-                                            {{ $n = add $n 1 }}
-                                            {{ if lt $n $adj_linecount }}
-                                                <li>{{ .month }}, {{ .details}} </li>
-                                            {{ end }}
-                                        {{ end }}
-                                    {{ end }}
-                                {{ end }}
+                <br />
 
-                                <br>
-
-                                <p style="margin-top:0" class="right"><a href="publications">Continue Reading
-                                        &raquo;</a></p>
-                            </ul>
-                        </div>
-                    </ul>
-                    <!-- ######################################################################################-->
-
-                </div>
-                <!-- / Right Column -->
+                <p style="margin-top: 0" class="right">
+                  <a href="publications">Continue Reading &raquo;</a>
+                </p>
+              </ul>
             </div>
-        </main>
-    </div>
+          </ul>
+          <!-- ######################################################################################-->
+        </div>
+        <!-- / Right Column -->
+      </div>
+    </main>
+  </div>
 </div>
 {{ end }}

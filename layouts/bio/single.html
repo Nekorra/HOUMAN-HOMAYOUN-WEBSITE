@@ -2,15 +2,17 @@
 <style>
     #bio_heading {
         color: black;
+        font-size: 17px;
     }
     #bio_text {
         color: black;
+        font-size: 17px;
     }
 </style>
 {{ end }}
 
 {{ define "main" }}
-<div class="wrapper row3">
+<div class="wrapper row3" id="slide" class="card" style="background-color: #ffffff; padding: 1%;">
     <div>
         <h1 id="bio_heading">{{ .Site.Data.bio.title }}</h1>
         <p id="bio_heading">{{ .Site.Data.bio.content }}</p>

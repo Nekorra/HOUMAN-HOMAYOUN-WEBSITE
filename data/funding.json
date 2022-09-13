@@ -1,94 +1,205 @@
 {
-    "total": "7,225,000",
-    "funds": [
-        {
-            "timespan": "2017-2018",
-            "amount": "",
-            "source": "Planning IUCRC: Center for Hardware and Embedded System Security and Trust (CHEST)",
-            "purpose": "",
-            "role": "PI",
-            "img_name": "nsf.png"
-        },
-        {
-            "timespan": "2018-2021",
-            "amount": "1.4M",
-            "source": "DARPA",
-            "purpose": "developing Machine Learning Algorithms for Detecting Malware",
-            "role": "PI",
-            "img_name": "darpa.png"
-        },
-        {
-            "timespan": "2017-2020",
-            "amount": "1.8M",
-            "source": "DARPA/AFRL",
-            "purpose": "Hybrid Non-Volatile Logics to Prevent Reverse Engineering",
-            "role": "PI",
-            "img_name": "darpa.png"
-        },
-        {
-            "timespan": "2018-2021",
-            "amount": "500K",
-            "source": "NSF-CNS",
-            "purpose": "Evolution of Computer Vision for Low Power Devices",
-            "role": "Co-PI",
-            "img_name": "nsf.png"
-        },
-        {
-            "timespan": "2018-2019",
-            "amount": "500K",
-            "source": "DARPA/AFRL",
-            "purpose": "3D-Split of Obfuscation and Authentication of logic",
-            "role": "Co-PI",
-            "img_name": "darpa.png"
-        },
-        {
-            "timespan": "2016-2017",
-            "amount": "75K",
-            "source": "NIST",
-            "purpose": "Persistence and Extraction of Digital Artifacts from Embedded Systems",
-            "role": "Co-PI",
-            "img_name": "nist.png"
-        },
-        {
-            "timespan": "2015-2018",
-            "amount": "288K",
-            "source": "NSF-CNS",
-            "purpose": "Study Heterogeneous Architecture Design for Emerging Wearable Biomedical Applications",
-            "role": "PI",
-            "img_name": "nsf.png"
-        },
-        {
-            "timespan": "2015-2017",
-            "amount": "330K",
-            "source": "DARPA",
-            "purpose": "Reconfigurable STT LUT Logic to Improve Power Efficiency",
-            "role": "PI",
-            "img_name": "darpa.png"
-        },
-        {
-            "timespan": "2013-2018",
-            "amount": "995K",
-            "source": "NSF-CPS",
-            "purpose": "a Novel Biomechatronic Interface Based on Wearable Dynamic Imaging Sensors",
-            "role": "Co-PI",
-            "img_name": "nsf.png"
-        },
-        {
-            "timespan": "2013-2016",
-            "amount": "261K",
-            "source": "General Motors Corporation",
-            "purpose": "a study of security vulnerability in automotive multimedia systems",
-            "role": "Co-PI",
-            "img_name": "gm.png"
-        },
-        {
-            "timespan": "2010-2012",
-            "amount": "280K",
-            "source": "NSF CRA CI Fellow Program",
-            "purpose": "a study of Heterogeneous Architecture in 3D",
-            "role": "PI",
-            "img_name": "nsf.png"
-        }
-    
-    ]
+  "total": "8,861,000",
+  "funds": [
+    {
+      "timespan": "2021-2022",
+      "amount": "75,000",
+      "source": "Grant from CHEST Industry Fund",
+      "purpose": "Do you trust standard cell library?",
+      "role": "PI",
+      "img_name": "chest.png"
+    },
+    {
+      "timespan": "2021-2022",
+      "amount": "75,000",
+      "source": "Grant from CHEST Industry Fund",
+      "purpose": "SHERLOCK: Power Side Channel Attack Resilient Hardware using Emerging Reconfigurable Devices and Logic locking",
+      "role": "PI",
+      "img_name": "chest.png"
+    },
+    {
+      "timespan": "2021-2022",
+      "amount": "225,000",
+      "source": "Grant from NOYCE Foundation",
+      "purpose": "Cross-Layer Approach to Enhance Security/Privacy of AI-enabled IoT Eco-Systems",
+      "role": "Co-PI",
+      "img_name": "chest.png"
+    },
+    {
+      "timespan": "2021-2022",
+      "amount": "200,000",
+      "source": "Grant from Noyce Foundation",
+      "purpose": "Firmware and Hardware Trojan Vulnerability Detection and Mitigation in IoT Supply-Chain",
+      "role": "PI",
+      "img_name": "chest.png"
+    },
+    {
+      "timespan": "2020-2021",
+      "amount": "160,000",
+      "source": "Grant from NSF",
+      "purpose": "RAPID/Collaborative Research: Developing Pandemics and Healing Models for Coronavirus COVID-19 to Assist in Policy Making",
+      "role": "PI",
+      "img_name": "nsf.png"
+    },
+    {
+      "timespan": "2020-2021",
+      "amount": "100,000",
+      "source": "Grant from CHEST Center",
+      "purpose": "HW Trojan Detection and Mitigation in IC",
+      "role": "PI",
+      "img_name": "chest.png"
+    },
+    {
+      "timespan": "2019-2021",
+      "amount": "175,000",
+      "source": "Grant from CHEST Center",
+      "purpose": "NATE: A Neural Network Assisted Timing Profiling for Hardware Trojans Detection",
+      "role": "PI",
+      "img_name": "chest.png"
+    },
+    {
+      "timespan": "2020-2021",
+      "amount": "25,000",
+      "source": "Grant from Intel Gift",
+      "purpose": "for Development of Curriculum Materials on RTL Acceleration and OneAPI DPC&#43;&#43; Parallel Programming for Intel FPGAs",
+      "role": "PI",
+      "img_name": "intel.png"
+    },
+    {
+      "timespan": "2020-2021",
+      "amount": "25,000",
+      "source": "Grant from Intel Gift",
+      "purpose": "for Development of Curriculum Materials on RTL Acceleration and OneAPI DPC&#43;&#43; Parallel Programming for Intel FPGAs",
+      "role": "PI",
+      "img_name": "intel.png"
+    },
+    {
+      "timespan": "2019-2024",
+      "amount": "750,000",
+      "source": "Grant from NSF",
+      "purpose": "I/UCRC Center for Hardware and Embedded System Security and Trust (CHEST)",
+      "role": "PI",
+      "img_name": "nsf.png"
+    },
+    {
+      "timespan": "2020-2021",
+      "amount": "100,000",
+      "source": "Grant from CHEST Center",
+      "purpose": "SHERLOCK: Power Side Channel Attack-Resilient Hardware using Emerging Reconfigurable Devices and Logic Locking",
+      "role": "PI",
+      "img_name": "chest.png"
+    },
+    {
+      "timespan": "2020-2021",
+      "amount": "200,000",
+      "source": "Grant from Noyce",
+      "purpose": "IoT Security",
+      "role": "Co-PI",
+      "img_name": "davis.png"
+    },
+    {
+      "timespan": "2020-2021",
+      "amount": "200,000",
+      "source": "Grant from Noyce",
+      "purpose": "Supply Chain Security",
+      "role": "PI",
+      "img_name": "davis.png"
+    },
+    {
+      "timespan": "2019-2021",
+      "amount": "237,000",
+      "source": "Grant from NSF",
+      "purpose": "Run-Time Hardware-Assisted Malware Detection Using Machine Learning",
+      "role": "PI ",
+      "img_name": "nsf.png"
+    },
+    {
+      "timespan": "2017-2018",
+      "amount": "",
+      "source": "Planning IUCRC: Center for Hardware and Embedded System Security and Trust (CHEST)",
+      "purpose": "",
+      "role": "PI",
+      "img_name": "nsf.png"
+    },
+    {
+      "timespan": "2018-2021",
+      "amount": "1.4M",
+      "source": "DARPA",
+      "purpose": "developing Machine Learning Algorithms for Detecting Malware",
+      "role": "PI",
+      "img_name": "darpa.png"
+    },
+    {
+      "timespan": "2017-2020",
+      "amount": "1.8M",
+      "source": "DARPA/AFRL",
+      "purpose": "Hybrid Non-Volatile Logics to Prevent Reverse Engineering",
+      "role": "PI",
+      "img_name": "darpa.png"
+    },
+    {
+      "timespan": "2018-2021",
+      "amount": "500K",
+      "source": "NSF-CNS",
+      "purpose": "Evolution of Computer Vision for Low Power Devices",
+      "role": "Co-PI",
+      "img_name": "nsf.png"
+    },
+    {
+      "timespan": "2018-2019",
+      "amount": "500K",
+      "source": "DARPA/AFRL",
+      "purpose": "3D-Split of Obfuscation and Authentication of logic",
+      "role": "Co-PI",
+      "img_name": "darpa.png"
+    },
+    {
+      "timespan": "2016-2017",
+      "amount": "75K",
+      "source": "NIST",
+      "purpose": "Persistence and Extraction of Digital Artifacts from Embedded Systems",
+      "role": "Co-PI",
+      "img_name": "nist.png"
+    },
+    {
+      "timespan": "2015-2018",
+      "amount": "288K",
+      "source": "NSF-CNS",
+      "purpose": "Study Heterogeneous Architecture Design for Emerging Wearable Biomedical Applications",
+      "role": "PI",
+      "img_name": "nsf.png"
+    },
+    {
+      "timespan": "2015-2017",
+      "amount": "330K",
+      "source": "DARPA",
+      "purpose": "Reconfigurable STT LUT Logic to Improve Power Efficiency",
+      "role": "PI",
+      "img_name": "darpa.png"
+    },
+    {
+      "timespan": "2013-2018",
+      "amount": "995K",
+      "source": "NSF-CPS",
+      "purpose": "a Novel Biomechatronic Interface Based on Wearable Dynamic Imaging Sensors",
+      "role": "Co-PI",
+      "img_name": "nsf.png"
+    },
+    {
+      "timespan": "2013-2016",
+      "amount": "261K",
+      "source": "General Motors Corporation",
+      "purpose": "a study of security vulnerability in automotive multimedia systems",
+      "role": "Co-PI",
+      "img_name": "gm.png"
+    },
+    {
+      "timespan": "2010-2012",
+      "amount": "280K",
+      "source": "NSF CRA CI Fellow Program",
+      "purpose": "a study of Heterogeneous Architecture in 3D",
+      "role": "PI",
+      "img_name": "nsf.png"
+    }
+  ]
 }

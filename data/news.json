@@ -1,580 +1,634 @@
 [
-    {
-        "year": "2019",
-        "news": [
-            {
-                "month": "January",
-                "details": "two papers on hardware security and obfuscation, and adversarial machine learning accepted in DAC 2019"
-            }
-        ]
-    },
-    {
-        "year": "2018",
-        "news": [
-            {
-                "month": "December",
-                "details": "Arezou Koohi successfully defended her PhD dissertations"
-            },
-            {
-                "month": "October",
-                "details": "Jeremy Muldavin from DoD OSD visited ECE department and ASEEC lab"
-            },
-            {
-                "month": "October",
-                "details": "two papers on IoT security and malware detection accepted in DATE 2019"
-            },
-            {
-                "month": "September",
-                "details": "SMT attack accepted in CHES 2019 August, Maria Malik and Katayoun Neshatpour successfully defended their dissertations. Maria joined Intel, and Katayoun joined Cadence"
-            },
-            {
-                "month": "August",
-                "details": "A successful Planning Grant Meeting of NSF Center for Hardware and Embedded Systems Security and Trust (CHEST) @ GMU, 100+ participants from 6 member universities, more than 30 government research labs and lead industries in cybersecurity",
-                "url": "https://nsfchest.org/"
-            },
-            {
-                "month": "May",
-                "details": "Maria Malik received 2018 ECE Department Outstanding Academic Achievement Award"
-            },
-            {
-                "month": "July",
-                "details": "Member of Advisory Committee, Cybersecurity Research and Technology Commercialization (R&TC) working group, Commonwealth of Virginia"
-            },
-            {
-                "month": "July",
-                "details": "Special session on Adversarial Machine Learning at ICCAD 2018"
-            },
-            {
-                "month": "July",
-                "details": "Invited talk on machine learning acceleration at ASPDAC 2019"
-            },
-            {
-                "month": "August",
-                "details": "Several papers accepted in ASPDAC, SoCC, CHES, FCCM, MEMSYS, ASAP, and CGRID 2018"
-            },
-            {
-                "month": "July",
-                "details": "Two journals on HW security and IoT accepted in TODAES Special issue on Internet of Things System Performance, Reliability, and Security"
-            },
-            {
-                "month": "July",
-                "details": "Two journals on big data computing topic accepted in TOMPECS and TMSCS"
-            },
-            {
-                "month": "June",
-                "details": "Serving in advisory Committee, Research and Technology Commercialization (R&TC), Cybersecurity working group, Commonwealth of Virginia"
-            },
-            {
-                "month": "March",
-                "details": "paper on design space exploration of mapreduce accepted in FCCM 2018"
-            },
-            {
-                "month": "February",
-                "details": "paper on ensemble learning malware detection accepted in DAC 2018"
-            }
-        ]
-    }, 
-    {
-        "year": "2017",
-        "news": [
-            {
-                "month": "December",
-                "details": "NSF funded planning IUCRC GMU: Center for Hardware and Embedded System Security and Trust (CHEST), will be serving as PI"
-            },
-            {
-                "month": "December",
-                "details": "Katayoun Neshatpour, PhD student at ASEEC lab will be joining Cadence in Spring 2018"
-            },
-            {
-                "month": "December",
-                "details": "Professor Jack Sampson from Penn State visited ASEEC lab"
-            },
-            {
-                "month": "November",
-                "details": "ICNN paper: An Iterative Implementation of Convolutional Neural Networks accepted in DATE 2018",
-                "url": "https://www.date-conference.com/"
-            },
-            {
-                "month": "October",
-                "details": "Sai Manoj Pudukotai DinakarRao joined us as postdoc from TU Wien"
-            },
-            {
-                "month": "October",
-                "details": "Professor Walid Najjar from UCR visited ASEEC lab"
-            },
-            {
-                "month": "October",
-                "details": "Serving as TPC member for HOST, DAC, and IPDPS 2018"
-            },
-            {
-                "month": "October",
-                "details": "Professor Sandip Kundu from NSF/UMass Amherst visited ASEEC lab"
-            },
-            {
-                "month": "September",
-                "details": "Serving as TPC program Co-Chair for GLSVLSI 2018 in Chicago!",
-                "url": "http://www.glsvlsi.org/"
-            },
-            {
-                "month": "September",
-                "details": "paper on scheduling multithreaded applications to composite cores accepted in ICCD 2017",
-                "url": "ICCD 2017"
-            },
-            {
-                "month": "September",
-                "details": "paper on power conversion efficiency aware task scheduling in heterogeneous architectures accepted in ASPDAC 2018"
-            },
-            {
-                "month": "September",
-                "details": "6 journals accepted in TVLSI (4), TMSCS, and JETC"
-            },
-            {
-                "month": "September",
-                "details": "a new project recommended for funding by DARPA on Developing Machine Learning Algorithms for Detecting Malware"
-            },
-            {
-                "month": "August",
-                "details": "4 new PhD students joined ASEEC lab"
-            },
-            {
-                "month": "August",
-                "details": "6 new MS students joined ASEEC lab to work towards thesis"
-            },
-            {
-                "month": "August",
-                "details": "A new exciting project by NSF-CNS on accelerating convolutional neural networks"
-            },
-            {
-                "month": "August",
-                "details": "3 papers accepted in IISWC 2017 on DRAM for big data, co-scheduling big data applications, and system level modeling for cloud architectures"
-            },
-            {
-                "month": "July",
-                "details": "An invited paper and talk on memory requirements of big data at IGSC 2017 conference"
-            },
-            {
-                "month": "June",
-                "details": "New exciting project recommended for funding by DARPA on 3D-Split of Obfuscation and Authentication of logic"
-            },
-            {
-                "month": "May",
-                "details": "Paper on big data acceleration and compressed sensing accepted in TECS",
-                "url": "http://tecs.acm.org/"
-            },
-            {
-                "month": "May",
-                "details": "Paper on Reformulation of Peak Current Reduction accepted in ISLPED 2017",
-                "url": "http://www.islped.org/2017/index.php"
-            },
-            {
-                "month": "March",
-                "details": "A new exciting project on hardware security proof of concept in 14nm"
-            },
-            {
-                "month": "March",
-                "details": "Journal on voltage regulator design accepted in TVLSI"
-            },
-            {
-                "month": "February",
-                "details": "Paper on hardware performance counter for security accepted in DAC 2017",
-                "url": "https://dac.com/"
-            },
-            {
-                "month": "February",
-                "details": "Serving as TPC member for ICCD 2017. February, Congrats to Maria for receiving provost summer fellowship",
-                "url": "http://www.iccd-conf.com/Home.html"
-            },
-            {
-                "month": "January",
-                "details": "Serving on CASES and CODES ISSS TPC",
-                "url": "http://www.esweek.org/"
-            }
-        ]
-    },
-    {
-        "year": "2016",
-        "news": [
-            {
-                "month": "December",
-                "details": "Serving as an Associate Editor for Transactions on VLSI"
-            },
-            {
-                "month": "November",
-                "details": "Two papers on big data computing accepted in DATE 2017 conference",
-                "url": "https://www.date-conference.com/"
-            },
-            {
-                "month": "October",
-                "details": "Serving as TPC member for HOST, DAC, DATE, and CF"
-            },
-            {
-                "month": "September",
-                "details": "Patent on logical vanishable design to prevent reverse engineering"
-            },
-            {
-                "month": "July",
-                "details": "Organizing a special session on heterogeneous architectures and big data in CODES-ISSS 2016"
-            },
-            {
-                "month": "May",
-                "details": "Maria joined Intel for summer intern. Katayoun joined USC ISI for summer intern"
-            },
-            {
-                "month": "May",
-                "details": "Received the Best Paper award of GLSVLSI 2016 on heterogeneous accelerator for wearable biomedical computing"
-            },
-            {
-                "month": "May",
-                "details": "Presenting an invited talk on heterogeneous architecture and big data in computing frontiers 2016"
-            },
-            {
-                "month": "May",
-                "details": "Visited KIT and gave a talk on accelerating big data analytics"
-            },
-            {
-                "month": "May",
-                "details": "Visited Politecnico Di Milano and gave a talk on heterogeneous architectures for big data"
-            },
-            {
-                "month": "May",
-                "details": "Visited TU Dresden and gave a talk on accelerating big data analytics"
-            },
-            {
-                "month": "April",
-                "details": "Paper on embedded vision processing accepted in ISVLSI 2016"
-            },
-            {
-                "month": "March",
-                "details": "Paper on reconfigurable logic accepted in ICCD 2016"
-            },
-            {
-                "month": "February",
-                "details": "Paper on STT-CMOS Hybrid Designs for Reverse-engineering Prevention accepted in DAC 2016 conference"
-            },
-            {
-                "month": "January",
-                "details": "Paper on Characterizing Hadoop Applications on Microservers accepted in ISPASS 2016"
-            }
-        ]
-    },
-    {
-        "year": "2015",
-        "news": [
-            {
-                "month": "October",
-                "details": "Long Paper on Hadoop Big Data Acceleration Presented at IEEE Big Data",
-                "url": "http://cci.drexel.edu/bigdata/bigdata2015/"
-            },
-            {
-                "month": "October",
-                "details": "Long Paper on Big Vs Little Core for Hadoop Kernels Presented in IEEE Big Data",
-                "url": "http://cci.drexel.edu/bigdata/bigdata2015/"
-            },
-            {
-                "month": "October",
-                "details": "Paper on Big Data Characterization on Little Core Presented at ICCD 2015",
-                "url": "http://www.iccd-conf.com/Home.html"
-            },
-            {
-                "month": "October",
-                "details": "Paper on Tuning Edge Detection on Commodity Embedded Platforms Presented at ICCD",
-                "url": "http://www.iccd-conf.com/Home.html"
-            },
-            {
-                "month": "October",
-                "details": "Paper on Wide I/O vs HMC presented at ICCD 2015",
-                "url": "http://www.iccd-conf.com/Home.html"
-            },
-            {
-                "month": "October",
-                "details": "Serving on ISPASS 2016 TPC",
-                "url": "http://www.ispass.org/ispass2016/" 
-            },
-            {
-                "month": "October",
-                "details": "Paper on Manycore On Chip Power Delivery Presented at ICCD 2015",
-                "url": "http://www.iccd-conf.com/Home.html"
-            },
-            {
-                "month": "October",
-                "details": "Serving on DAC 2016 TPC",
-                "url": "http://dac.com/"
-            },
-            {
-                "month": "October",
-                "details": "$288K Grant from NSF CNS to Study Heterogeneous Architecture Design for Emerging Wearable Biomedical Applications",
-                "url": "http://www.nsf.gov/awardsearch/showAward?AWD_ID=1526913"
-            },
-            {
-                "month": "September",
-                "details": "$330K Grant from DARPA to study Reconfigurable STT LUT Logic to Improve Power Efficiency",
-                "url": ""
-            },
-            {
-                "month": "September",
-                "details": "Two Papers Accepted at IEEE Big Data 2015",
-                "url": ""
-            },
-            {
-                "month": "September",
-                "details": "Four New PhD Students Joined ASEEC Lab",
-                "url": ""
-            },
-            {
-                "month": "July",
-                "details": "Four Papers Accepted at ICCD 2015",
-                "url": ""
-            },
-            {
-                "month": "March",
-                "details": "Paper on Big Data Acceleration Using FPGAs accepted in FCCM 2015",
-                "url": ""
-            },
-            {
-                "month": "March",
-                "details": "Paper accepted in Computing Frontiers 2015",
-                "url": ""
-            },
-            {
-                "month": "March",
-                "details": "Paper on Hadoop Acceleration using ZYNQ accepted in CCGRID 2015",
-                "url": ""
-            },
-            {
-                "month": "February",
-                "details": "Paper on dynamic heterogeneity accepted in DAC 2015",
-                "url": ""
-            },
-            {
-                "month": "February",
-                "details": "Paper on 3D HMC Memory Management accepted in GLSVLSI 2015",
-                "url": ""
-            },
-            {
-                "month": "February",
-                "details": "Paper on Inverse Thermal Dependant accepted in GLSVLSI 2015",
-                "url": ""
-            },
-            {
-                "month": "October",
-                "details": "Serving on DAC 2015 Embedded Systems Track TPC",
-                "url": "http://dac.com/"
-            },
-            {
-                "month": "October",
-                "details": "Invited Talk at IBM TJ Watson on Big Data Computing",
-                "url": "http://www.research.ibm.com/labs/watson/"
-            },
-            {
-                "month": "September",
-                "details": "Congrats to Maria, Katayoun and Mohammad for passing the PhD qualifying exam",
-                "url": ""
-            },
-            {
-                "month": "July",
-                "details": "Paper on Phase Change Material Modeling for Temperature Management accepted in ICCD 2014",
-                "url": ""
-            },
-            {
-                "month": "June",
-                "details": "Invited paper on Enabling Dynamic Heterogeneity Through Core on Core Stacking in DAC 2014",
-                "url": ""
-            },
-            {
-                "month": "June",
-                "details": "Paper on Hybrid STT-RAM Cache accepted in IGCC 2014",
-                "url": "http://igsc.eecs.wsu.edu/"
-            },
-            {
-                "month": "April",
-                "details": "Paper on Mapping Biomedical Applications to Many-core accelerators accepted in ISLPED 2014",
-                "url": "http://www.islped.org/2015/index.html"
-            },
-            {
-                "month": "January",
-                "details": "Organizing a special session on Heterogeneous Architectures, Accelerators, Tools, and Workloads in DAC 2014 Conference",
-                "url": ""
-            }
-        ]
-    },
-    {
-        "year": "2014",
-        "news": [
-            {
-                "month": "November",
-                "details": "Adarsh's Paper on Non-volatile Logic Accepted at DATE conference",
-                "url": ""
-            },
-            {
-                "month": "November",
-                "details": "I am Presenting a Tutorial on Dynamic Heterogeneous Architecture in DATE conference",
-                "url": "http://www.date-conference.com/conference/tutorial-m04"
-            },
-            {
-                "month": "October",
-                "details": "Paper on Probabilistic Write for STT-RAMs presented at ICCD 2013 conference",
-                "url": "http://iccd-conf.com/Home.html"
-            },
-            {
-                "month": "September",
-                "details": "we have 6 new PhD-student lab members!",
-                "url": ""
-            },
-            {
-                "month": "August",
-                "details": "$995K award from NSF Cyber Physical System program",
-                "url": "http://www.nsf.gov/awardsearch/showAward?AWD_ID=1329829&HistoricalAwards=false"
-            },
-            {
-                "month": "July",
-                "details": "$261K award from General Motors for Security Project",
-                "url": "https://ece.gmu.edu/news/damon-mccoy-and-houman-homayoun-receive-funding-general-motors"
-            },
-            {
-                "month": "June",
-                "details": "Paper on Resistive Computation: A Critique accepted at computer architecture letter",
-                "url": ""
-            },
-            {
-                "month": "June",
-                "details": "Tutorial on Dynamic Heterogeneous Architecture will be presented at DAC 2013",
-                "url": "https://dac.com/index.php"
-            },
-            {
-                "month": "May",
-                "details": "Keynote talk on Future of Heterogeneous Architecture at United States Patent and Trademark Office (USPTO)",
-                "url": "http://www.uspto.gov/"
-            },
-            {
-                "month": "May",
-                "details": "Paper on Reliability in NUCA cache accepted at IGCC 2013",
-                "url": "http://cm.wsu.edu/ehome/index.php?eventid=51862"
-            },
-            {
-                "month": "March",
-                "details": "Invited talk at Virgina Tech Center for Embedded Systems for Critical Applications (CESCA)",
-                "url": "http://www.cesca.centers.vt.edu/"
-            },
-            {
-                "month": "February",
-                "details": "Paper on 3D multicore lifetime reliability accepted at DAC 2013",
-                "url": "https://dac.com/index.php"
-            },
-            {
-                "month": "September",
-                "details": "paper on Heterogeneous 3D DRAM accepted at ASP-DAC 2013",
-                "url": "http://www.aspdac.com/aspdac2013/index.html"
-            },
-            {
-                "month": "February",
-                "details": "Paper Accepted at ISCA 2012",
-                "url": "http://ece.gmu.edu/~hhomayou/files/ISCA_Homayoun.pdf"
-            },
-            {
-                "month": "February",
-                "details": "Tutorial on System-Level Exploration of Power, Temperature, and Performance accepted at DAC 2012",
-                "url": "http://ece.gmu.edu/~hhomayou/files/tutorial-dac.pdf"
-            }
-        ]
-    },
-    {
-        "year": "2013",
-        "news": [
-            {
-                "month": "December",
-                "details": "Serving on the TPC of ISLPED 2012",
-                "url": "http://www.islped.org/2012/index.html"
-            },
-            {
-                "month": "December",
-                "details": "Serving on the TPC of 2011 ACM conference of Computing Frontiers",
-                "url": ""
-            },
-            {
-                "month": "December",
-                "details": "Serving on the TPC of 2011 IEEE-ISQED",
-                "url": ""
-            },
-            {
-                "month": "November",
-                "details": "Paper on \"3D Heterogeneous Cores\" Accepted at HPCA 2012",
-                "url": "http://ece.gmu.edu/~hhomayou/files/hpca2012.pdf"
-            },
-            {
-                "month": "November",
-                "details": "Paper on \"Inquisitive Defect Cache\" appeared in TVLSI",
-                "url": ""
-            },
-            {
-                "month": "November",
-                "details": "Paper on \"MZZ-HVS peripherals\" appeared in TVLSI",
-                "url": ""
-            },
-            {
-                "month": "November",
-                "details": "Paper on \"Centralized Power Management\" appeared in TVLSI",
-                "url": ""
-            },
-            {
-                "month": "November",
-                "details": "Paper on \"Hot Peripheral Thermal Management\" Accepted at ISQED 2012",
-                "url": "http://www.isqed.org/"
-            },
-            {
-                "month": "November",
-                "details": "Paper on \"History & Variation Trained Cache\" Accepted at ISQED 2012",
-                "url": "http://www.isqed.org/"
-            },
-            {
-                "month": "November",
-                "details": "Invited talk on \"Flexible Fault-Tolerant Cache Architecture\" at 2011 SOC Conference",
-                "url": "http://www.socconference.com/"
-            },
-            {
-                "month": "November",
-                "details": "Doctoral Dissertation nominated for ACM Dissertation award",
-                "url": "http://awards.acm.org/doctoral_dissertation/"
-            },
-            {
-                "month": "November",
-                "details": "talk on \"multiple sleep modes design\" at Arizona State University",
-                "url": ""
-            },
-            {
-                "month": "November",
-                "details": "Invited talk on \"resource adaptation for power management\" at 2010 SOC Conference",
-                "url": "http://www.socconference.com/"
-            },
-            {
-                "month": "November",
-                "details": "Paper on \"multi copy cache architecture for reliability\" appeared in CASES 2010",
-                "url": ""
-            },
-            {
-                "month": "October",
-                "details": "Serving on the TPC of 2012 IEEE-ISQED",
-                "url": "http://www.isqed.org/"
-            },
-            {
-                "month": "October",
-                "details": "Paper on \"FFT-Cache\" appeared in CASES 2011",
-                "url": ""
-            },
-            {
-                "month": "October",
-                "details": "Paper on \"Reliability-Aware Placement in SRAM-based FPGA\" appeared in CODES-ISSS 2011",
-                "url": ""
-            },
-            {
-                "month": "September",
-                "details": "Serving on the TPC of 2011 IEEE-AICCSA",
-                "url": "http://www.lifl.fr/AICCSA2010/"
-            },
-            {
-                "month": "September",
-                "details": "paper on \"multiple sleep mode design\" accepted in TVLSI",
-                "url": ""
-            }
-        ]
-    }
+  {
+    "year": "2021",
+    "news": [
+      {
+        "month": "July",
+        "details": "Nadir Amin Carreon Rascon joins ASEEC lab as a postdoc fellow "
+      },
+      {
+        "month": "May",
+        "details": "Three projects total of $250K/year funded by CHEST industry sponsors "
+      },
+      {
+        "month": "February",
+        "details": "Two new projects total of $425K/year funded by Noyce Foundation "
+      },
+      {
+        "month": "January",
+        "details": "Three papers accepted in DAC 2021 "
+      }
+    ]
+  },
+  {
+    "year": "2020",
+    "news": [
+      {
+        "month": "November",
+        "details": ""
+      },
+      {
+        "month": "November",
+        "details": "Houman Homayoun gave a keynote talk at 14th IEEE DCAS "
+      },
+      {
+        "month": "September",
+        "details": "Soheil Salehi join ASEEC lab as NSF CI Fellow "
+      },
+      {
+        "month": "July",
+        "details": "Best paper nominee at IEEE ISVLSI 2020 "
+      },
+      {
+        "month": "June",
+        "details": "NSF RAPID program funds ASEEC lab project on understanding malware epidemics for better policy guiding "
+      },
+      {
+        "month": "May",
+        "details": "Houman Homayoun received 2020 ACM GLSVLSI Service Recognition Award "
+      },
+      {
+        "month": "March",
+        "details": "Houman Homayoun is now IEEE senior member "
+      }
+    ]
+  },
+  {
+    "year": "2019",
+    "news": [
+      {
+        "month": "January",
+        "details": "two papers on hardware security and obfuscation, and adversarial machine learning accepted in DAC 2019"
+      }
+    ]
+  },
+  {
+    "year": "2018",
+    "news": [
+      {
+        "month": "December",
+        "details": "Arezou Koohi successfully defended her PhD dissertations"
+      },
+      {
+        "month": "October",
+        "details": "Jeremy Muldavin from DoD OSD visited ECE department and ASEEC lab"
+      },
+      {
+        "month": "October",
+        "details": "two papers on IoT security and malware detection accepted in DATE 2019"
+      },
+      {
+        "month": "September",
+        "details": "SMT attack accepted in CHES 2019 August, Maria Malik and Katayoun Neshatpour successfully defended their dissertations. Maria joined Intel, and Katayoun joined Cadence"
+      },
+      {
+        "month": "August",
+        "details": "A successful Planning Grant Meeting of NSF Center for Hardware and Embedded Systems Security and Trust (CHEST) @ GMU, 100+ participants from 6 member universities, more than 30 government research labs and lead industries in cybersecurity",
+        "url": "https://nsfchest.org/"
+      },
+      {
+        "month": "May",
+        "details": "Maria Malik received 2018 ECE Department Outstanding Academic Achievement Award"
+      },
+      {
+        "month": "July",
+        "details": "Member of Advisory Committee, Cybersecurity Research and Technology Commercialization (R&TC) working group, Commonwealth of Virginia"
+      },
+      {
+        "month": "July",
+        "details": "Special session on Adversarial Machine Learning at ICCAD 2018"
+      },
+      {
+        "month": "July",
+        "details": "Invited talk on machine learning acceleration at ASPDAC 2019"
+      },
+      {
+        "month": "August",
+        "details": "Several papers accepted in ASPDAC, SoCC, CHES, FCCM, MEMSYS, ASAP, and CGRID 2018"
+      },
+      {
+        "month": "July",
+        "details": "Two journals on HW security and IoT accepted in TODAES Special issue on Internet of Things System Performance, Reliability, and Security"
+      },
+      {
+        "month": "July",
+        "details": "Two journals on big data computing topic accepted in TOMPECS and TMSCS"
+      },
+      {
+        "month": "June",
+        "details": "Serving in advisory Committee, Research and Technology Commercialization (R&TC), Cybersecurity working group, Commonwealth of Virginia"
+      },
+      {
+        "month": "March",
+        "details": "paper on design space exploration of mapreduce accepted in FCCM 2018"
+      },
+      {
+        "month": "February",
+        "details": "paper on ensemble learning malware detection accepted in DAC 2018"
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "news": [
+      {
+        "month": "December",
+        "details": "NSF funded planning IUCRC GMU: Center for Hardware and Embedded System Security and Trust (CHEST), will be serving as PI"
+      },
+      {
+        "month": "December",
+        "details": "Katayoun Neshatpour, PhD student at ASEEC lab will be joining Cadence in Spring 2018"
+      },
+      {
+        "month": "December",
+        "details": "Professor Jack Sampson from Penn State visited ASEEC lab"
+      },
+      {
+        "month": "November",
+        "details": "ICNN paper: An Iterative Implementation of Convolutional Neural Networks accepted in DATE 2018",
+        "url": "https://www.date-conference.com/"
+      },
+      {
+        "month": "October",
+        "details": "Sai Manoj Pudukotai DinakarRao joined us as postdoc from TU Wien"
+      },
+      {
+        "month": "October",
+        "details": "Professor Walid Najjar from UCR visited ASEEC lab"
+      },
+      {
+        "month": "October",
+        "details": "Serving as TPC member for HOST, DAC, and IPDPS 2018"
+      },
+      {
+        "month": "October",
+        "details": "Professor Sandip Kundu from NSF/UMass Amherst visited ASEEC lab"
+      },
+      {
+        "month": "September",
+        "details": "Serving as TPC program Co-Chair for GLSVLSI 2018 in Chicago!",
+        "url": "http://www.glsvlsi.org/"
+      },
+      {
+        "month": "September",
+        "details": "paper on scheduling multithreaded applications to composite cores accepted in ICCD 2017",
+        "url": "ICCD 2017"
+      },
+      {
+        "month": "September",
+        "details": "paper on power conversion efficiency aware task scheduling in heterogeneous architectures accepted in ASPDAC 2018"
+      },
+      {
+        "month": "September",
+        "details": "6 journals accepted in TVLSI (4), TMSCS, and JETC"
+      },
+      {
+        "month": "September",
+        "details": "a new project recommended for funding by DARPA on Developing Machine Learning Algorithms for Detecting Malware"
+      },
+      {
+        "month": "August",
+        "details": "4 new PhD students joined ASEEC lab"
+      },
+      {
+        "month": "August",
+        "details": "6 new MS students joined ASEEC lab to work towards thesis"
+      },
+      {
+        "month": "August",
+        "details": "A new exciting project by NSF-CNS on accelerating convolutional neural networks"
+      },
+      {
+        "month": "August",
+        "details": "3 papers accepted in IISWC 2017 on DRAM for big data, co-scheduling big data applications, and system level modeling for cloud architectures"
+      },
+      {
+        "month": "July",
+        "details": "An invited paper and talk on memory requirements of big data at IGSC 2017 conference"
+      },
+      {
+        "month": "June",
+        "details": "New exciting project recommended for funding by DARPA on 3D-Split of Obfuscation and Authentication of logic"
+      },
+      {
+        "month": "May",
+        "details": "Paper on big data acceleration and compressed sensing accepted in TECS",
+        "url": "http://tecs.acm.org/"
+      },
+      {
+        "month": "May",
+        "details": "Paper on Reformulation of Peak Current Reduction accepted in ISLPED 2017",
+        "url": "http://www.islped.org/2017/index.php"
+      },
+      {
+        "month": "March",
+        "details": "A new exciting project on hardware security proof of concept in 14nm"
+      },
+      {
+        "month": "March",
+        "details": "Journal on voltage regulator design accepted in TVLSI"
+      },
+      {
+        "month": "February",
+        "details": "Paper on hardware performance counter for security accepted in DAC 2017",
+        "url": "https://dac.com/"
+      },
+      {
+        "month": "February",
+        "details": "Serving as TPC member for ICCD 2017. February, Congrats to Maria for receiving provost summer fellowship",
+        "url": "http://www.iccd-conf.com/Home.html"
+      },
+      {
+        "month": "January",
+        "details": "Serving on CASES and CODES ISSS TPC",
+        "url": "http://www.esweek.org/"
+      }
+    ]
+  },
+  {
+    "year": "2016",
+    "news": [
+      {
+        "month": "December",
+        "details": "Serving as an Associate Editor for Transactions on VLSI"
+      },
+      {
+        "month": "November",
+        "details": "Two papers on big data computing accepted in DATE 2017 conference",
+        "url": "https://www.date-conference.com/"
+      },
+      {
+        "month": "October",
+        "details": "Serving as TPC member for HOST, DAC, DATE, and CF"
+      },
+      {
+        "month": "September",
+        "details": "Patent on logical vanishable design to prevent reverse engineering"
+      },
+      {
+        "month": "July",
+        "details": "Organizing a special session on heterogeneous architectures and big data in CODES-ISSS 2016"
+      },
+      {
+        "month": "May",
+        "details": "Maria joined Intel for summer intern. Katayoun joined USC ISI for summer intern"
+      },
+      {
+        "month": "May",
+        "details": "Received the Best Paper award of GLSVLSI 2016 on heterogeneous accelerator for wearable biomedical computing"
+      },
+      {
+        "month": "May",
+        "details": "Presenting an invited talk on heterogeneous architecture and big data in computing frontiers 2016"
+      },
+      {
+        "month": "May",
+        "details": "Visited KIT and gave a talk on accelerating big data analytics"
+      },
+      {
+        "month": "May",
+        "details": "Visited Politecnico Di Milano and gave a talk on heterogeneous architectures for big data"
+      },
+      {
+        "month": "May",
+        "details": "Visited TU Dresden and gave a talk on accelerating big data analytics"
+      },
+      {
+        "month": "April",
+        "details": "Paper on embedded vision processing accepted in ISVLSI 2016"
+      },
+      {
+        "month": "March",
+        "details": "Paper on reconfigurable logic accepted in ICCD 2016"
+      },
+      {
+        "month": "February",
+        "details": "Paper on STT-CMOS Hybrid Designs for Reverse-engineering Prevention accepted in DAC 2016 conference"
+      },
+      {
+        "month": "January",
+        "details": "Paper on Characterizing Hadoop Applications on Microservers accepted in ISPASS 2016"
+      }
+    ]
+  },
+  {
+    "year": "2015",
+    "news": [
+      {
+        "month": "October",
+        "details": "Long Paper on Hadoop Big Data Acceleration Presented at IEEE Big Data",
+        "url": "http://cci.drexel.edu/bigdata/bigdata2015/"
+      },
+      {
+        "month": "October",
+        "details": "Long Paper on Big Vs Little Core for Hadoop Kernels Presented in IEEE Big Data",
+        "url": "http://cci.drexel.edu/bigdata/bigdata2015/"
+      },
+      {
+        "month": "October",
+        "details": "Paper on Big Data Characterization on Little Core Presented at ICCD 2015",
+        "url": "http://www.iccd-conf.com/Home.html"
+      },
+      {
+        "month": "October",
+        "details": "Paper on Tuning Edge Detection on Commodity Embedded Platforms Presented at ICCD",
+        "url": "http://www.iccd-conf.com/Home.html"
+      },
+      {
+        "month": "October",
+        "details": "Paper on Wide I/O vs HMC presented at ICCD 2015",
+        "url": "http://www.iccd-conf.com/Home.html"
+      },
+      {
+        "month": "October",
+        "details": "Serving on ISPASS 2016 TPC",
+        "url": "http://www.ispass.org/ispass2016/"
+      },
+      {
+        "month": "October",
+        "details": "Paper on Manycore On Chip Power Delivery Presented at ICCD 2015",
+        "url": "http://www.iccd-conf.com/Home.html"
+      },
+      {
+        "month": "October",
+        "details": "Serving on DAC 2016 TPC",
+        "url": "http://dac.com/"
+      },
+      {
+        "month": "October",
+        "details": "$288K Grant from NSF CNS to Study Heterogeneous Architecture Design for Emerging Wearable Biomedical Applications",
+        "url": "http://www.nsf.gov/awardsearch/showAward?AWD_ID=1526913"
+      },
+      {
+        "month": "September",
+        "details": "$330K Grant from DARPA to study Reconfigurable STT LUT Logic to Improve Power Efficiency",
+        "url": ""
+      },
+      {
+        "month": "September",
+        "details": "Two Papers Accepted at IEEE Big Data 2015",
+        "url": ""
+      },
+      {
+        "month": "September",
+        "details": "Four New PhD Students Joined ASEEC Lab",
+        "url": ""
+      },
+      {
+        "month": "July",
+        "details": "Four Papers Accepted at ICCD 2015",
+        "url": ""
+      },
+      {
+        "month": "March",
+        "details": "Paper on Big Data Acceleration Using FPGAs accepted in FCCM 2015",
+        "url": ""
+      },
+      {
+        "month": "March",
+        "details": "Paper accepted in Computing Frontiers 2015",
+        "url": ""
+      },
+      {
+        "month": "March",
+        "details": "Paper on Hadoop Acceleration using ZYNQ accepted in CCGRID 2015",
+        "url": ""
+      },
+      {
+        "month": "February",
+        "details": "Paper on dynamic heterogeneity accepted in DAC 2015",
+        "url": ""
+      },
+      {
+        "month": "February",
+        "details": "Paper on 3D HMC Memory Management accepted in GLSVLSI 2015",
+        "url": ""
+      },
+      {
+        "month": "February",
+        "details": "Paper on Inverse Thermal Dependant accepted in GLSVLSI 2015",
+        "url": ""
+      },
+      {
+        "month": "October",
+        "details": "Serving on DAC 2015 Embedded Systems Track TPC",
+        "url": "http://dac.com/"
+      },
+      {
+        "month": "October",
+        "details": "Invited Talk at IBM TJ Watson on Big Data Computing",
+        "url": "http://www.research.ibm.com/labs/watson/"
+      },
+      {
+        "month": "September",
+        "details": "Congrats to Maria, Katayoun and Mohammad for passing the PhD qualifying exam",
+        "url": ""
+      },
+      {
+        "month": "July",
+        "details": "Paper on Phase Change Material Modeling for Temperature Management accepted in ICCD 2014",
+        "url": ""
+      },
+      {
+        "month": "June",
+        "details": "Invited paper on Enabling Dynamic Heterogeneity Through Core on Core Stacking in DAC 2014",
+        "url": ""
+      },
+      {
+        "month": "June",
+        "details": "Paper on Hybrid STT-RAM Cache accepted in IGCC 2014",
+        "url": "http://igsc.eecs.wsu.edu/"
+      },
+      {
+        "month": "April",
+        "details": "Paper on Mapping Biomedical Applications to Many-core accelerators accepted in ISLPED 2014",
+        "url": "http://www.islped.org/2015/index.html"
+      },
+      {
+        "month": "January",
+        "details": "Organizing a special session on Heterogeneous Architectures, Accelerators, Tools, and Workloads in DAC 2014 Conference",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "year": "2014",
+    "news": [
+      {
+        "month": "November",
+        "details": "Adarsh's Paper on Non-volatile Logic Accepted at DATE conference",
+        "url": ""
+      },
+      {
+        "month": "November",
+        "details": "I am Presenting a Tutorial on Dynamic Heterogeneous Architecture in DATE conference",
+        "url": "http://www.date-conference.com/conference/tutorial-m04"
+      },
+      {
+        "month": "October",
+        "details": "Paper on Probabilistic Write for STT-RAMs presented at ICCD 2013 conference",
+        "url": "http://iccd-conf.com/Home.html"
+      },
+      {
+        "month": "September",
+        "details": "we have 6 new PhD-student lab members!",
+        "url": ""
+      },
+      {
+        "month": "August",
+        "details": "$995K award from NSF Cyber Physical System program",
+        "url": "http://www.nsf.gov/awardsearch/showAward?AWD_ID=1329829&HistoricalAwards=false"
+      },
+      {
+        "month": "July",
+        "details": "$261K award from General Motors for Security Project",
+        "url": "https://ece.gmu.edu/news/damon-mccoy-and-houman-homayoun-receive-funding-general-motors"
+      },
+      {
+        "month": "June",
+        "details": "Paper on Resistive Computation: A Critique accepted at computer architecture letter",
+        "url": ""
+      },
+      {
+        "month": "June",
+        "details": "Tutorial on Dynamic Heterogeneous Architecture will be presented at DAC 2013",
+        "url": "https://dac.com/index.php"
+      },
+      {
+        "month": "May",
+        "details": "Keynote talk on Future of Heterogeneous Architecture at United States Patent and Trademark Office (USPTO)",
+        "url": "http://www.uspto.gov/"
+      },
+      {
+        "month": "May",
+        "details": "Paper on Reliability in NUCA cache accepted at IGCC 2013",
+        "url": "http://cm.wsu.edu/ehome/index.php?eventid=51862"
+      },
+      {
+        "month": "March",
+        "details": "Invited talk at Virgina Tech Center for Embedded Systems for Critical Applications (CESCA)",
+        "url": "http://www.cesca.centers.vt.edu/"
+      },
+      {
+        "month": "February",
+        "details": "Paper on 3D multicore lifetime reliability accepted at DAC 2013",
+        "url": "https://dac.com/index.php"
+      },
+      {
+        "month": "September",
+        "details": "paper on Heterogeneous 3D DRAM accepted at ASP-DAC 2013",
+        "url": "http://www.aspdac.com/aspdac2013/index.html"
+      },
+      {
+        "month": "February",
+        "details": "Paper Accepted at ISCA 2012",
+        "url": "http://ece.gmu.edu/~hhomayou/files/ISCA_Homayoun.pdf"
+      },
+      {
+        "month": "February",
+        "details": "Tutorial on System-Level Exploration of Power, Temperature, and Performance accepted at DAC 2012",
+        "url": "http://ece.gmu.edu/~hhomayou/files/tutorial-dac.pdf"
+      }
+    ]
+  },
+  {
+    "year": "2013",
+    "news": [
+      {
+        "month": "December",
+        "details": "Serving on the TPC of ISLPED 2012",
+        "url": "http://www.islped.org/2012/index.html"
+      },
+      {
+        "month": "December",
+        "details": "Serving on the TPC of 2011 ACM conference of Computing Frontiers",
+        "url": ""
+      },
+      {
+        "month": "December",
+        "details": "Serving on the TPC of 2011 IEEE-ISQED",
+        "url": ""
+      },
+      {
+        "month": "November",
+        "details": "Paper on \"3D Heterogeneous Cores\" Accepted at HPCA 2012",
+        "url": "http://ece.gmu.edu/~hhomayou/files/hpca2012.pdf"
+      },
+      {
+        "month": "November",
+        "details": "Paper on \"Inquisitive Defect Cache\" appeared in TVLSI",
+        "url": ""
+      },
+      {
+        "month": "November",
+        "details": "Paper on \"MZZ-HVS peripherals\" appeared in TVLSI",
+        "url": ""
+      },
+      {
+        "month": "November",
+        "details": "Paper on \"Centralized Power Management\" appeared in TVLSI",
+        "url": ""
+      },
+      {
+        "month": "November",
+        "details": "Paper on \"Hot Peripheral Thermal Management\" Accepted at ISQED 2012",
+        "url": "http://www.isqed.org/"
+      },
+      {
+        "month": "November",
+        "details": "Paper on \"History & Variation Trained Cache\" Accepted at ISQED 2012",
+        "url": "http://www.isqed.org/"
+      },
+      {
+        "month": "November",
+        "details": "Invited talk on \"Flexible Fault-Tolerant Cache Architecture\" at 2011 SOC Conference",
+        "url": "http://www.socconference.com/"
+      },
+      {
+        "month": "November",
+        "details": "Doctoral Dissertation nominated for ACM Dissertation award",
+        "url": "http://awards.acm.org/doctoral_dissertation/"
+      },
+      {
+        "month": "November",
+        "details": "talk on \"multiple sleep modes design\" at Arizona State University",
+        "url": ""
+      },
+      {
+        "month": "November",
+        "details": "Invited talk on \"resource adaptation for power management\" at 2010 SOC Conference",
+        "url": "http://www.socconference.com/"
+      },
+      {
+        "month": "November",
+        "details": "Paper on \"multi copy cache architecture for reliability\" appeared in CASES 2010",
+        "url": ""
+      },
+      {
+        "month": "October",
+        "details": "Serving on the TPC of 2012 IEEE-ISQED",
+        "url": "http://www.isqed.org/"
+      },
+      {
+        "month": "October",
+        "details": "Paper on \"FFT-Cache\" appeared in CASES 2011",
+        "url": ""
+      },
+      {
+        "month": "October",
+        "details": "Paper on \"Reliability-Aware Placement in SRAM-based FPGA\" appeared in CODES-ISSS 2011",
+        "url": ""
+      },
+      {
+        "month": "September",
+        "details": "Serving on the TPC of 2011 IEEE-AICCSA",
+        "url": "http://www.lifl.fr/AICCSA2010/"
+      },
+      {
+        "month": "September",
+        "details": "paper on \"multiple sleep mode design\" accepted in TVLSI",
+        "url": ""
+      }
+    ]
+  }
 ]

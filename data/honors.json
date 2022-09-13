@@ -1,86 +1,177 @@
 [
-    {
-        "name": "Best Paper Award, 26th ACM Great Lakes Symposium on VLSI (GLSVLSI)",
-        "url": "http://www.glsvlsi.org/",
-        "earnings": "",
-        "timespan": "",
-        "extra": ""
-    },
-    {
-        "name": "DARPA Microsystems Technology Office Award",
-        "url": "http://www.darpa.mil/about-us/offices/mto",
-        "earnings": "330K",
-        "timespan": "2015-2017",
-        "extra": ""
-    },
-    {
-        "name": "National Science Foundation Cyber Physical Program Award",
-        "url": "http://www.nsf.gov/awardsearch/showAward?AWD_ID=1329829&HistoricalAwards=false",
-        "earnings": "995K",
-        "timespan": "2013-2018",
-        "extra": ""
-    },
-    {
-        "name": "General Motors Corporation Research Fund",
-        "url": "https://ece.gmu.edu/news/damon-mccoy-and-houman-homayoun-receive-funding-general-motors",
-        "earnings": "261K",
-        "timespan": "2013-2016",
-        "extra": ""
-    },
-    {
-        "name": "National Science Foundation CI Fellow Award",
-        "url": "http://cifellows.org/",
-        "earnings": "280K",
-        "extra": "Funded Project: Inter-core Selective Resource Pooling in a 3D Multicore",
-        "timespan": "2010-2012"
-    },
-    {
-        "name": "ACM Doctoral Dissertation Award Nominee",
-        "url": "http://awards.acm.org/doctoral_dissertation/",
-        "extra": "UC-Irvine School of Information and Computer Science Nominee (2 out of 31 dissertations selected)",
-        "earnings": "",
-        "timespan": "2010"
-    },
-    {
-        "name": "4-Years Chair Fellowship Award, University of California Irvine",
-        "earnings": "160K",
-        "timespan": "2006",
-        "url": "",
-        "extra": ""
-    },
-    {
-        "name": "Outstanding Graduate Student Award, (APSIH)",
-        "url": "http://www.apsih.org/",
-        "timespan": "2010",
-        "earnings": "",
-        "extra": ""
-    },
-    {
-        "name": "First Place, IEEE Orange County and Western Digital Student Design Contest. 8th International System-on-Chip Conference, Exhibit Workshops",
-        "url": "http://www.socconference.com/students.htm",
-        "timespan": "2009",
-        "earnings": "",
-        "extra": ""
-    },
-    {
-        "name": "First Place, IEEE Orange County and Western Digital Student Design Contest. 7th International System-on-Chip Conference, Exhibit Workshops",
-        "url": "http://www.socconference.com/students.htm",
-        "timespan": "2008",
-        "earnings": "",
-        "extra": ""
-    },
-    {
-        "name": "University Scholarship, McMaster University, Canada",
-        "url": "",
-        "timespan": "2006",
-        "earnings": "",
-        "extra": ""
-    },
-    {
-        "name": "NAHAAL Scholarship for Excellence in Education and Research",
-        "url": "",
-        "timespan": "2001",
-        "earnings": "",
-        "extra": ""
-    }
+  {
+    "name": "IEEE Senior Member",
+    "url": "",
+    "earnings": "",
+    "timespan": "2020",
+    "extra": ""
+  },
+  {
+    "name": "NSF Computing Innovation (CI) Fellow Mentor",
+    "url": "",
+    "earnings": "",
+    "timespan": "2020",
+    "extra": ""
+  },
+  {
+    "name": "Best Paper Nominee, IEEE Computer Society Annual Symposium on VLSI (ISVLSI)",
+    "url": "",
+    "earnings": "",
+    "timespan": "2020",
+    "extra": ""
+  },
+  {
+    "name": "Best Paper Award, 14th IEEE Dallas Circuits and Systems (DCAS)",
+    "url": "",
+    "earnings": "",
+    "timespan": "2020",
+    "extra": ""
+  },
+  {
+    "name": "ACM GLSVLSI Service Recognition Award",
+    "url": "",
+    "earnings": "",
+    "timespan": "2020",
+    "extra": ""
+  },
+  {
+    "name": "Core Member, Hardware Assurance Group, Systems Engineering Body of Knowledge (SEBoK)",
+    "url": "",
+    "earnings": "",
+    "timespan": "2020",
+    "extra": ""
+  },
+  {
+    "name": "Best Paper Award, 19th IEEE International Conference on Data Mining (ICDM)",
+    "url": "",
+    "earnings": "",
+    "timespan": "2020",
+    "extra": ""
+  },
+  {
+    "name": "Congress budget appropriation for CHEST Center as part of National Defense Authorization Act",
+    "url": "",
+    "earnings": "",
+    "timespan": "2020",
+    "extra": ""
+  },
+  {
+    "name": "Best Paper Nominee, International Conference on Computer Aided Design (ICCAD)",
+    "url": "",
+    "earnings": "",
+    "timespan": "2019",
+    "extra": ""
+  },
+  {
+    "name": "NSF IUCRC Center Award, Center for HW Security",
+    "url": "",
+    "earnings": "",
+    "timespan": "2019-2024",
+    "extra": ""
+  },
+  {
+    "name": "General Chair, IEEE/ACM 29th ACM Great Lakes Symposium on VLSI",
+    "url": "",
+    "earnings": "",
+    "timespan": "2019",
+    "extra": ""
+  },
+  {
+    "name": "Technical Program Co-Chair, IEEE/ACM 28th ACM Great Lakes Symposium on VLSI",
+    "url": "",
+    "earnings": "",
+    "timespan": "2018",
+    "extra": ""
+  },
+  {
+    "name": "Associate Editor, IEEE Transactions on VLSI",
+    "url": "",
+    "earnings": "",
+    "timespan": "2017-PRESENT",
+    "extra": ""
+  },
+  {
+    "name": "Best Paper Award, 26th ACM Great Lakes Symposium on VLSI (GLSVLSI)",
+    "url": "http://www.glsvlsi.org/",
+    "earnings": "",
+    "timespan": "",
+    "extra": ""
+  },
+  {
+    "name": "DARPA Microsystems Technology Office Award",
+    "url": "http://www.darpa.mil/about-us/offices/mto",
+    "earnings": "330K",
+    "timespan": "2015-2017",
+    "extra": ""
+  },
+  {
+    "name": "National Science Foundation Cyber Physical Program Award",
+    "url": "http://www.nsf.gov/awardsearch/showAward?AWD_ID=1329829&HistoricalAwards=false",
+    "earnings": "995K",
+    "timespan": "2013-2018",
+    "extra": ""
+  },
+  {
+    "name": "General Motors Corporation Research Fund",
+    "url": "https://ece.gmu.edu/news/damon-mccoy-and-houman-homayoun-receive-funding-general-motors",
+    "earnings": "261K",
+    "timespan": "2013-2016",
+    "extra": ""
+  },
+  {
+    "name": "National Science Foundation CI Fellow Award",
+    "url": "http://cifellows.org/",
+    "earnings": "280K",
+    "extra": "Funded Project: Inter-core Selective Resource Pooling in a 3D Multicore",
+    "timespan": "2010-2012"
+  },
+  {
+    "name": "ACM Doctoral Dissertation Award Nominee",
+    "url": "http://awards.acm.org/doctoral_dissertation/",
+    "extra": "UC-Irvine School of Information and Computer Science Nominee (2 out of 31 dissertations selected)",
+    "earnings": "",
+    "timespan": "2010"
+  },
+  {
+    "name": "4-Years Chair Fellowship Award, University of California Irvine",
+    "earnings": "160K",
+    "timespan": "2006",
+    "url": "",
+    "extra": ""
+  },
+  {
+    "name": "Outstanding Graduate Student Award, (APSIH)",
+    "url": "http://www.apsih.org/",
+    "timespan": "2010",
+    "earnings": "",
+    "extra": ""
+  },
+  {
+    "name": "First Place, IEEE Orange County and Western Digital Student Design Contest. 8th International System-on-Chip Conference, Exhibit Workshops",
+    "url": "http://www.socconference.com/students.htm",
+    "timespan": "2009",
+    "earnings": "",
+    "extra": ""
+  },
+  {
+    "name": "First Place, IEEE Orange County and Western Digital Student Design Contest. 7th International System-on-Chip Conference, Exhibit Workshops",
+    "url": "http://www.socconference.com/students.htm",
+    "timespan": "2008",
+    "earnings": "",
+    "extra": ""
+  },
+  {
+    "name": "University Scholarship, McMaster University, Canada",
+    "url": "",
+    "timespan": "2006",
+    "earnings": "",
+    "extra": ""
+  },
+  {
+    "name": "NAHAAL Scholarship for Excellence in Education and Research",
+    "url": "",
+    "timespan": "2001",
+    "earnings": "",
+    "extra": ""
+  }
 ]

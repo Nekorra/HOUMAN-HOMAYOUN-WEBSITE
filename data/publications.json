@@ -220,14 +220,14 @@
       {
         "journal": "IOLTS",
         "title": "SCARF: Detecting Side-Channel Attacks at Real-time using Low-level Hardware Features",
-        "file_name": "",
+        "file_name": "SCARF_Detecting_Side-Channel_Attacks_at_Real-time_using_Low-level_Hardware_Features.pdf",
         "authors": "Han Wang, Hossein Sayadi, Setareh Rafatirad, Avesta Sasan, Houman Homayoun:",
         "details": "26th IEEE International Symposium on On-Line Testing and Robust System Design (IOLTS) 2020: 1-6"
       },
       {
         "journal": "GLSVLSI",
         "title": "On Designing Secure and Robust Scan Chain for Protecting Obfuscated Logic",
-        "file_name": "",
+        "file_name": "2005.04262.pdf",
         "authors": "Hadi Mardani Kamali, Kimia Zamiri Azar, Houman Homayoun, Avesta Sasan:",
         "details": "ACM Great Lakes Symposium on VLSI 2020: 217-222"
       },

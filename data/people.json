@@ -8,19 +8,24 @@
   ],
   "phds": [
     {
+      "name": "Asmita Asmita",
+      "research": "Firmware Security",
+      "img_name": "Asmita.png"
+    },
+    {
       "name": "Hossein Mohammadi Makrani",
       "research": "Memory for Big Data",
       "img_name": "hosein-218x246.jpg"
     },
     {
-      "name": "Ted Winograd",
-      "research": "Hardware Security",
-      "img_name": "ted-230x262.jpg"
-    },
-    {
       "name": "Ashkan Vakil",
       "research": "Hardware Security",
       "img_name": "Ashkan_vakil1.jpg"
+    },
+    {
+      "name": "Ted Winograd",
+      "research": "Hardware Security",
+      "img_name": "ted-230x262.jpg"
     },
     {
       "name": "Han (Jane) Wang",

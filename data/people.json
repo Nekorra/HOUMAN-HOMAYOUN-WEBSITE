@@ -8,6 +8,11 @@
   ],
   "phds": [
     {
+      "name": "Ryan Tsang",
+      "research": "Firmware Security",
+      "img_name": "Ryan.png"
+    },
+    {
       "name": "Chongzhou Fang",
       "research": "Cloud Security, FPGA Security",
       "img_name": "Chongzhou.png"

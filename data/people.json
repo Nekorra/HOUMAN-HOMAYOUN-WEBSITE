@@ -8,6 +8,11 @@
   ],
   "phds": [
     {
+      "name": "Tyler Sheaves",
+      "research": "FPGA Security",
+      "img_name": "Tyler.png"
+    },
+    {
       "name": "Ryan Tsang",
       "research": "Firmware Security",
       "img_name": "Ryan.png"

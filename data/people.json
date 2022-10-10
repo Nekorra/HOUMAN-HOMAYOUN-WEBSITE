@@ -8,6 +8,11 @@
   ],
   "phds": [
     {
+      "name": "Elahe Hosseini",
+      "research": "Machine Learning",
+      "img_name": "Elahe.png"
+    },
+    {
       "name": "Ruijie Fang",
       "research": "Health Device",
       "img_name": "Ruijie.png"

@@ -8,6 +8,16 @@
   ],
   "phds": [
     {
+      "name": "Ruoyu Zhang",
+      "research": "Health Device",
+      "img_name": "Ruoyu.png"
+    },
+    {
+      "name": "Ning Miao",
+      "research": "Mobile Security",
+      "img_name": "Ning.png"
+    },
+    {
       "name": "Tyler Sheaves",
       "research": "FPGA Security",
       "img_name": "Tyler.png"

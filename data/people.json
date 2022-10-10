@@ -8,6 +8,11 @@
   ],
   "phds": [
     {
+      "name": "Ruijie Fang",
+      "research": "Health Device",
+      "img_name": "Ruijie.png"
+    },
+    {
       "name": "Ruoyu Zhang",
       "research": "Health Device",
       "img_name": "Ruoyu.png"

@@ -4,6 +4,13 @@
     "entries": [
       {
         "journal": "DAC",
+        "title": "LOCK&ROLL: deep-learning power side-channel attack mitigation using emerging reconfigurable devices and logic locking",
+        "file_name": "3489517.3530414.pdf",
+        "authors": "Gaurav Kolhe, Tyler Sheaves, Kevin Immanuel Gubbi, Soheil Salehi, Setareh Rafatirad, Sai Manoj PD, Avesta Sasan, Houman Homayoun",
+        "details": ""
+      },
+      {
+        "journal": "DAC",
         "title": "Silicon validation of LUT-based logic-locked IP cores",
         "file_name": "3489517.3530606.pdf",
         "authors": "Gaurav Kolhe, Tyler Sheaves, Kevin Immanuel Gubbi, Tejas Kadale, Setareh Rafatirad, Sai Manoj PD, Avesta Sasan, Hamid Mahmoodi, Houman Homayoun",

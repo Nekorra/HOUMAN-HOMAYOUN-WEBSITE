@@ -3,6 +3,13 @@
     "year": "2022",
     "entries": [
       {
+        "journal": "SVCC",
+        "title": "Security Threats in Cloud Rooted from Machine Learning-Based Resource Provisioning Systems",
+        "file_name": "",
+        "authors": "Hosein Mohammadi Makrani, Hossein Sayadi, Najmeh Nazari, and Houman Homayoun",
+        "details": ""
+      },
+      {
         "journal": "DATE",
         "title": "Stealthy inference attack on DNN via cache-based side-channel attacks",
         "file_name": "Stealthy_Inference_Attack_on_DNN_via_Cache-based_Side-Channel_Attacks.pdf",

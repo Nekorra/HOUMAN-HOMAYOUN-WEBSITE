@@ -120,11 +120,11 @@
     "year": "2021",
     "entries": [
       {
-        "journal": "DAC",
-        "title": "Defense-Aware Code-Reuse based Dynamic Spectre",
-        "file_name": "",
-        "authors": "Abhijitt Dhavlle, Setareh Rafatirad, Houman Homayoun, Saj Manoj PD",
-        "details": "ACM/IEEE 58th Design Automation Conference. (DAC 2021)"
+        "journal": "ICCD",
+        "title": "HosNa: A DPC++ Benchmark Suite for Heterogeneous Architectures",
+        "file_name": "HosNa_A_DPC_Benchmark_Suite_for_Heterogeneous_Architectures.pdf",
+        "authors": "Najmeh Nazari Bavarsad, Hosein Mohammadi Makrani, Hossein Sayadi, Lawrence Landis, Setareh Rafatirad, Houman Homayoun",
+        "details": ""
       },
       {
         "journal": "DAC",

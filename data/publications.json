@@ -121,6 +121,13 @@
     "entries": [
       {
         "journal": "DATE",
+        "title": "Hmd-hardener: Adversarially robust and efficient hardware-assisted runtime malware detection",
+        "file_name": "HMD-Hardener_Adversarially_Robust_and_Efficient_Hardware-Assisted_Runtime_Malware_Detection.pdf",
+        "authors": "Abhijitt Dhavlle, Sanket Shukla, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",
+        "details": "2021 Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+      },
+      {
+        "journal": "DATE",
         "title": "A cognitive sat to sat-hard clause translation-based logic obfuscation",
         "file_name": "A_Cognitive_SAT_to_SAT-Hard_Clause_Translation-based_Logic_Obfuscation.pdf",
         "authors": "Rakibul Hassan, Gaurav Kohle, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",

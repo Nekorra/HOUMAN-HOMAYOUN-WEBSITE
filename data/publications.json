@@ -120,6 +120,13 @@
     "year": "2021",
     "entries": [
       {
+        "journal": "IOLTS",
+        "title": "Adaptive-HMD: Accurate and Cost-Efficient Machine Learning-Driven Malware Detection using Microarchitectural Events",
+        "file_name": "Adaptive-HMD_Accurate_and_Cost-Efficient_Machine_Learning-Driven_Malware_Detection_using_Microarchitectural_Events.pdf",
+        "authors": "Yifeng Gao, Hosein Mohammadi Makrani, Mehrdad Aliasgari, Amin Rezaei, Jessica Lin, Houman Homayoun, Hossein Sayadi",
+        "details": ""
+      },
+      {
         "journal": "SOCC",
         "title": "Power Swapper: Approximate Functional Block Assisted Cryptosystem Security",
         "file_name": "Power_Swapper_Approximate_Functional_Block_Assisted_Cryptosystem_Security.pdf",

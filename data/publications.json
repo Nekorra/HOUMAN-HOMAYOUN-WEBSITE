@@ -120,6 +120,13 @@
     "year": "2021",
     "entries": [
       {
+        "journal": "DATE",
+        "title": "A cognitive sat to sat-hard clause translation-based logic obfuscation",
+        "file_name": "A_Cognitive_SAT_to_SAT-Hard_Clause_Translation-based_Logic_Obfuscation.pdf",
+        "authors": "Rakibul Hassan, Gaurav Kohle, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",
+        "details": "2021 Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+      },
+      {
         "journal": "ICC",
         "title": "Performance-aware Malware Epidemic Confinement in Large-Scale IoT Networks",
         "file_name": "Performance-aware_Malware_Epidemic_Confinement_in_Large-Scale_IoT_Networks.pdf",

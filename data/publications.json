@@ -3,25 +3,18 @@
     "year": "2022",
     "entries": [
       {
-        "journal": "SVCC",
-        "title": "Security Threats in Cloud Rooted from Machine Learning-Based Resource Provisioning Systems",
-        "file_name": "",
-        "authors": "Hosein Mohammadi Makrani, Hossein Sayadi, Najmeh Nazari, and Houman Homayoun",
-        "details": ""
-      },
-      {
         "journal": "DATE",
         "title": "Stealthy inference attack on DNN via cache-based side-channel attacks",
         "file_name": "Stealthy_Inference_Attack_on_DNN_via_Cache-based_Side-Channel_Attacks.pdf",
         "authors": "Han Wang, Syed Mahbub Hafiz, Kartik Patwari, Chen-Nee Chuah, Zubair Shafiq, Houman Homayoun",
-        "details": ""
+        "details": " Design, Automation & Test in Europe Conference & Exhibition 2022 (DATE'22)"
       },
       {
         "journal": "DATE",
         "title": "CR-spectre: defense-aware ROP injected code-reuse based dynamic spectre",
         "file_name": "CR-Spectre_Defense-Aware_ROP_Injected_Code-Reuse_Based_Dynamic_Spectre.pdf",
         "authors": "Abhijitt Dhavlle, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",
-        "details": ""
+        "details": " Design, Automation & Test in Europe Conference & Exhibition 2022 (DATE'22)"
       },
       {
         "journal": "IMIP",
@@ -272,13 +265,6 @@
         "file_name": "ChaoLock_Yet_Another_SAT-hard_Logic_Locking_using_Chaos_Computing.pdf",
         "authors": "Hadi Mardani Kamali, Kimia Zamiri Azar, Houman Homayoun, Avesta Sasan",
         "details": "International Symposium on Quality Electronic Design 387-394, (ISQED 2021)"
-      },
-      {
-        "journal": "ICLRW",
-        "title": "A fast method to fine-tune neural networks for the least energy consumption on fpgas",
-        "file_name": "",
-        "authors": "Morteza Hosseini, Mohammad Ebrahimabadi, Arnab Neelim Mazumder, Houman Homayoun, Tinoosh Mohsenin",
-        "details": "Proceedings of the Hardware Aware Efficient Training workshop of ICLR 2021"
       }
     ]
   },

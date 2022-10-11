@@ -120,6 +120,13 @@
     "year": "2021",
     "entries": [
       {
+        "journal": "SEED",
+        "title": "Cloak & co-locate: adversarial railroading of resource sharing-based attacks on the cloud",
+        "file_name": "Cloak_amp_Co-locate_Adversarial_Railroading_of_Resource_Sharing-based_Attacks_on_the_Cloud.pdf",
+        "authors": "Hosein Mohammadi Makrani, Hossein Sayadi, Najmeh Nazari, Khaled N Khasawneh, Avesta Sasan, Setareh Rafatirad, Houman Homayoun",
+        "details": ""
+      },
+      {
         "journal": "ICCD",
         "title": "HosNa: A DPC++ Benchmark Suite for Heterogeneous Architectures",
         "file_name": "HosNa_A_DPC_Benchmark_Suite_for_Heterogeneous_Architectures.pdf",

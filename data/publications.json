@@ -4,6 +4,13 @@
     "entries": [
       {
         "journal": "DATE",
+        "title": "Stealthy inference attack on DNN via cache-based side-channel attacks",
+        "file_name": "Stealthy_Inference_Attack_on_DNN_via_Cache-based_Side-Channel_Attacks.pdf",
+        "authors": "Han Wang, Syed Mahbub Hafiz, Kartik Patwari, Chen-Nee Chuah, Zubair Shafiq, Houman Homayoun",
+        "details": ""
+      },
+      {
+        "journal": "DATE",
         "title": "CR-spectre: defense-aware ROP injected code-reuse based dynamic spectre",
         "file_name": "CR-Spectre_Defense-Aware_ROP_Injected_Code-Reuse_Based_Dynamic_Spectre.pdf",
         "authors": "Abhijitt Dhavlle, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",

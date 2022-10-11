@@ -3,6 +3,13 @@
     "year": "2022",
     "entries": [
       {
+        "journal": "NDSS",
+        "title": "REPTTACK: Exploiting Cloud Schedulers to Guide Co-Location Attacks",
+        "file_name": "2022-149-paper",
+        "authors": "Fang, Chongzhou, Han Wang, Najmeh Nazari, Behnam Omidi, Avesta Sasan, Khaled N. Khasawneh, Setareh Rafatirad, and Houman Homayoun",
+        "details": "Network and Distributed System Security 2022 (NDSS'22) "
+      },
+      {
         "journal": "DATE",
         "title": "Stealthy inference attack on DNN via cache-based side-channel attacks",
         "file_name": "Stealthy_Inference_Attack_on_DNN_via_Cache-based_Side-Channel_Attacks.pdf",

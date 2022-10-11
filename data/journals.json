@@ -1,5 +1,12 @@
 [
   {
+    "journal": "TVLSI",
+    "title": "Cyclic sparsely connected architectures for compact deep convolutional neural networks",
+    "file_name": "Cyclic_Sparsely_Connected_Architectures_for_Compact_Deep_Convolutional_Neural_Networks.pdf",
+    "authors": "Morteza Hosseini, Nitheesh Kumar Manjunath, Bharat Prakash, Arnab Mazumder, Vandana Chandrareddy, Houman Homayoun, Tinoosh Mohsenin",
+    "details": ""
+  },
+  {
     "journal": "Cryptography",
     "title": "Towards accurate run-time hardware-assisted stealthy malware detection: a lightweight, yet effective time series CNN-based approach",
     "file_name": "cryptography-05-00028-v3.pdf",

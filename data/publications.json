@@ -4,9 +4,16 @@
     "entries": [
       {
         "journal": "NDSS",
+        "title": "FANDEMIC: Firmware Attack Construction and Deployment on Power Management Integrated Circuit and Impacts on IoT Applications",
+        "file_name": "2022-349-paper.pdf",
+        "authors": "Ryan Tsang, Doreen Joseph, Asmita, Soheil Salehi, Nadir Carreon, Prasant Mohapatra, and Houman Homayoun",
+        "details": "Network and Distributed System Security 2022 (NDSS'22) "
+      },
+      {
+        "journal": "NDSS",
         "title": "REPTTACK: Exploiting Cloud Schedulers to Guide Co-Location Attacks",
-        "file_name": "2022-149-paper",
-        "authors": "Fang, Chongzhou, Han Wang, Najmeh Nazari, Behnam Omidi, Avesta Sasan, Khaled N. Khasawneh, Setareh Rafatirad, and Houman Homayoun",
+        "file_name": "2022-149-paper.pdf",
+        "authors": "Chongzhou Fang, Han Wang, Najmeh Nazari, Behnam Omidi, Avesta Sasan, Khaled N. Khasawneh, Setareh Rafatirad, and Houman Homayoun",
         "details": "Network and Distributed System Security 2022 (NDSS'22) "
       },
       {

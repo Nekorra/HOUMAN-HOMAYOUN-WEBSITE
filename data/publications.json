@@ -3,6 +3,13 @@
     "year": "2022",
     "entries": [
       {
+        "journal": "DAC",
+        "title": "Silicon validation of LUT-based logic-locked IP cores",
+        "file_name": "3489517.3530606.pdf",
+        "authors": "Gaurav Kolhe, Tyler Sheaves, Kevin Immanuel Gubbi, Tejas Kadale, Setareh Rafatirad, Sai Manoj PD, Avesta Sasan, Hamid Mahmoodi, Houman Homayoun",
+        "details": ""
+      },
+      {
         "journal": "EMBC",
         "title": "ATLAS: An Adaptive Transfer Learning Based Pain Assessment System: A Real Life Unsupervised Pain Assessment Solution",
         "file_name": "ATLAS_An_Adaptive_Transfer_Learning_Based_Pain_Assessment_System_A_Real_Life_Unsupervised_Pain_Assessment_Solution.pdf",

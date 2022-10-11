@@ -1,5 +1,12 @@
 [
   {
+    "journal": "TOMPECS",
+    "title": "Adaptive performance modeling of data-intensive workloads for resource provisioning in virtualized environment",
+    "file_name": "3442696.pdf",
+    "authors": "Hosein Mohamamdi Makrani, Hossein Sayadi, Najmeh Nazari, Sai Mnoj Pudukotai Dinakarrao, Avesta Sasan, Tinoosh Mohsenin, Setareh Rafatirad, Houman Homayoun",
+    "details": "ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), Vol. 5, No. 4, 1-24."
+  },
+  {
     "journal": "TCAD",
     "title": "Imitating functional operations for mitigating side-channel leakage",
     "file_name": "Imitating_Functional_Operations_for_Mitigating_Side-Channel_Leakage.pdf",

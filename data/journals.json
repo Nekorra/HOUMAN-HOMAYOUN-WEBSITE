@@ -1,5 +1,12 @@
 [
   {
+    "journal": "TCAD",
+    "title": "Imitating functional operations for mitigating side-channel leakage",
+    "file_name": "Imitating_Functional_Operations_for_Mitigating_Side-Channel_Leakage.pdf",
+    "authors": "Abhijitt Dhavlle, Setareh Rafatirad, Khaled Khasawneh, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",
+    "details": "al IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 41, No. 4"
+  },
+  {
     "journal": "TVLSI",
     "title": "Cyclic sparsely connected architectures for compact deep convolutional neural networks",
     "file_name": "Cyclic_Sparsely_Connected_Architectures_for_Compact_Deep_Convolutional_Neural_Networks.pdf",

@@ -3,6 +3,13 @@
     "year": "2022",
     "entries": [
       {
+        "journal": "GLSVLSI",
+        "title": "CAD-FSL: Code-Aware Data Generation based Few-Shot Learning for Efficient Malware Detection",
+        "file_name": "3526241.3530825.pdf",
+        "authors": "Sreenitha Kasarapu, Sanket Shukla, Rakibul Hassan, Avesta Sasan, Houman Homayoun, Sai Manoj PD",
+        "details": ""
+      },
+      {
         "journal": "Euro S&P",
         "title": "DNN Model Architecture Fingerprinting Attack on CPU-GPU Edge Devices",
         "file_name": "DNN_Model_Architecture_Fingerprinting_Attack_on_CPU-GPU_Edge_Devices.pdf",

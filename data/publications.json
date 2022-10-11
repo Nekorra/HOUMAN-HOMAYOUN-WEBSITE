@@ -120,6 +120,13 @@
     "year": "2021",
     "entries": [
       {
+        "journal": "SOCC",
+        "title": "Power Swapper: Approximate Functional Block Assisted Cryptosystem Security",
+        "file_name": "Power_Swapper_Approximate_Functional_Block_Assisted_Cryptosystem_Security.pdf",
+        "authors": "Abhijitt Dhavlle, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",
+        "details": ""
+      },
+      {
         "journal": "SEED",
         "title": "Cloak & co-locate: adversarial railroading of resource sharing-based attacks on the cloud",
         "file_name": "Cloak_amp_Co-locate_Adversarial_Railroading_of_Resource_Sharing-based_Attacks_on_the_Cloud.pdf",

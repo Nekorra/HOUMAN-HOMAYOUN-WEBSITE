@@ -3,6 +3,13 @@
     "year": "2022",
     "entries": [
       {
+        "journal": "Euro S&P",
+        "title": "DNN Model Architecture Fingerprinting Attack on CPU-GPU Edge Devices",
+        "file_name": "DNN_Model_Architecture_Fingerprinting_Attack_on_CPU-GPU_Edge_Devices.pdf",
+        "authors": "Kartik Patwari, Syed Mahbub Hafiz, Han Wang, Houman Homayoun, Zubair Shafiq, Chen-Nee Chuah",
+        "details": ""
+      },
+      {
         "journal": "NEWCAS",
         "title": "Neuromorphic-Enabled Security for IoT",
         "file_name": "Neuromorphic-Enabled_Security_for_IoT.pdf",

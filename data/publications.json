@@ -120,6 +120,13 @@
     "year": "2021",
     "entries": [
       {
+        "journal": "ICSC",
+        "title": "Ontology-driven framework for trend analysis of vulnerabilities and impacts in IOT hardware",
+        "file_name": "Ontology-Driven_Framework_for_Trend_Analysis_of_Vulnerabilities_and_Impacts_in_IoT_Hardware.pdf",
+        "authors": "Charan Bandi, Soheil Salehi, Rakibul Hassan, Sai Manoj PD, Houman Homayoun, Setareh Rafatirad",
+        "details": "2021 IEEE 15th International Conference on Semantic Computing (ICSC)"
+      },
+      {
         "journal": "DATE",
         "title": "Hmd-hardener: Adversarially robust and efficient hardware-assisted runtime malware detection",
         "file_name": "HMD-Hardener_Adversarially_Robust_and_Efficient_Hardware-Assisted_Runtime_Malware_Detection.pdf",

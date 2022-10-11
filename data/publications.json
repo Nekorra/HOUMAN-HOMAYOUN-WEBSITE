@@ -120,6 +120,13 @@
     "year": "2021",
     "entries": [
       {
+        "journal": "HAET",
+        "title": "A fast method to fine-tune neural networks for the least energy consumption on FPGAs",
+        "file_name": "A_fast_method.pdf",
+        "authors": "Morteza Hosseini, Mohammad Ebrahimabadi, Arnab Neelim Mazumder, Houman Homayoun, Tinoosh Mohsenin",
+        "details": "HAET Workshop of ICLR 2021"
+      },
+      {
         "journal": "ICSC",
         "title": "Ontology-driven framework for trend analysis of vulnerabilities and impacts in IOT hardware",
         "file_name": "Ontology-Driven_Framework_for_Trend_Analysis_of_Vulnerabilities_and_Impacts_in_IoT_Hardware.pdf",

@@ -3,6 +3,13 @@
     "year": "2022",
     "entries": [
       {
+        "journal": "DATE",
+        "title": "CR-spectre: defense-aware ROP injected code-reuse based dynamic spectre",
+        "file_name": "CR-Spectre_Defense-Aware_ROP_Injected_Code-Reuse_Based_Dynamic_Spectre.pdf",
+        "authors": "Abhijitt Dhavlle, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",
+        "details": ""
+      },
+      {
         "journal": "IMIP",
         "title": "Pain Level Modeling of Intensive Care Unit patients with Machine Learning Methods: An Effective Congeneric Clustering-based Approach",
         "file_name": "3524086.3524100.pdf",

@@ -120,6 +120,13 @@
     "year": "2021",
     "entries": [
       {
+        "journal": "ICC",
+        "title": "Performance-aware Malware Epidemic Confinement in Large-Scale IoT Networks",
+        "file_name": "Performance-aware_Malware_Epidemic_Confinement_in_Large-Scale_IoT_Networks.pdf",
+        "authors": "s Rakibul Hassan, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao",
+        "details": "ICC 2021-IEEE International Conference on Communications"
+      },
+      {
         "journal": "IOLTS",
         "title": "Adaptive-HMD: Accurate and Cost-Efficient Machine Learning-Driven Malware Detection using Microarchitectural Events",
         "file_name": "Adaptive-HMD_Accurate_and_Cost-Efficient_Machine_Learning-Driven_Malware_Detection_using_Microarchitectural_Events.pdf",

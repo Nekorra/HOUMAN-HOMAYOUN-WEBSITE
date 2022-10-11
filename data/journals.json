@@ -1,5 +1,12 @@
 [
   {
+    "journal": "Cryptography",
+    "title": "Towards accurate run-time hardware-assisted stealthy malware detection: a lightweight, yet effective time series CNN-based approach",
+    "file_name": "cryptography-05-00028-v3.pdf",
+    "authors": "Hossein Sayadi, Yifeng Gao, Hosein Mohammadi Makrani, Jessica Lin, Paulo Cesar Costa, Setareh Rafatirad, Houman Homayoun",
+    "details": ""
+  },
+  {
     "journal": "JETCAS",
     "title": "Enabling Micro AI for Securing Edge Devices at Hardware Level",
     "file_name": "Enabling_Micro_AI_for_Securing_Edge_Devices_at_Hardware_Level.pdf",

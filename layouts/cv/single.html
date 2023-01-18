@@ -37,19 +37,21 @@
             </h1>
             <br>
             <center>
-                <header class="heading" style="color: #666666;"> 
-                    List of Collaborators and Sponsors of My Research
-                </header>
             </center>
             
             <div id="mygallery">
-                {{ $url := "/images/" }}
-                {{ $site := site }}
-                {{ range (readDir "/static/images/") }}
-                    <a class="nlb" data-lightbox-gallery="gallery1">
-                        <img class="borderedbox" src="{{$site.BaseURL}}/{{$url}}{{.Name}}">
-                    </a>
-                {{ end }}
+                <div>
+                    <ul style="list-style: none;">
+                        <li>➢ Expert Witness, Code Review, Quandarypeak and LTL Attorneys, 2022-2023</li>
+                        <li>➢ Expert Witness, Shore Chan Depumpo, 2018-2020 (more than 20 hours of testimony litigation)</li>
+                        <li>➢ Expert Witness, Janik Vinnakota LLP, 2019-2020, (Preparing 8 IPRs)</li>
+                        <li>➢ Technology Consultant, Netlist Inc., 2014-2015</li>
+                        <li>➢ Expert Witness, McAndrews, Held & Malloy, 2014-2015</li>
+                        <li>➢ Expert Witness, Bartko Zankel Bunzel, 2014-2015</li>
+                        <li>➢ Technology Consultant, Gerchen Keller Capital, LLC, 2014-2015</li>
+                    </ul>
+
+                </div>
             </div>
             
             <div class="clear"></div>

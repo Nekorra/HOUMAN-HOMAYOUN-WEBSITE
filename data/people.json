@@ -10,47 +10,47 @@
     {
       "name": "Elahe Hosseini",
       "research": "Machine Learning",
-      "img_name": "Elahe.png"
+      "img_name": "elahe.png"
     },
     {
       "name": "Ruijie Fang",
       "research": "Health Device",
-      "img_name": "Ruijie.png"
+      "img_name": "ruijie.png"
     },
     {
       "name": "Ruoyu Zhang",
       "research": "Health Device",
-      "img_name": "Ruoyu.png"
+      "img_name": "ruoyu.png"
     },
     {
       "name": "Ning Miao",
       "research": "Mobile Security",
-      "img_name": "Ning.png"
+      "img_name": "ning.png"
     },
     {
       "name": "Tyler Sheaves",
       "research": "FPGA Security",
-      "img_name": "Tyler.png"
+      "img_name": "tyler.png"
     },
     {
       "name": "Ryan Tsang",
       "research": "Firmware Security",
-      "img_name": "Ryan.png"
+      "img_name": "ryan.png"
     },
     {
       "name": "Chongzhou Fang",
       "research": "Cloud Security, FPGA Security",
-      "img_name": "Chongzhou.png"
+      "img_name": "chongzhou.png"
     },
     {
       "name": "Kevin Immanuel Gubbi",
       "research": "ASIC Security",
-      "img_name": "Kevin.png"
+      "img_name": "kevin.png"
     },
     {
       "name": "Asmita Asmita",
       "research": "Firmware Security",
-      "img_name": "Asmita.png"
+      "img_name": "asmita.png"
     }
   ],
   "masters": [

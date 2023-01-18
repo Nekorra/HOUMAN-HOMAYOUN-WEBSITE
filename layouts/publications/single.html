@@ -55,7 +55,7 @@
                         <td>
                             <strong>(</strong><strong>{{ sub $n $i }}</strong><strong>)</strong>
                         </td>
-                        <td>“<a href="{{$site.BaseURL}}/files/{{ $journal.file_name }}" target="blank">{{ $journal.title }}</a>”.<br>
+                        <td>“<a href="{{$site.BaseURL}}images/{{ $journal.file_name }}" target="blank">{{ $journal.title }}</a>”.<br>
                         {{ $journal.authors }}. <br>
                         {{ $journal.details }}. </td>
                     </tr>
@@ -89,7 +89,7 @@
                                 {{ if eq .file_name "" }}
                                     "{{ .title }}".
                                 {{ else }}
-                                    <a href="{{$site.BaseURL}}/files/{{ .file_name }}" target="blank">"{{ .title }}".</a>
+                                    <a href="{{$site.BaseURL}}images/{{ .file_name }}" target="blank">"{{ .title }}".</a>
                                 {{ end }}
                                 <br>
                                 {{ .authors }}.

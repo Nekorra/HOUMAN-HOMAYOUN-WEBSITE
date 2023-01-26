@@ -102,16 +102,22 @@
   ],
   "phd_alumni": [
     {
-      "name": "Hosein Makrani",
+      "name": "Han Wang",
       "thesis": "",
-      "job": "Apple",
-      "img_name": "Hosein.jpg"
+      "job": "Assistant Professor, Temple University",
+      "img_name": "Han.jpg"
     },
     {
       "name": "Gaurav Kolhe",
       "thesis": "",
       "job": "Microsoft Research",
       "img_name": "Gaurav.jpg"
+    },
+    {
+      "name": "Hosein Makrani",
+      "thesis": "",
+      "job": "Apple",
+      "img_name": "Hosein.jpg"
     },
     {
       "name": "Maria Malik",

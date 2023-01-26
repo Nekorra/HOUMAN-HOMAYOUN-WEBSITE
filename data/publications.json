@@ -4,6 +4,13 @@
     "entries": [
       {
         "journal": "ICCD",
+        "title": "Breakthrough to Adaptive and Cost-Aware Hardware-Assisted Zero-Day Malware Detection: A Reinforcement Learning-Based Approach",
+        "file_name": "ICCD22-2",
+        "authors": "Zhangying He, Hosein Mohammadi Makrani, Setareh Rafatirad, Houman Homayoun, Hossein Sayadi",
+        "details": ""
+      },
+      {
+        "journal": "ICCD",
         "title": "Iron-Dome: Securing IoT Networked Systems at Runtime by Network and Device Characteristics to Confine Malware Epidemics",
         "file_name": "ICCD22-1",
         "authors": "Sanket Shukla, Abhijitt Dhavlle, Sai Manoj PD, Houman Homayoun, Setareh Rafatirad",

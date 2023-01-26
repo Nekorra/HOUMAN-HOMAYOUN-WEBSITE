@@ -85,14 +85,14 @@
   ],
   "post_doc_alumni": [
     {
-      "name": "Nadir Amin Carreon Rascon",
-      "job": "Amazon",
-      "img_name": ""
-    },
-    {
       "name": "Soheil Salehi",
       "job": "Assistant professor, University of Arizona",
       "img_name": "Soheil.jpg"
+    },
+    {
+      "name": "Nadir Amin Carreon Rascon",
+      "job": "Amazon",
+      "img_name": ""
     },
     {
       "name": "Sai Manoj Pudukotai DinakarRao",
@@ -101,6 +101,12 @@
     }
   ],
   "phd_alumni": [
+    {
+      "name": "Gaurav Kolhe",
+      "thesis": "",
+      "job": "Microsoft Research",
+      "img_name": "Gaurav.jpg"
+    },
     {
       "name": "Maria Malik",
       "thesis": "Characterization of Computing Intensive Biomedical Application and Big Data Benchmarking.",

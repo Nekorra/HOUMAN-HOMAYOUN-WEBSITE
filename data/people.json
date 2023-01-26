@@ -102,6 +102,12 @@
   ],
   "phd_alumni": [
     {
+      "name": "Hosein Makrani",
+      "thesis": "",
+      "job": "Apple",
+      "img_name": "Hosein.jpg"
+    },
+    {
       "name": "Gaurav Kolhe",
       "thesis": "",
       "job": "Microsoft Research",

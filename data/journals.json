@@ -1,5 +1,12 @@
 [
   {
+    "journal": "TECS",
+    "title": "Hardware Trojan Detection Using Machine Learning: A Tutorial",
+    "file_name": "TECS22.pdf",
+    "authors": "Kevin Immanuel Gubbi, Banafsheh Saber Latibari, Anirudh Srikanth, Tyler Sheaves, Sayed Arash Beheshti-Shirazi, Sai Manoj Pd, Satareh Rafatirad, Avesta Sasan, Houman Homayoun, Soheil Salehi",
+    "details": ""
+  },
+  {
     "journal": "TOMPECS",
     "title": "Adaptive performance modeling of data-intensive workloads for resource provisioning in virtualized environment",
     "file_name": "3442696.pdf",

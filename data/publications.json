@@ -4,6 +4,13 @@
     "entries": [
       {
         "journal": "BIBM",
+        "title": "Prevent Over-fitting and Redundancy in Physiological Signal Analyses for Stress Detection",
+        "file_name": "BIBM22-3",
+        "authors": "Ruijie Fang, Ruoyu Zhang, Elahe Hosseini, Anna M Parenteau, Sally Hang, Setareh Rafatirad, Camelia E Hostinar, Mahdi Orooji, Houman Homayoun",
+        "details": ""
+      },
+      {
+        "journal": "BIBM",
         "title": "A Low Cost EDA-based Stress Detection Using Machine Learning",
         "file_name": "BIBM22-2",
         "authors": "Elahe Hosseini, Ruijie Fang, Ruoyu Zhang, Anna Parenteau, Sally Hang, Setareh Rafatirad, Camelia Hostinar, Mahdi Orooji, Houman Homayoun",

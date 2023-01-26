@@ -15,13 +15,6 @@
     "year": "2022",
     "entries": [
       {
-        "journal": "GLVLSI",
-        "title": "Deep Neural Network and Transfer Learning for Accurate Hardware-Based Zero-Day Malware Detection",
-        "file_name": "GLVLSI22-1.pdf",
-        "authors": "Zhangying He, Amin Rezaei, Houman Homayoun, Hossein Sayadi",
-        "details": ""
-      },
-      {
         "journal": "ICRERA",
         "title": "Machine Learning based Malware Detection for Secure Smart Grids",
         "file_name": "ICRERA22.pdf",
@@ -104,13 +97,6 @@
         "file_name": "Adaptive-Gravity_A_Defense_Against_Adversarial_Samples.pdf",
         "authors": "Ali Mirzaeian, Zhi Tian, Sai Manoj PD, Banafsheh S Latibari, Ioannis Savidis, Houman Homayoun, Avesta Sasan",
         "details": "2022 23rd International Symposium on Quality Electronic Design (ISQED'22)"
-      },
-      {
-        "journal": "GLVLSI",
-        "title": "RAPTA: A Hierarchical Representation Learning Solution For Real-Time Prediction of Path-Based Static Timing Analysis",
-        "file_name": "rapta.pdf",
-        "authors": "Tanmoy Chowdhury, Ashkan Vakil, Banafsheh Saber Latibari, Seyed Aresh Beheshti Shirazi, Ali Mirzaeian, Xiaojie Guo, Sai Manoj PD, Houman Homayoun, Ioannis Savidis, Liang Zhao, Avesta Sasan",
-        "details": ""
       },
       {
         "journal": "GLSVLSI",

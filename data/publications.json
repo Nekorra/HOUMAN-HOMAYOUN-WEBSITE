@@ -1,7 +1,15 @@
 [
   {
     "year": "2023",
-    "entries": ""
+    "entries": [
+      {
+        "journal": "NDSS",
+        "title": "HeteroScore: Evaluating and Mitigating Cloud Security Threats Brought by Heterogeneity",
+        "file_name": "",
+        "authors": "Chongzhou Fang, Najmeh Nazari, Behnam Omidi, Han Wang, Aditya Puri, Manish Arora, Setareh Rafatirad, Houman Homayoun and Khaled N. Khasawneh",
+        "details": ""
+      }
+    ]
   },
   {
     "year": "2022",

@@ -15,6 +15,13 @@
     "year": "2022",
     "entries": [
       {
+        "journal": "GLVLSI",
+        "title": "RAPTA: A Hierarchical Representation Learning Solution For Real-Time Prediction of Path-Based Static Timing Analysis",
+        "file_name": "rapta.pdf",
+        "authors": "Tanmoy Chowdhury, Ashkan Vakil, Banafsheh Saber Latibari, Seyed Aresh Beheshti Shirazi, Ali Mirzaeian, Xiaojie Guo, Sai Manoj PD, Houman Homayoun, Ioannis Savidis, Liang Zhao, Avesta Sasan",
+        "details": ""
+      },
+      {
         "journal": "ICRERA",
         "title": "Machine Learning based Malware Detection for Secure Smart Grids",
         "file_name": "ICRERA22.pdf",

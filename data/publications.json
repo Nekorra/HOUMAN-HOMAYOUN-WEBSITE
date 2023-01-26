@@ -3,6 +3,13 @@
     "year": "2022",
     "entries": [
       {
+        "journal": "ICCD",
+        "title": "Iron-Dome: Securing IoT Networked Systems at Runtime by Network and Device Characteristics to Confine Malware Epidemics",
+        "file_name": "ICCD22-1",
+        "authors": "Sanket Shukla, Abhijitt Dhavlle, Sai Manoj PD, Houman Homayoun, Setareh Rafatirad",
+        "details": ""
+      },
+      {
         "journal": "BIBM",
         "title": "Prevent Over-fitting and Redundancy in Physiological Signal Analyses for Stress Detection",
         "file_name": "BIBM22-3",

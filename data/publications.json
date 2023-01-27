@@ -15,27 +15,6 @@
     "year": "2022",
     "entries": [
       {
-        "journal": "ICRERA",
-        "title": "Machine Learning based Malware Detection for Secure Smart Grids",
-        "file_name": "ICRERA22.pdf",
-        "authors": "Kevin Immanuel Gubbi, Han Wang, Hossein Sayadi, Houman Homayoun",
-        "details": ""
-      },
-      {
-        "journal": "ICCD",
-        "title": "Breakthrough to Adaptive and Cost-Aware Hardware-Assisted Zero-Day Malware Detection: A Reinforcement Learning-Based Approach",
-        "file_name": "ICCD22-2.pdf",
-        "authors": "Zhangying He, Hosein Mohammadi Makrani, Setareh Rafatirad, Houman Homayoun, Hossein Sayadi",
-        "details": ""
-      },
-      {
-        "journal": "ICCD",
-        "title": "Iron-Dome: Securing IoT Networked Systems at Runtime by Network and Device Characteristics to Confine Malware Epidemics",
-        "file_name": "ICCD22-1.pdf",
-        "authors": "Sanket Shukla, Abhijitt Dhavlle, Sai Manoj PD, Houman Homayoun, Setareh Rafatirad",
-        "details": ""
-      },
-      {
         "journal": "BIBM",
         "title": "Prevent Over-fitting and Redundancy in Physiological Signal Analyses for Stress Detection",
         "file_name": "BIBM22-3.pdf",
@@ -54,6 +33,27 @@
         "title": "Towards Generalized ML Model in Automated Physiological Arousal Computing: A Transfer Learning-Based Domain Generalization Approach",
         "file_name": "BIBM22-1.pdf",
         "authors": "Ruijie Fang, Ruoyu Zhang, Elahe Hosseini, Anna M Parenteau, Sally Hang, Setareh Rafatirad, Camelia E Hostinar, Mahdi Orooji, Houman Homayoun",
+        "details": ""
+      },
+      {
+        "journal": "ICRERA",
+        "title": "Machine Learning based Malware Detection for Secure Smart Grids",
+        "file_name": "ICRERA22.pdf",
+        "authors": "Kevin Immanuel Gubbi, Han Wang, Hossein Sayadi, Houman Homayoun",
+        "details": ""
+      },
+      {
+        "journal": "ICCD",
+        "title": "Breakthrough to Adaptive and Cost-Aware Hardware-Assisted Zero-Day Malware Detection: A Reinforcement Learning-Based Approach",
+        "file_name": "ICCD22-2.pdf",
+        "authors": "Zhangying He, Hosein Mohammadi Makrani, Setareh Rafatirad, Houman Homayoun, Hossein Sayadi",
+        "details": ""
+      },
+      {
+        "journal": "ICCD",
+        "title": "Iron-Dome: Securing IoT Networked Systems at Runtime by Network and Device Characteristics to Confine Malware Epidemics",
+        "file_name": "ICCD22-1.pdf",
+        "authors": "Sanket Shukla, Abhijitt Dhavlle, Sai Manoj PD, Houman Homayoun, Setareh Rafatirad",
         "details": ""
       },
       {

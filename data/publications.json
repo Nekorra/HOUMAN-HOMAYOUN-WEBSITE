@@ -3,6 +3,13 @@
     "year": "2023",
     "entries": [
       {
+        "journal": "CHASE",
+        "title": "Real-Time Bladder Monitoring by Bio-Impedance Analysis to Aid Urinary Incontinence",
+        "file_name": "",
+        "authors": "Ruoyu Zhang, Ruijie Fang, Zhichao Zhang, Elahe Hosseini, Mahdi Orooji, Houman Homayoun, Gozde Goncu-Berk",
+        "details": ""
+      },
+      {
         "journal": "NDSS",
         "title": "HeteroScore: Evaluating and Mitigating Cloud Security Threats Brought by Heterogeneity",
         "file_name": "",
